@@ -4,15 +4,11 @@ Medical Visual Question Answering (Med-VQA) generates answers from medical image
 
 # Review
 [1] **Task-Specific Models vs. Large Vision-Language Models in medical visual question answering: A Survey**
-
 	     Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [Honghao Gao](https://scholar.google.com/citations?user=PiiIpJIAAAAJ&amp;amp;hl=zh-CN)
-
 		 Expert Systems with Applications [2026-03-12] [[DOI](https://doi.org/10.1016/j.eswa.2026.132008)]
 
-[2] **From visual question answering to intelligent AI agents in ophthalmology**
-	     
+[2] **From visual question answering to intelligent AI agents in ophthalmology**    
 		 Xiaolan Chen, Ruoyu Chen, Pusheng Xu, Xiaojie Wan, Weiyi Zhang, Bingjie Yan, Xianwen Shang, Mingguang He, Danli Shi
-	     
 		 British Journal of Ophthalmology [2026-01-01] [[DOI](https://doi.org/10.1136/bjo-2024-326097)]
 
 [3] **Generative Models in Medical Visual Question Answering: A Survey**
