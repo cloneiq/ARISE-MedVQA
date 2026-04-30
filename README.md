@@ -46,3 +46,5 @@ Medical Visual Question Answering (Med-VQA) generates answers from medical image
 [11] **Visual question answering in the medical domain based on deep learning approaches: A comprehensive study**<br>
 	       Aisha Al-Sadi, Mahmoud Al-Ayyoub, Yaser Jararweh, Fumie Costen<br>
 	       Pattern Recognition Letters [2021-10] [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/195767002/mahmoud1.pdf)] [[DOI](https://doi.org/10.1016/j.patrec.2021.07.002)]
+
+**Related papers are being continuously updated...**
