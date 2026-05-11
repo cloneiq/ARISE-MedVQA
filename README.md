@@ -2,7 +2,7 @@
 **From Passive Answering to Active Inquiry: A Review of Medical Visual Question Answering Toward ARISE-MedVQA**
 Medical Visual Question Answering (Med-VQA) generates answers from medical images, connecting image understanding, language interaction, and clinical decision support. While Med-VQA has evolved to handle more complex multimodal tasks, current methods assume well-posed questions and sufficient evidence, neglecting the ongoing, dynamic nature of real clinical diagnosis, which requires active verification and incremental evidence gathering. This paper identifies the misalignment between Med-VQA’s  answering paradigm and the real-world evidence-based closed-loop process. We review Med-VQA’s progress, highlighting key challenges in answerability modeling, evidence gap identification, and stable updates. We propose a shift towards risk-aware, evidence-based diagnostic interaction, structured around a closed-loop framework of answerability, evidence gap identification, and multimodal evidence fusion. Finally, we outline a research agenda focused on data, evaluation, methods, safety, and application, emphasizing that the future of Med-VQA should focus on "when to answer, when to ask, and how to update diagnoses," advancing toward interactive intelligence for real diagnostic processes.
 
-# Review
+# Reviews
 [1] **Task-Specific Models vs. Large Vision-Language Models in medical visual question answering: A Survey**<br>
 	     Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [Honghao Gao](https://scholar.google.com/citations?user=PiiIpJIAAAAJ&amp;amp;hl=zh-CN) <br>
 		 Expert Systems with Applications [2026-03-12] [[DOI](https://doi.org/10.1016/j.eswa.2026.132008)]
@@ -46,5 +46,38 @@ Medical Visual Question Answering (Med-VQA) generates answers from medical image
 [11] **Visual question answering in the medical domain based on deep learning approaches: A comprehensive study**<br>
 	       Aisha Al-Sadi, Mahmoud Al-Ayyoub, Yaser Jararweh, Fumie Costen<br>
 	       Pattern Recognition Letters [2021-10] [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/195767002/mahmoud1.pdf)] [[DOI](https://doi.org/10.1016/j.patrec.2021.07.002)]
+
+# Datasets (Open Access)
+
+## Early Medical Visual Question Answering Datasets
+
+[1] **VQA-RAD**, A dataset of clinically generated visual questions and answers about radiology images
+J. J. Lau, et al.
+Scientific Data [2018]
+
+[2] **VQA-Med 2019**, VQA-MED: Overview of the medical visual question answering task at ImageCLEF 2019
+A. B. Abacha, et al.
+CLEF Working Notes [2019]
+
+[3] **VQA-Med 2020**, Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain
+A. B. Abacha, et al.
+CLEF Working Notes [2020]
+
+[4] **SLAKE**, Slake: A semantically-labeled knowledge-enhanced dataset for medical visual question answering
+B. Liu, et al.
+IEEE International Symposium on Biomedical Imaging, ISBI [2021]
+
+[5] **PathVQA**, Towards visual question answering on pathology images
+X. He, et al.
+ACL-IJCNLP [2021]
+
+[6] **OVQA**, OVQA: A clinically generated visual question answering dataset
+Y. Huang, et al.
+Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval [2022]
+
+[7] **P-VQA**, Medical knowledge-based network for patient-oriented visual question answering
+J. Huang, et al.
+Information Processing & Management [2023]
+
 
 **Related papers are being continuously updated...**
