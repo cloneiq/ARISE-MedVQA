@@ -2,7 +2,7 @@
 **From Passive Answering to Active Inquiry: A Review of Medical Visual Question Answering Toward ARISE-MedVQA**
 Medical Visual Question Answering (Med-VQA) generates answers from medical images, connecting image understanding, language interaction, and clinical decision support. While Med-VQA has evolved to handle more complex multimodal tasks, current methods assume well-posed questions and sufficient evidence, neglecting the ongoing, dynamic nature of real clinical diagnosis, which requires active verification and incremental evidence gathering. This paper identifies the misalignment between Med-VQA’s  answering paradigm and the real-world evidence-based closed-loop process. We review Med-VQA’s progress, highlighting key challenges in answerability modeling, evidence gap identification, and stable updates. We propose a shift towards risk-aware, evidence-based diagnostic interaction, structured around a closed-loop framework of answerability, evidence gap identification, and multimodal evidence fusion. Finally, we outline a research agenda focused on data, evaluation, methods, safety, and application, emphasizing that the future of Med-VQA should focus on "when to answer, when to ask, and how to update diagnoses," advancing toward interactive intelligence for real diagnostic processes.
 
-# Reviews
+# Survey
 [1] **Task-Specific Models vs. Large Vision-Language Models in medical visual question answering: A Survey**<br>
 	     Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [Honghao Gao](https://scholar.google.com/citations?user=PiiIpJIAAAAJ&amp;amp;hl=zh-CN) <br>
 		 Expert Systems with Applications [2026-03-12] [[DOI](https://doi.org/10.1016/j.eswa.2026.132008)]
