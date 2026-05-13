@@ -1,12 +1,11 @@
 # Overview
-**ARISE-MedVQA** is a GitHub project for surveying and organizing research resources in Medical Visual Question Answering (Med-VQA). It aims to provide a structured overview of representative datasets, methods, evaluation settings, and future research directions in this field. The project is centered on the idea of moving **from passive answering to active inquiry**. Current Med-VQA studies often assume that the question is already well-posed and that the available image evidence is sufficient for answering, so the main focus remains on answer prediction accuracy. In real clinical diagnosis, however, evidence is often incomplete, uncertain, or evolving, and the diagnostic process requires active evidence seeking, risk assessment, continuous updating, and closed-loop decision-making. Based on this observation, ARISE-MedVQA advocates a shift from single-turn, static, answer-driven Med-VQA toward interactive medical intelligence that better reflects real diagnostic workflows. The repository collects and categorizes Med-VQA surveys, open-access datasets, and representative methods, covering vision-language pretraining, knowledge-enhanced reasoning, retrieval augmentation, causal debiasing, explainable reasoning, localized answering, and MLLM/Agent-based medical question answering. It is intended to support researchers and developers in literature review, dataset selection, method comparison, experimental design, and the exploration of active inquiry frameworks for medical AI.
+**ARISE-MedVQA** a literature resource repository for Medical Visual Question Answering (Med-VQA). It aims to collect, categorize, and continuously update key research materials, including survey papers, dataset papers, evaluation metric papers, representative method papers, and studies on multimodal medical agents. Rather than providing a single model implementation, this repository serves as a structured and extensible entry point for researchers to understand the development, core resources, evaluation frameworks, and emerging trends of Med-VQA. Centered on the theme of moving **from passive answering to active inquiry**, ARISE-MedVQA highlights the shift from single-turn answer prediction toward evidence-driven, risk-aware, explainable, verifiable, and interactive medical reasoning. By organizing datasets, benchmarks, evaluation protocols, and technical methods, the project supports literature review, dataset selection, method comparison, experimental design, survey writing, and future research on active inquiry-oriented medical AI.
 ## Intended Audience
-This project is designed for:
-
-- Researchers working on Medical VQA, medical multimodal large models, and medical AI agents;
-- Graduate students who need a quick entry point to Med-VQA datasets, methods, and research trends;
-- Developers building medical image question answering, report generation, interactive diagnosis support, or knowledge-enhanced reasoning systems;
-- Authors preparing Med-VQA surveys, research proposals, grant applications, or thesis topics;
+This project is suitable for the following research and teaching scenarios:
+- Researchers working on Medical Visual Question Answering, medical multimodal large models, and medical AI agents;
+- Graduate students who need a quick and structured overview of Med-VQA datasets, methods, benchmarks, and research trends;
+- Developers working on medical image question answering, report generation, interactive diagnostic support, or knowledge-enhanced medical reasoning;
+- Authors preparing Med-VQA surveys, research proposals, grant applications, thesis topics, or benchmark studies;
 - Teams interested in building medical multimodal datasets, evaluation frameworks, or active diagnostic interaction systems.
 
 # Survey
