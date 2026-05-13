@@ -8,6 +8,8 @@ This project is suitable for the following research and teaching scenarios:
 - Authors preparing Med-VQA surveys, research proposals, grant applications, thesis topics, or benchmark studies;
 - Teams interested in building medical multimodal datasets, evaluation frameworks, or active diagnostic interaction systems.
 
+**We will continue to update and refine this repository to keep it aligned with the latest progress in Med-VQA and related medical multimodal AI research.**
+
 # Survey
 [1] **Task-Specific Models vs. Large Vision-Language Models in medical visual question answering: A Survey**<br>
 	     Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [Honghao Gao](https://scholar.google.com/citations?user=PiiIpJIAAAAJ&amp;amp;hl=zh-CN) <br>
