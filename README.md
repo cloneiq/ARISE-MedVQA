@@ -1,3 +1,30 @@
+<p align="center">
+  <img src="./imgs/arise-medvqa-sig-resource-hub.svg" alt="ARISE-MedVQA Banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/cloneiq/ARISE-MedVQA/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/cloneiq/ARISE-MedVQA?style=social">
+  </a>
+  <a href="https://github.com/cloneiq/ARISE-MedVQA/commits/main">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/cloneiq/ARISE-MedVQA?color=2563eb">
+  </a>
+  <a href="https://github.com/cloneiq/ARISE-MedVQA">
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/cloneiq/ARISE-MedVQA?color=64748b">
+  </a>
+  <a href="#license">
+    <img alt="License" src="https://img.shields.io/badge/license-TBD-lightgrey">
+  </a>
+  <a href="#contributing">
+    <img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen">
+  </a>
+</p>
+
+<p align="center">
+  <b>A curated academic resource hub for ARISE-MedVQA</b><br>
+  From Passive Answering to Active Inquiry · Evidence-Driven Reasoning · Medical Visual Question Answering
+</p>
+
 # Overview
 **ARISE-MedVQA** is a literature resource repository for Medical Visual Question Answering (Med-VQA). It aims to collect, categorize, and continuously update key research materials, including survey papers, dataset papers, evaluation metric papers, representative method papers, and studies on multimodal medical agents. Rather than providing a single model implementation, this repository serves as a structured and extensible entry point for researchers to understand the development, core resources, evaluation frameworks, and emerging trends of Med-VQA. Centered on the theme of moving **from passive answering to active inquiry**, ARISE-MedVQA highlights the shift from single-turn answer prediction toward evidence-driven, risk-aware, explainable, verifiable, and interactive medical reasoning. By organizing datasets, benchmarks, evaluation protocols, and technical methods, the project supports literature review, dataset selection, method comparison, experimental design, survey writing, and future research on active inquiry-oriented medical AI.
 ## Intended Audience
