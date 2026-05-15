@@ -25,8 +25,10 @@
   From Passive Answering to Active Inquiry · Evidence-Driven Reasoning · Medical Visual Question Answering
 </p>
 
-# Overview
-**ARISE-MedVQA** is a literature resource repository for Medical Visual Question Answering (Med-VQA). It aims to collect, categorize, and continuously update key research materials, including survey papers, dataset papers, evaluation metric papers, representative method papers, and studies on multimodal medical agents. Rather than providing a single model implementation, this repository serves as a structured and extensible entry point for researchers to understand the development, core resources, evaluation frameworks, and emerging trends of Med-VQA. Centered on the theme of moving **from passive answering to active inquiry**, ARISE-MedVQA highlights the shift from single-turn answer prediction toward evidence-driven, risk-aware, explainable, verifiable, and interactive medical reasoning. By organizing datasets, benchmarks, evaluation protocols, and technical methods, the project supports literature review, dataset selection, method comparison, experimental design, survey writing, and future research on active inquiry-oriented medical AI.
+# Awesome ARISE-MedVQA
+
+ARISE-MedVQA is a curated literature resource repository for Medical Visual Question Answering (Med-VQA), covering surveys, research directions, datasets, benchmarks, evaluation metrics, representative methods, and multimodal medical agent studies. The repository is not a single model implementation. Instead, it provides a structured and continuously updated entry point for researchers to understand the evolution, core resources, evaluation frameworks, and emerging trends of Med-VQA. Centered on the shift from passive answer prediction to active, evidence-seeking, risk-aware clinical inquiry, ARISE-MedVQA organizes key papers, datasets, benchmarks, evaluation protocols, and technical methods to support literature review, dataset selection, method comparison, experimental design, survey writing, and future research on interactive and clinically grounded medical AI.
+
 ## Intended Audience
 This project is suitable for the following research and teaching scenarios:
 - Researchers working on Medical Visual Question Answering, medical multimodal large models, and medical AI agents;
