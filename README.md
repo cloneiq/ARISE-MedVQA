@@ -509,6 +509,11 @@ ICIC [2025]
 Ben Chaabane, N., M. Bal-Ghaoui<br>
 Intelligent Systems with Applications [2025]
 
+[42] **CMID: Towards Medical Visual Question Answering via Contrastive Mutual Information Decoding** <br>
+Zhihong Zhu, Yunyan Zhang, Fan Zhang, Bowen Xing, **Xian Wu\*** <br>
+*Proceedings of the AAAI Conference on Artificial Intelligence*, **40**(41), 35275–35283, 2026. <br>
+[[DOI](https://doi.org/10.1609/aaai.v40i41.40835)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/40835)] [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/40835/44796)]
+
 ## 1.2 Vision-Language Pre-training and Cross-modal Representation Alignment
 
 [42] **Contrastive pre-training and representation distillation for medical visual question answering based on radiology images**<br>
