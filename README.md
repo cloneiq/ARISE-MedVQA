@@ -648,6 +648,11 @@ Neurocomputing [2026]
 Chen, Q., et al.<br>
 Image and Vision Computing [2026]
 
+[75] **KG-CMI: Knowledge Graph Enhanced Cross-Mamba Interaction for Medical Visual Question Answering** <br>
+Xianyao Zheng, Hong Yu, Hui Cui, Changming Sun, Xiangyu Li, Ran Su, Leyi Wei, Jia Zhou, Junbo Wang, **[Qiangguo Jin\*](https://scholar.google.com/citations?user=USoKG48AAAAJ)** <br>
+*IEEE Transactions on Industrial Informatics*, **22**(7), 6313–6324, 2026. <br>
+[[DOI](https://doi.org/10.1109/TII.2026.3676874)] [[Publisher](https://ieeexplore.ieee.org/document/11478768)] [[arXiv](https://arxiv.org/abs/2604.00601)] [[Code](https://github.com/BioMedIA-repo/KG-CMI)]
+
 ## 1.4 Prompt Learning and Parameter-efficient Adaptation for Medical VQA
 
 [75] **Prompt-Based Personalized Federated Learning for Medical Visual Question Answering**<br>
