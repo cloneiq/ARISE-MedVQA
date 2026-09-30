@@ -840,9 +840,10 @@ IEEE Access [2025]
 Lin, Q., et al.<br>
 IEEE Transactions on Image Processing [2025]
 
-[119] **DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model**<br>
-Zhang, Z., et al.<br>
-IEEE Journal of Biomedical and Health Informatics [2026]
+[119] **DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model** <br>
+Zefan Zhang, Yanhui Li, Ruihong Zhao, Tian Bai <br>
+*IEEE Journal of Biomedical and Health Informatics*, **30**(8), 6336–6345, 2026. <br>
+[[DOI](https://doi.org/10.1109/JBHI.2026.3663420)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41666056/)] [[Code](https://github.com/zefanZhang-cn/DAMON)]
 
 ## 1.8 Visual Question Localized-Answering in Surgical and Endoscopic Scenarios
 
