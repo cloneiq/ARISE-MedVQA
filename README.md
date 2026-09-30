@@ -802,7 +802,7 @@ Bing Liu, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAA
 *Medical Image Analysis*, **107**(Pt B), 103850, 2026. <br>
 [[DOI](https://doi.org/10.1016/j.media.2025.103850)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841525003962)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41172593/)] [[Code](https://github.com/cloneiq/CIMB-MVQA)]
 
-[113] **Causal Gradient Intervention for Debiased and Evidence-Grounded Medical Visual Question Answering** <br>Bing Liu, Ziyuan Yang, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Jiaman Ding, Wei Peng <br>*Medical Image Analysis*, **114**, 104226, 2026. <br>[[DOI](https://doi.org/10.1016/j.media.2026.104226)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841526002951?utm_source=chatgpt.com)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/42526079/?utm_source=chatgpt.com)] [[Code](https://github.com/cloneiq/DE-CaGI?utm_source=chatgpt.com)]
+[113] **Causal Gradient Intervention for Debiased and Evidence-Grounded Medical Visual Question Answering** <br>Bing Liu, Ziyuan Yang, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Jiaman Ding, Wei Peng <br>*Medical Image Analysis*, **114**, 104226, 2026. <br>[[DOI](https://doi.org/10.1016/j.media.2026.104226)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841526002951)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/42526079)] [[Code](https://github.com/cloneiq/DE-CaGI)]
 
 ## 1.7 Difference-aware and Dynamic Diagnosis-oriented Medical VQA
 
