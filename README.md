@@ -797,11 +797,12 @@ MICCAI [2025]
 Teng, J., et al.<br>
 Knowledge-Based Systems [2026]
 
-[112] **CIMB-MVQA: Causal Intervention on Modality-specific Biases for Medical Visual Question Answering**<br>
-Liu, B., et al.<br>
-Medical Image Analysis [2026]
+[112] **CIMB-MVQA: Causal Intervention on Modality-specific Biases for Medical Visual Question Answering** <br>
+Bing Liu, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Jiaman Ding, Xiaobing Yang, Wei Peng, Li Liu <br>
+*Medical Image Analysis*, **107**(Pt B), 103850, 2026. <br>
+[[DOI](https://doi.org/10.1016/j.media.2025.103850)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841525003962)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41172593/)] [[Code](https://github.com/cloneiq/CIMB-MVQA)]
 
-[113] **Causal Gradient Intervention for Debiased and Evidence-Grounded Medical Visual Question Answering** <br>Bing Liu, Ziyuan Yang, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Jiaman Ding, Wei Peng <br>*Medical Image Analysis*, **114**, 104226, 2026. [[DOI](https://doi.org/10.1016/j.media.2026.104226)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841526002951?utm_source=chatgpt.com)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/42526079/?utm_source=chatgpt.com)] [[Code](https://github.com/cloneiq/DE-CaGI?utm_source=chatgpt.com)]
+[113] **Causal Gradient Intervention for Debiased and Evidence-Grounded Medical Visual Question Answering** <br>Bing Liu, Ziyuan Yang, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Jiaman Ding, Wei Peng <br>*Medical Image Analysis*, **114**, 104226, 2026. <br>[[DOI](https://doi.org/10.1016/j.media.2026.104226)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841526002951?utm_source=chatgpt.com)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/42526079/?utm_source=chatgpt.com)] [[Code](https://github.com/cloneiq/DE-CaGI?utm_source=chatgpt.com)]
 
 ## 1.7 Difference-aware and Dynamic Diagnosis-oriented Medical VQA
 
