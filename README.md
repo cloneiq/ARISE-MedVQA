@@ -591,13 +591,7 @@ ACM Multimedia [2025]
 Tian, Y., et al.<br>
 IJCNN [2025]
 
-[62] **Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering**
-
-Rui Yang, **Lijun Liu*** [[Scholar](https://scholar.google.com/citations?user=bi_u1-sAAAAJ)], Xupeng Feng, Wei Peng, Xiaobing Yang
-
-*IEEE Transactions on Medical Imaging*, **45**(3), 1075–1087, 2026.
-
-[[DOI](https://doi.org/10.1109/TMI.2025.3617289)] [[Publisher](https://ieeexplore.ieee.org/document/11192609)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41052164/)] [[Code](https://github.com/cloneiq/CKRA-MedVQA)]
+[62] **Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering**<br>Rui Yang, [**Lijun Liu***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Xupeng Feng, Wei Peng, Xiaobing Yang<br>*IEEE Transactions on Medical Imaging*, **45**(3), 1075–1087, 2026.<br>[[DOI](https://doi.org/10.1109/TMI.2025.3617289)] [[Publisher](https://ieeexplore.ieee.org/document/11192609)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41052164/)] [[Code](https://github.com/cloneiq/CKRA-MedVQA)]
 
 [63] **Redefining medical visual question answering using conditional generative diffusion models**<br>
 Liu, B., et al.<br>
