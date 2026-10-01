@@ -88,33 +88,40 @@ This project is suitable for the following research and teaching scenarios:
 
 ## 1.1 Early Medical Visual Question Answering Datasets
 
-[1] **VQA-RAD**, A dataset of clinically generated visual questions and answers about radiology images<br>
-J. J. Lau, et al.<br>
-Scientific Data [2018]
+[1] **VQA-RAD**, A Dataset of Clinically Generated Visual Questions and Answers About Radiology Images <br>
+Jason J. Lau, Soumya Gayen, Asma Ben Abacha, **[Dina Demner-Fushman\*](https://scholar.google.com/citations?user=ashaP54AAAAJ)** <br>
+*Scientific Data*, **5**, 180251, **2018**. <br>
+[[DOI](https://doi.org/10.1038/sdata.2018.251)] [[Publisher](https://www.nature.com/articles/sdata2018251)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/30457565/)] [[Dataset](https://doi.org/10.17605/OSF.IO/89KPS)][2] 
 
-[2] **VQA-Med 2019**, VQA-MED: Overview of the medical visual question answering task at ImageCLEF 2019<br>
-A. B. Abacha, et al.<br>
-CLEF Working Notes [2019]
+[2] **VQA-Med 2019**, VQA-Med: Overview of the Medical Visual Question Answering Task at ImageCLEF 2019<br>
+Asma Ben Abacha, Sadid A. Hasan, Vivek V. Datla, Joey Liu, Dina Demner-Fushman, Henning Müller <br>
+*Working Notes of CLEF 2019*, CEUR Workshop Proceedings 2380, **2019**. <br>
+[[Publisher](https://ceur-ws.org/Vol-2380/)] [[PDF](https://ceur-ws.org/Vol-2380/paper_272.pdf)] [[Dataset](https://zenodo.org/records/10499039)] [[Code/Data](https://github.com/abachaa/VQA-Med-2019)]
 
-[3] **VQA-Med 2020**, Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain<br>
-A. B. Abacha, et al.<br>
-CLEF Working Notes [2020]
+[3] **VQA-Med 2020**, Overview of the VQA-Med Task at ImageCLEF 2020: Visual Question Answering and Generation in the Medical Domain <br>
+Asma Ben Abacha, Vivek V. Datla, Sadid A. Hasan, Dina Demner-Fushman, Henning Müller <br>
+*Working Notes of CLEF 2020*, CEUR Workshop Proceedings 2696, **2020**. <br>
+[[Publisher](https://ceur-ws.org/Vol-2696/)] [[PDF](https://ceur-ws.org/Vol-2696/paper_106.pdf)] [[Code/Dataset](https://github.com/abachaa/VQA-Med-2020)]
 
-[4] **SLAKE**, Slake: A semantically-labeled knowledge-enhanced dataset for medical visual question answering<br>
-B. Liu, et al.<br>
-ISBI [2021]
+[4] **SLAKE**: A Semantically-Labeled Knowledge-Enhanced Dataset for Medical Visual Question Answering <br>
+Bo Liu, Li-Ming Zhan, Li Xu, Lin Ma, Yan Yang, **Xiao-Ming Wu\*** <br>
+*2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*, 1650–1654, **2021**. <br>
+[[DOI](https://doi.org/10.1109/ISBI48211.2021.9434010)] [[Publisher](https://ieeexplore.ieee.org/document/9434010)] [[arXiv](https://arxiv.org/abs/2102.09542)] [[Dataset](https://www.med-vqa.com/slake/)][5] 
 
-[5] **PathVQA**, Towards visual question answering on pathology images<br>
-X. He, et al.<br>
-ACL-IJCNLP [2021]
+[5] **PathVQA**, Towards Visual Question Answering on Pathology Images*<br>
+Xuehai He, Zhuo Cai, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing, **[Pengtao Xie\*](https://scholar.google.com/citations?user=cnncomYAAAAJ)** <br>
+*Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP), Volume 2: Short Papers*, 708–718, **2021**. <br>
+[[DOI](https://doi.org/10.18653/v1/2021.acl-short.90)] [[Publisher](https://aclanthology.org/2021.acl-short.90/)] [[PDF](https://aclanthology.org/2021.acl-short.90.pdf)] [[Code/Dataset](https://github.com/UCSD-AI4H/PathVQA)]
 
-[6] **OVQA**, OVQA: A clinically generated visual question answering dataset<br>
-Y. Huang, et al.<br>
-SIGIR [2022]
+[6] **OVQA**: A Clinically Generated Visual Question Answering Dataset <br>
+Yefan Huang, Xiaoli Wang, Feiyan Liu, Guofeng Huang <br>
+*Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2924–2938, **2022**. <br>
+[[DOI](https://doi.org/10.1145/3477495.3531724)] [[Publisher](https://dl.acm.org/doi/10.1145/3477495.3531724)] [[arXiv](https://arxiv.org/abs/2211.06862)]
 
-[7] **P-VQA**, Medical knowledge-based network for patient-oriented visual question answering<br>
-J. Huang, et al.<br>
-Information Processing & Management [2023]
+[7] **P-VQA**, Medical Knowledge-Based Network for Patient-Oriented Visual Question Answering<br>
+Jian Huang, Yihao Chen, Yong Li, Zhenguo Yang, Xuehao Gong, Fu Lee Wang, Xiaohong Xu, Wenyin Liu <br>
+*Information Processing & Management*, 60(2), 103241, **2023**. <br>
+[[DOI](https://doi.org/10.1016/j.ipm.2022.103241)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0306457322003429)] [[Code/Dataset](https://github.com/cs-jerhuang/P-VQA)]
 
 ## 1.2 Large-Scale General Medical VQA Datasets
 
@@ -165,17 +172,19 @@ KDD [2023]
 X. Hu, et al.<br>
 Medical Image Analysis [2024]
 
-[19] **RadDialog**, Radialog: Large vision-language models for X-ray reporting and dialog-driven assistance<br>
+[19] Radialog: Large vision-language models for X-ray reporting and dialog-driven assistance<br>
 C. Pellegrini, et al.<br>
 MIDL [2025]
 
-[20] **VinDr-CXR-VQA**, VinDr-CXR-VQA: A Visual Question Answering Dataset for Explainable Chest X-Ray Analysis with Multi-Task Learning<br>
-H.-D. Nguyen, et al.<br>
-ISBI [2025]
+[21] **VinDr-CXR-VQA: A Visual Question Answering Dataset for Explainable Chest X-Ray Analysis with Multi-Task Learning** <br>
+Hai-Dang Nguyen, Ha-Hieu Pham, Hao T. Nguyen, **[Huy-Hieu Pham\*](https://scholar.google.com/citations?user=mXcFcNkAAAAJ)** <br>
+*arXiv preprint*, arXiv:2511.00504, 2025. <br>
+[[arXiv](https://arxiv.org/abs/2511.00504)] [[Dataset](https://huggingface.co/datasets/Dangindev/VinDR-CXR-VQA)]
 
-[21] **ReXVQA**, ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding<br>
-A. Pal, et al.<br>
-arXiv preprint arXiv:2506.04353 [2025]
+[21] **ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding** <br>
+Ankit Pal, Jung-Oh Lee, Xiaoman Zhang, Malaikannan Sankarasubbu, Seunghyeon Roh, Won Jung Kim, Meesun Lee, Pranav Rajpurkar <br>
+*Pacific Symposium on Biocomputing*, **31**, 251–264, 2026. <br>
+[[DOI](https://doi.org/10.1142/9789819824755_0018)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41758146/)] [[arXiv](https://arxiv.org/abs/2506.04353)] [[Dataset](https://huggingface.co/datasets/rajpurkarlab/ReXVQA)]
 
 [22] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** <br>
 Bo Liu, Ke Zou, Li-Ming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xie, Jiannong Cao, **Xiao-Ming Wu\***, **[Huazhu Fu\*](https://scholar.google.com/citations?user=jCvUBYMAAAAJ)** <br>
