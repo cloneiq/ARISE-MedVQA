@@ -582,9 +582,10 @@ MICCAI [2024]
 Chen, J., et al.<br>
 Artificial Neural Networks and Machine Learning [2024]
 
-[55] **Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering**<br>
-Zou, Y., Z. Yin<br>
-CVPR [2025]
+[55] **Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering** <br>
+Yuanhao Zou, **[Zhaozheng Yin\*](https://scholar.google.com/citations?user=x-y92ksAAAAJ)** <br>
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 29623–29633, 2025. <br>
+[[DOI](https://doi.org/10.1109/CVPR52734.2025.02758)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025/html/Zou_Alignment_Mining_and_Fusion_Representation_Alignment_with_Hard_Negative_Mining_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2510.08791)] [[Code](https://github.com/AlexCo1d/AMiF)]
 
 [56] **MVCM: Enhancing Multi-View and Cross-Modality Alignment for Medical Visual Question Answering and Medical Image-Text Retrieval**<br>
 Zou, Y., Z. Yin<br>
@@ -594,9 +595,10 @@ CVPR [2025]
 Zhang, Z., J. He, P. Li<br>
 BIBM [2025]
 
-[58] **UnICLAM: Contrastive representation learning with adversarial masking for unified and interpretable Medical Vision Question Answering**<br>
-Zhan, C., et al.<br>
-Medical Image Analysis [2025]
+[58] **UnICLAM: Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering** <br>
+Chenlu Zhan, Peng Peng, [**Hongwei Wang\***](), Gaoang Wang, Yu Lin, **Tao Chen\***, Hongsen Wang <br>
+*Medical Image Analysis*, **101**, 103464, 2025. <br>
+[[DOI](https://doi.org/10.1016/j.media.2025.103464)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S136184152500012X)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39847954/)] [[arXiv](https://arxiv.org/abs/2212.10729)]
 
 [59] **BaMCo: Balanced Multimodal Contrastive Learning for Knowledge-Driven Medical VQA** <br>[**Ziya Ata Yazıcı***](https://scholar.google.com/citations?user=D_i4ga8AAAAJ&hl=en), Hazım Kemal Ekenel <br>
 *Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15966**, 77–87, 2025. <br>
@@ -621,6 +623,8 @@ Biomedical Signal Processing and Control [2026]
 Haowen Gu, Gensheng Pei, Zeren Sun, [**Mingwu Ren***](https://cs.njust.edu.cn/e4/01/c1730a189441/page.htm), Xiangbo Shu, Yazhou Yao, Fumin Shen <br>
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 42755–42764, 2026. <br>
 [[Publisher](https://openaccess.thecvf.com/content/CVPR2026/html/Gu_MedFG-VQA_Low-Frequency_Memory_and_Graph_Attention_for_Lightweight_Medical_VQA_CVPR_2026_paper.html)] [[arXiv](https://arxiv.org/abs/2608.26848)] [[Code](https://github.com/NUST-Machine-Intelligence-Laboratory/MedFG)]
+
+[63-2] **M3D-QAdapter: 3D Medical VQA with Lesion-Level Finding-Segmentation Alignment and Query-Driven Adaptive Token Reduction** <br>Hong Liu, Dong Wei, Hongze Zhu, Yinghao Zhang, Yefeng Zheng, [**Xian Wu\***](https://scholar.google.com/citations?user=lslB5jkAAAAJ), [**Liansheng Wang\*** ](https://xmu-lswang.github.io/)<br>*Medical Image Computing and Computer Assisted Intervention – MICCAI 2026*, **LNCS 16879**, 360–370, 2026. <br>[[DOI](https://doi.org/10.1007/978-3-032-38062-3_34)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-38062-3_34?utm_source=chatgpt.com)] [[MICCAI](https://papers.miccai.org/miccai-2026/0604-Paper1643.html?utm_source=chatgpt.com)] [[Code](https://github.com/ccarliu/M3D-QAdapter)]
 
 ## 1.3 Knowledge-enhanced and Retrieval-augmented Medical VQA
 
@@ -678,6 +682,8 @@ Xianyao Zheng, Hong Yu, Hui Cui, Changming Sun, Xiangyu Li, Ran Su, Leyi Wei, Ji
 Xuze Li, Haozhao Wang, Zhenyu Huang, Zhongxu Wang, Jinghua Zhang, [**Ruixuan Li***](https://scholar.google.com/citations?user=scAIu2MAAAAJ) <br>
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 15010–15019, 2026. <br>
 [[Publisher](https://openaccess.thecvf.com/content/CVPR2026/html/Li_MR-RAG_Multimodal_Relevance-Aware_Retrieval-Augmented_Generation_for_Medical_Visual_Question_Answering_CVPR_2026_paper.html)]
+
+[75-2] **MEC: Medical Evidence Capsules for Retrieval-Augmented Generation in Medical Multimodal Question Answering** <br>Zhenghua Xu, Xinwei Dai, [**Bo Wang\***](https://scholar.google.com/citations?user=Z7_ciAIAAAAJ&hl=en), Tian Tian<br>*Medical Image Computing and Computer Assisted Intervention – MICCAI 2026*, **LNCS 16878**, 303–312, 2026. <br>[[DOI](https://doi.org/10.1007/978-3-032-38059-3_29)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_29?utm_source=chatgpt.com)] [[MICCAI](https://papers.miccai.org/miccai-2026/0626-Paper2354.html?utm_source=chatgpt.com)] [[Code](https://github.com/fruitbitlab/MEC)]
 
 ## 1.4 Prompt Learning and Parameter-efficient Adaptation for Medical VQA
 
@@ -837,6 +843,8 @@ Bing Liu, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAA
 [[DOI](https://doi.org/10.1016/j.media.2025.103850)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841525003962)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41172593/)] [[Code](https://github.com/cloneiq/CIMB-MVQA)]
 
 [113] **Causal Gradient Intervention for Debiased and Evidence-Grounded Medical Visual Question Answering** <br>Bing Liu, Ziyuan Yang, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Jiaman Ding, Wei Peng <br>*Medical Image Analysis*, **114**, 104226, 2026. <br>[[DOI](https://doi.org/10.1016/j.media.2026.104226)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841526002951)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/42526079)] [[Code](https://github.com/cloneiq/DE-CaGI)]
+
+[113-1] **Med-CAP: Counterfactual Evidence and Adaptive Prior Suppression for Robust Medical Visual Question Answering** <br>Zaiqiang Huang, Zhihong Zhu, Zixuan Huang, Yunyan Zhang, Hui Zhang, [**Xian Wu\*** ](https://scholar.google.com/citations?user=lslB5jkAAAAJ)<br>*Medical Image Computing and Computer Assisted Intervention – MICCAI 2026*, **LNCS 16878**, 313–323, 2026. <br>[[DOI](https://doi.org/10.1007/978-3-032-38059-3_30)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_30?utm_source=chatgpt.com)] [[MICCAI](https://papers.miccai.org/miccai-2026/0628-Paper3867.html?utm_source=chatgpt.com)] [[Code](https://github.com/ZaiqiangHuang/Med-CAP)]
 
 ## 1.7 Difference-aware and Dynamic Diagnosis-oriented Medical VQA
 
