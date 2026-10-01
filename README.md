@@ -596,7 +596,7 @@ Zhang, Z., J. He, P. Li<br>
 BIBM [2025]
 
 [58] **UnICLAM: Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering** <br>
-Chenlu Zhan, Peng Peng, [**Hongwei Wang\***](), Gaoang Wang, Yu Lin, **Tao Chen\***, Hongsen Wang <br>
+Chenlu Zhan, Peng Peng, [**Hongwei Wang\***](https://scholar.google.com/citations?user=lFbTT5AAAAAJ&hl=en), Gaoang Wang, Yu Lin, **Tao Chen\***, Hongsen Wang <br>
 *Medical Image Analysis*, **101**, 103464, 2025. <br>
 [[DOI](https://doi.org/10.1016/j.media.2025.103464)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S136184152500012X)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39847954/)] [[arXiv](https://arxiv.org/abs/2212.10729)]
 
@@ -615,9 +615,10 @@ IJCNN [2025]
 
 [62] **Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering**<br>Rui Yang, [**Lijun Liu***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Xupeng Feng, Wei Peng, Xiaobing Yang<br>*IEEE Transactions on Medical Imaging*, **45**(3), 1075–1087, 2026.<br>[[DOI](https://doi.org/10.1109/TMI.2025.3617289)] [[Publisher](https://ieeexplore.ieee.org/document/11192609)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41052164/)] [[Code](https://github.com/cloneiq/CKRA-MedVQA)]
 
-[63] **Redefining medical visual question answering using conditional generative diffusion models**<br>
-Liu, B., et al.<br>
-Biomedical Signal Processing and Control [2026]
+[63] **Redefining Medical Visual Question Answering Using Conditional Generative Diffusion Models** <br>
+Bing Liu, **[Lijun Liu\*](https://scholar.google.com/citations?user=bi_u1-sAAAAJ)**, Xiaobing Yang, Wei Peng, Li Liu <br>
+*Biomedical Signal Processing and Control*, **111**, 108222, 2026. <br>
+[[DOI](https://doi.org/10.1016/j.bspc.2025.108222)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1746809425007335)] [[Code](https://github.com/cloneiq/DiffuVQA)]
 
 [63-1] **MedFG-VQA: Low-Frequency Memory and Graph Attention for Lightweight Medical VQA** <br>
 Haowen Gu, Gensheng Pei, Zeren Sun, [**Mingwu Ren***](https://cs.njust.edu.cn/e4/01/c1730a189441/page.htm), Xiangbo Shu, Yazhou Yao, Fumin Shen <br>
