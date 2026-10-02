@@ -40,49 +40,35 @@ This project is suitable for the following research and teaching scenarios:
 **We will continue to update and refine this repository to keep it aligned with the latest progress in Med-VQA and related medical multimodal AI research.**
 
 # Survey
-[1] **Task-Specific Models vs. Large Vision-Language Models in medical visual question answering: A Survey**<br>
-	     Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [Honghao Gao](https://scholar.google.com/citations?user=PiiIpJIAAAAJ&amp;amp;hl=zh-CN) <br>
-		 Expert Systems with Applications [2026-03-12] [[DOI](https://doi.org/10.1016/j.eswa.2026.132008)]
+[1] **Task-Specific Models vs. Large Vision-Language Models in Medical Visual Question Answering: A Survey**  
+Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [**Honghao Gao***](https://scholar.google.com/citations?user=PiiIpJIAAAAJ)  <br>
+*Expert Systems with Applications*, 2026, 132008.  <br>[[DOI](https://doi.org/10.1016/j.eswa.2026.132008)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S095741742600123X)]
 
-[2] **From visual question answering to intelligent AI agents in ophthalmology**    <br>
-		 Xiaolan Chen, Ruoyu Chen, Pusheng Xu, Xiaojie Wan, Weiyi Zhang, Bingjie Yan, Xianwen Shang, Mingguang He, Danli Shi<br>
-		 British Journal of Ophthalmology [2026-01-01] [[DOI](https://doi.org/10.1136/bjo-2024-326097)]
+[2] **From Visual Question Answering to Intelligent AI Agents in Ophthalmology**  <br>Xiaolan Chen, Ruoyu Chen, Pusheng Xu, Xiaojie Wan, Weiyi Zhang, Bingjie Yan, Xianwen Shang, Mingguang He, Danli Shi <br>
+*British Journal of Ophthalmology*, 2026.  <br>[[DOI](https://doi.org/10.1136/bjo-2024-326097)] [[Publisher](https://bjo.bmj.com/content/110/1/1)]
 
-[3] **Generative Models in Medical Visual Question Answering: A Survey**<br>
-	     Wenjie Dong, Shuhao Shen, Yuqiang Han, Tao Tan, Jian Wu, Hongxia Xu<br>
-	     Applied Sciences [2025-03-10] [[PDF](https://www.mdpi.com/2076-3417/15/6/2983/pdf)] [[DOI](https://doi.org/10.3390/app15062983)]
+[3] **Generative Models in Medical Visual Question Answering: A Survey**  <br>Wenjie Dong, Shuhao Shen, Yuqiang Han, Tao Tan, Jian Wu, Hongxia Xu  <br>*Applied Sciences*, **15**(6), 2983, 2025.  <br>[[DOI](https://doi.org/10.3390/app15062983)] [[Publisher](https://www.mdpi.com/2076-3417/15/6/2983)]
 
-[4] **Visual Question Answering in Robotic Surgery: A Comprehensive Review**<br>
-	     Di Ding, Tianliang Yao, Rong Luo, Xusen Sun<br>
-	     IEEE Access [2025-01-01] [[PDF](https://doi.org/10.1109/ACCESS.2024.3525145)] [[DOI](https://doi.org/10.1109/ACCESS.2024.3525145)]
+[4] **Visual Question Answering in Robotic Surgery: A Comprehensive Review** <br>Di Ding, Tianliang Yao, Rong Luo, Xusen Sun  <br>*IEEE Access*, **13**, 1–18, 2025.  <br>[[DOI](https://doi.org/10.1109/ACCESS.2024.3525145)] [[Publisher](https://ieeexplore.ieee.org/document/10807961)]
 
-[5] **Vision-language models for medical report generation and visual question answering: a review**<br>
-	     Iryna Hartsock, Ghulam Rasool<br>
-	     Frontiers in Artificial Intelligence [2024-11-19]  [[Arxiv](https://arxiv.org/pdf/2403.02469)] [[DOI](https://doi.org/10.3389/frai.2024.1430984)]
+[5] **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**  <br>Iryna Hartsock, Ghulam Rasool  <br>*Frontiers in Artificial Intelligence*, **7**, 1430984, 2024.  <br>[[DOI](https://doi.org/10.3389/frai.2024.1430984)] [[Publisher](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1430984/full)] [[arXiv](https://arxiv.org/abs/2403.02469)]
 
-[6] **Developing ChatGPT for biology and medicine: a complete review of biomedical question answering**<br>
-	     Qing Li, Lei Li, Yu Li<br>
-	     Biophysics Reports [2024-06-01] [[PDF](https://www.biophysics-reports.org/en/article/pdf/preview/10.52601/bpr.2024.240004.pdf)] [[DOI](https://doi.org/10.52601/bpr.2024.240004)]
+[6] **Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering**  
+Qing Li, Lei Li, Yu Li  <br>*Biophysics Reports*, **10**(3), 2024.  <br>[[DOI](https://doi.org/10.52601/bpr.2024.240004)] [[Publisher](https://www.biophysics-reports.org/en/article/doi/10.52601/bpr.2024.240004)]
 
-[7] **Survey of Multimodal Medical Question Answering**<br>
-	     Hilmi Demirhan, Wlodek W. Zadrozny<br>
-	     BioMedInformatics [2024-01-02] [[PDF](https://www.mdpi.com/2673-7426/4/1/4/pdf)] [[DOI](https://doi.org/10.3390/biomedinformatics4010004)]
+[7] **Survey of Multimodal Medical Question Answering**  <br>Hilmi Demirhan, Wlodek W. Zadrozny  <br>*BioMedInformatics*, **4**(1), 56–78, 2024.  <br>[[DOI](https://doi.org/10.3390/biomedinformatics4010004)] [[Publisher](https://www.mdpi.com/2673-7426/4/1/4)]
 
-[8] **Medical visual question answering: A survey**<br>
-	       Zhihong Lin, Donghao Zhang, Qingyi Tao, Danli Shi, Gholamreza Haffari, Qi Wu, Mingguang He, Zongyuan Ge<br>
-	       Artificial Intelligence in Medicine [2023-09-01] [[Arxiv](https://arxiv.org/pdf/2111.10056)] [[DOI](https://doi.org/10.1016/j.artmed.2023.102611)]
+[8] **Medical Visual Question Answering: A Survey**  <br>Zhihong Lin, Donghao Zhang, Qingyi Tao, Danli Shi, Gholamreza Haffari, Qi Wu, Mingguang He, Zongyuan Ge  <br>*Artificial Intelligence in Medicine*, **153**, 102611, 2024.  <br>[[DOI](https://doi.org/10.1016/j.artmed.2023.102611)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0933365723002498)] [[arXiv](https://arxiv.org/abs/2111.10056)]
 
-[9] **A comprehensive interpretation for medical VQA: Datasets, techniques, and challenges**<br>
-	       Sheerin Sitara Noor Mohamed, Kavitha Srinivasan<br>
-	       Journal of Intelligent & Fuzzy Systems [2023-04-03] [[DOI](https://doi.org/10.3233/JIFS-222569)]
+[9] **A Comprehensive Interpretation for Medical VQA: Datasets, Techniques, and Challenges**  <br>Sheerin Sitara Noor Mohamed, Kavitha Srinivasan  <br>*Journal of Intelligent & Fuzzy Systems*, **44**(6), 10527–10545, 2023.  <br>[[DOI](https://doi.org/10.3233/JIFS-222569)] [[Publisher](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs222569)]
 
-[10] **A Critical Analysis of Benchmarks, Techniques, and Models in Medical Visual Question Answering**<br>
-	       Suheer Ali Al-Hadhrami, Mohamed El Bachir Menai, Saad Al-Ahmadi, Ahmad Alnafessah<br>
-	       IEEE Access [2023-01-01]   [[PDF](https://ieeexplore.ieee.org/iel7/6287639/6514899/10323452.pdf)] [[DOI](https://doi.org/10.1109/ACCESS.2023.3335216)]
+[10] **A Critical Analysis of Benchmarks, Techniques, and Models in Medical Visual Question Answering**  <br>Suheer Ali Al-Hadhrami, Mohamed El Bachir Menai, Saad Al-Ahmadi, Ahmad Alnafessah  <br>*IEEE Access*, **11**, 136840–136858, 2023.  <br>[[DOI](https://doi.org/10.1109/ACCESS.2023.3335216)] [[Publisher](https://ieeexplore.ieee.org/document/10323452)]
 
-[11] **Visual question answering in the medical domain based on deep learning approaches: A comprehensive study**<br>
-	       Aisha Al-Sadi, Mahmoud Al-Ayyoub, Yaser Jararweh, Fumie Costen<br>
-	       Pattern Recognition Letters [2021-10] [[PDF](https://pure.manchester.ac.uk/ws/portalfiles/portal/195767002/mahmoud1.pdf)] [[DOI](https://doi.org/10.1016/j.patrec.2021.07.002)]
+[11] **Visual Question Answering in the Medical Domain Based on Deep Learning Approaches: A Comprehensive Study**  <br>Aisha Al-Sadi, Mahmoud Al-Ayyoub, Yaser Jararweh, Fumie Costen  <br>*Pattern Recognition Letters*, **152**, 118–128, 2021.  <br>[[DOI](https://doi.org/10.1016/j.patrec.2021.07.002)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0167865521002657)]
+
+
+
+
 
 # Datasets (Open Access)
 
