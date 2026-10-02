@@ -181,10 +181,10 @@ Bo Liu, Xiangyu Zhao, Along He, Yidi Chen, **[Huazhu Fu\*](https://scholar.googl
 P. Müller, et al.<br>
 ICLR [2026]
 
-[25] **MIMIC-CXR-VQA: A Medical Visual Question Answering Dataset Constructed with LLaMA-Based Annotations**  <br>
-Mohamed Aas-Alas, Miquel Obrador-Reina, Luis-Jesus Marhuenda, Alberto Albiol, Roberto Paredes<br>
-*Proceedings of Machine Learning Research (MIDL 2026)*, under review, 2026.<br>
-[[Publisher](https://openreview.net/forum?id=SOSjcyYEKO)] [[PDF](https://openreview.net/pdf?id=SOSjcyYEKO)] [[Code](https://github.com/LightVED-prhlt/MIMIC-CXR-VQA-Dataset_Creation)] [Dataset]
+~~[25] **MIMIC-CXR-VQA: A Medical Visual Question Answering Dataset Constructed with LLaMA-Based Annotations**  <br>~~
+~~Mohamed Aas-Alas, Miquel Obrador-Reina, Luis-Jesus Marhuenda, Alberto Albiol, Roberto Paredes<br>~~
+~~*Proceedings of Machine Learning Research (MIDL 2026)*, under review, 2026.<br>~~
+~~[[Publisher](https://openreview.net/forum?id=SOSjcyYEKO)] [[PDF](https://openreview.net/pdf?id=SOSjcyYEKO)] [[Code](https://github.com/LightVED-prhlt/MIMIC-CXR-VQA-Dataset_Creation)] [Dataset]~~
 
 [26] **DAMON-VQA, DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model** <br>
 Zefan Zhang, Yanhui Li, Ruihong Zhao, [**Tian Bai***](https://ccst.jlu.edu.cn/info/1367/20115.htm) <br>
