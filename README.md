@@ -177,14 +177,10 @@ Bo Liu, Xiangyu Zhao, Along He, Yidi Chen, **[Huazhu Fu\*](https://scholar.googl
 *Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM)*, 13213–13220, 2025. <br>
 [[DOI](https://doi.org/10.1145/3746027.3758277)] [[Publisher](https://dl.acm.org/doi/10.1145/3746027.3758277)] [[arXiv](https://arxiv.org/abs/2506.17939)] [[Dataset](https://www.med-vqa.com/GEMeX/)]
 
-[24] **MIMIC-Ext-CXR-QBA**, A Structured, Tagged, and Localized Visual Question Answering Dataset with Full Sentence Answers and Scene Graphs for Chest X-ray Images<br>
-P. Müller, et al.<br>
-ICLR [2026]
-
-~~[25] **MIMIC-CXR-VQA: A Medical Visual Question Answering Dataset Constructed with LLaMA-Based Annotations**  <br>~~
-~~Mohamed Aas-Alas, Miquel Obrador-Reina, Luis-Jesus Marhuenda, Alberto Albiol, Roberto Paredes<br>~~
-~~*Proceedings of Machine Learning Research (MIDL 2026)*, under review, 2026.<br>~~
-~~[[Publisher](https://openreview.net/forum?id=SOSjcyYEKO)] [[PDF](https://openreview.net/pdf?id=SOSjcyYEKO)] [[Code](https://github.com/LightVED-prhlt/MIMIC-CXR-VQA-Dataset_Creation)] [Dataset]~~
+[24] **CXR-QBA: A Structured, Tagged, and Localized Visual Question Answering Dataset with Full Sentence Answers and Scene Graphs for Chest X-ray Images**  <br>
+Philip Müller, Friederike Jungmann, Georgios Kaissis, Daniel Rueckert  <br>
+*International Conference on Learning Representations (ICLR)*, **2026**.  <br>
+[[Publisher](https://proceedings.iclr.cc/paper_files/paper/2026/hash/6de71272e0be559af3f76b884e94794b-Abstract-Conference.html)] [[OpenReview](https://openreview.net/forum?id=LrmyW9JLYq)] [[Poster](https://iclr.cc/virtual/2026/poster/10009998)] [[Code](https://github.com/philip-mueller/mimic-ext-cxr-qba)] [[Dataset](https://physionet.org/content/mimic-ext-cxr-qba/1.0.1/)]
 
 [26] **DAMON-VQA, DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model** <br>
 Zefan Zhang, Yanhui Li, Ruihong Zhao, [**Tian Bai***](https://ccst.jlu.edu.cn/info/1367/20115.htm) <br>
