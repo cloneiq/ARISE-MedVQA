@@ -247,28 +247,24 @@ Ge-Peng Ji, Jingyi Liu, Peng Xu, Nick Barnes, Fahad Shahbaz Khan, Salman Khan, D
 ### 1.4.4 Surgical and Robotic Surgery VQA
 
 [36] **Cholec80-VQA, EndoVis-18-VQA, Surgical-VQA: Visual Question Answering in Surgical Scenes Using Transformer**  <br>
-Lalithkumar Seenivasan, Mobarakol Islam, Adithya K. Krishna, Hongliang Ren  <br>
+Lalithkumar Seenivasan, Mobarakol Islam, Adithya K. Krishna, [**Hongliang Ren***](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en) <br>
 *Medical Image Computing and Computer Assisted Intervention – MICCAI 2022*, LNCS 13435, 33–43, **2022**.  <br>
 [[DOI](https://doi.org/10.1007/978-3-031-16449-1_4)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_4)] [[arXiv](https://arxiv.org/abs/2206.11053)] [[Code](https://github.com/lalithjets/Surgical_VQA)] [[Cholec80-VQA](https://drive.google.com/drive/folders/1QAqCEi_tMY9n3b37on0w6vr03cHom2ls?usp=sharing)] [[EndoVis-18-VQA](https://drive.google.com/drive/folders/1hu_yK27Xz2_lvjjZ97-WF2MK_JO14MWI?usp=sharing)]
 
-[37] **Surgical-VQA: Visual Question Answering in Surgical Scenes Using Transformer (EndoVis18-VQA Extension)** <br> Lalithkumar Seenivasan, Mobarakol Islam, Adithya K. Krishna, Hongliang Ren  <br>
-*Medical Image Computing and Computer Assisted Intervention – MICCAI 2022*, **LNCS 13435,** 33–43, 2022.  <br>
-[[DOI](https://doi.org/10.1007/978-3-031-16449-1_4)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_4)] [[Code](https://github.com/lalithjets/Surgical_VQA)]
-
-[38] **PitVQA: Image-Grounded Text Embedding LLM for Visual Question Answering in Pituitary Surgery**  <br>
-Runlong He, Mengya Xu, Adrito Das, Danyal Z. Khan, Sophia Bano, Hani J. Marcus, Danail Stoyanov, Matthew J. Clarkson, Mobarakol Islam  <br>
+[37] **PitVQA: Image-Grounded Text Embedding LLM for Visual Question Answering in Pituitary Surgery**  <br>
+Runlong He, Mengya Xu, Adrito Das, Danyal Z. Khan, Sophia Bano, Hani J. Marcus, Danail Stoyanov, Matthew J. Clarkson, [**Mobarakol Islam***](https://scholar.google.com/citations?user=QUwym50AAAAJ&hl=en)  <br>
 *Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, LNCS 15007, 488–498, **2024**.  <br>
 [[DOI](https://doi.org/10.1007/978-3-031-72089-5_46)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-72089-5_46)] [[arXiv](https://arxiv.org/abs/2405.13949)] [[Code/Dataset](https://github.com/mobarakol/PitVQA)]
 
-[38-1] **PitVQA++: Vector Matrix-Low-Rank Adaptation for Open-Ended Visual Question Answering in Pituitary Surgery**  <br>
+[38] **PitVQA++: Vector Matrix-Low-Rank Adaptation for Open-Ended Visual Question Answering in Pituitary Surgery**  <br>
 Runlong He, Danyal Z. Khan, Evangelos B. Mazomenos, Hani J. Marcus, Danail Stoyanov, Matthew J. Clarkson, [**Mobarak I. Hoque\***](https://scholar.google.com/citations?user=QUwym50AAAAJ)  <br>
 *IEEE Transactions on Medical Imaging*, **45(7)**, 3626–3636, **2026**.  <br>
-[[DOI](https://doi.org/10.1109/TMI.2026.3681175)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41941823/)] [[arXiv](https://arxiv.org/abs/2502.14149)] [[Code](https://github.com/HRL-Mike/PitVQA-Plus)]
+[[DOI](https://doi.org/10.1109/TMI.2026.3681175)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41941823/)] [[arXiv](https://arxiv.org/abs/2502.14149)] [[Code/Dataset](https://github.com/HRL-Mike/PitVQA-Plus)]
 
 [39] **SSG-VQA: Advancing Surgical VQA with Scene Graph Knowledge**  <br>
-Kun Yuan, Manasi Kattel, Joël L. Lavanchy, Nassir Navab, Vinkle Srivastav, Nicolas Padoy  <br>
+[**Kun Yuan***](https://scholar.google.com/citations?user=zId4EqoAAAAJ&hl=zh-CN), Manasi Kattel, Joël L. Lavanchy, Nassir Navab, Vinkle Srivastav, Nicolas Padoy  <br>
 *International Journal of Computer Assisted Radiology and Surgery*, 19, 1409–1417, **2024**.  <br>
-[[DOI](https://doi.org/10.1007/s11548-024-03141-y)] [[Publisher](https://link.springer.com/article/10.1007/s11548-024-03141-y)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38780829/)]
+[[DOI](https://doi.org/10.1007/s11548-024-03141-y)] [[Publisher](https://link.springer.com/article/10.1007/s11548-024-03141-y)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38780829/)] [[Code/Dataset](https://github.com/CAMMA-public/SSG-VQA)]
 
 [40] **EndoChat: Grounded Multimodal Large Language Model for Endoscopic Surgery**  <br>
 Guankun Wang, Long Bai, Junyi Wang, Kun Yuan, Zhen Li, Tianxu Jiang, Xiting He, Jinlin Wu, Zhen Chen, Zhen Lei, Hongbin Liu, Jiazheng Wang, Fan Zhang, Nicolas Padoy, Nassir Navab, Hongliang Ren  <br>
@@ -278,7 +274,7 @@ Guankun Wang, Long Bai, Junyi Wang, Kun Yuan, Zhen Li, Tianxu Jiang, Xiting He, 
 [41] **Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery**  <br>
 Long Bai, Guankun Wang, Mobarakol Islam, Lalithkumar Seenivasan, An Wang, Hongliang Ren  <br>
 *Information Fusion*, 113, 102602, **2025**.  <br>
-[[DOI](https://doi.org/10.1016/j.inffus.2024.102602)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1566253524003804)] [[Code](https://github.com/longbai1006/Surgical-VQLAPlus)]
+[[DOI](https://doi.org/10.1016/j.inffus.2024.102602)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1566253524003804)] [[Code/Dataset](https://github.com/longbai1006/Surgical-VQLAPlus)]
 
 [42] **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis** <br> Shengyuan Liu, Boyun Zheng, Wenting Chen, Zhihao Peng, Zhenfei Yin, Jing Shao, Jiancong Hu, Yixuan Yuan  <br>
 *Advances in Neural Information Processing Systems (NeurIPS 2025)*, 38, Datasets and Benchmarks Track, **2025**.  <br>
