@@ -106,9 +106,9 @@ Asma Ben Abacha, Vivek V. Datla, Sadid A. Hasan, Dina Demner-Fushman, Henning M�
 [4] **SLAKE**: A Semantically-Labeled Knowledge-Enhanced Dataset for Medical Visual Question Answering <br>
 Bo Liu, Li-Ming Zhan, Li Xu, Lin Ma, Yan Yang, **Xiao-Ming Wu\*** <br>
 *2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*, 1650–1654, **2021**. <br>
-[[DOI](https://doi.org/10.1109/ISBI48211.2021.9434010)] [[Publisher](https://ieeexplore.ieee.org/document/9434010)] [[arXiv](https://arxiv.org/abs/2102.09542)] [[Dataset](https://www.med-vqa.com/slake/)][5] 
+[[DOI](https://doi.org/10.1109/ISBI48211.2021.9434010)] [[Publisher](https://ieeexplore.ieee.org/document/9434010)] [[arXiv](https://arxiv.org/abs/2102.09542)] [[Dataset](https://www.med-vqa.com/slake/)] 
 
-[5] **PathVQA**, Towards Visual Question Answering on Pathology Images*<br>
+[5] **PathVQA**, Towards Visual Question Answering on Pathology Images<br>
 Xuehai He, Zhuo Cai, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing, **[Pengtao Xie\*](https://scholar.google.com/citations?user=cnncomYAAAAJ)** <br>
 *Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP), Volume 2: Short Papers*, 708–718, **2021**. <br>
 [[DOI](https://doi.org/10.18653/v1/2021.acl-short.90)] [[Publisher](https://aclanthology.org/2021.acl-short.90/)] [[PDF](https://aclanthology.org/2021.acl-short.90.pdf)] [[Code/Dataset](https://github.com/UCSD-AI4H/PathVQA)]
