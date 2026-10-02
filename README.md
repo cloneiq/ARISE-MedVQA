@@ -136,7 +136,7 @@ Léo Butsanets, Charles Corbière, Julien Khlaut, Pierre Manceron, Corentin Danc
 
 [15] **MedMax:** Mixed-Modal Instruction Tuning for Training Biomedical Assistants <br>
 Hritik Bansal, Daniel Israel, Siyan Zhao, Shufan Li, Tung Nguyen, Aditya Grover <br>
-*Advances in Neural Information Processing Systems (NeurIPS)*, **38**, Datasets and Benchmarks Track, **2025**. <br>
+*Advances in Neural Information Processing Systems (NeurIPS)*, 38, Datasets and Benchmarks Track, **2025**. <br>
 [[DOI](https://doi.org/10.52202/085713-3588)] [[Publisher](https://proceedings.neurips.cc/paper_files/paper/2025/hash/9a6f7d845cf12385524f0f27ab26f57e-Abstract-Datasets_and_Benchmarks_Track.html)] [[arXiv](https://arxiv.org/abs/2412.12661)] [[Code](https://github.com/Hritikbansal/medmax)] [[Dataset](https://huggingface.co/datasets/mint-medmax/medmax_data)] [[Project](https://mint-medmax.github.io/)]
 
 ## 1.3 Chest X-ray VQA and Report-Driven Question Answering Datasets
@@ -156,6 +156,32 @@ Medical Image Analysis [2024]
 [19] Radialog: Large vision-language models for X-ray reporting and dialog-driven assistance<br>
 C. Pellegrini, et al.<br>
 MIDL [2025]
+
+
+
+[16] **EHRXQA**: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images
+Seongsu Bae, Daeun Kyung, Jaehee Ryu, Eunbyeol Cho, Gyubok Lee, Sunjun Kweon, Jungwoo Oh, Lei Ji, Eric I. Chang, Tackeun Kim, Edward Choi
+*Advances in Neural Information Processing Systems (NeurIPS)*, 36, Datasets and Benchmarks Track, 3867–3880, **2023**.
+[[DOI](https://doi.org/10.52202/075280-0170)] [[Publisher](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0c007ebef1d11fd48da6ce4f54687db6-Abstract-Datasets_and_Benchmarks.html)] [[arXiv](https://arxiv.org/abs/2310.18652)] [[Code/Dataset](https://github.com/baeseongsu/ehrxqa)]
+
+[17] **Medical-Diff-VQA**，Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering
+Xinyue Hu, Lin Gu, Qiyuan An, Mengliang Zhang, Liangchen Liu, Kazuma Kobayashi, Tatsuya Harada, Ronald M. Summers, Yingying Zhu
+*Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 4156–4165, **2023**.
+[[DOI](https://doi.org/10.1145/3580305.3599819)] [[Publisher](https://dl.acm.org/doi/10.1145/3580305.3599819)] [[arXiv](https://arxiv.org/abs/2307.11986)] [[Code/Dataset](https://github.com/Holipori/MIMIC-Diff-VQA)]
+
+[18] **Medical-CXR-VQA**, Interpretable Medical Image Visual Question Answering via Multi-Modal Relationship Graph Learning
+Xinyue Hu, Lin Gu, Kazuma Kobayashi, Liangchen Liu, Mengliang Zhang, Tatsuya Harada, Ronald M. Summers, Yingying Zhu
+*Medical Image Analysis*, 97, 103279, **2024**.
+[[DOI](https://doi.org/10.1016/j.media.2024.103279)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841524002044)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39079429/)] [[Code/Dataset](https://github.com/Holipori/Medical-CXR-VQA)]
+
+[19] **RaDialog**: Large Vision-Language Models for X-Ray Reporting and Dialog-Driven Assistance
+Chantal Pellegrini, Ege Özsoy, Benjamin Busam, Benedikt Wiestler, Nassir Navab, Matthias Keicher
+*Proceedings of Machine Learning Research (PMLR)*, 301, 1294–1312, **2026**.
+[[Publisher](https://proceedings.mlr.press/v301/pellegrini26a.html)] [[PDF](https://proceedings.mlr.press/v301/pellegrini26a/pellegrini26a.pdf)] [[arXiv](https://arxiv.org/abs/2311.18681)] [[Code](https://github.com/ChantalMP/RaDialog)] [[Dataset](https://physionet.org/content/radialog-instruct-dataset/1.1.0/)]
+
+
+
+
 
 [21] **VinDr-CXR-VQA: A Visual Question Answering Dataset for Explainable Chest X-Ray Analysis with Multi-Task Learning** <br>
 Hai-Dang Nguyen, Ha-Hieu Pham, Hao T. Nguyen, **[Huy-Hieu Pham\*](https://scholar.google.com/citations?user=mXcFcNkAAAAJ)** <br>
