@@ -352,8 +352,7 @@ Suhao Yu, Haojin Wang, Juncheng Wu, Cihang Xie, Yuyin Zhou  <br>
 *arXiv preprint arXiv:2505.16964*, **2025**.  <br>
 [[arXiv](https://arxiv.org/abs/2505.16964)] [[Project](https://ucsc-vlaa.github.io/MedFrameQA/)] [[Code](https://github.com/haojinw0027/MedFrameQA)] [[Dataset](https://huggingface.co/datasets/SuhaoYu1020/MedFrameQA)]
 
-[57] **MedDQA: Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**  <br>
-Qing Peng, Yuan Cai, Jie Liu, Qiang Zou, Xin Chen, Zhen Zhong, Zhen Wang, Jun Xie, Qing Li  <br>
+[57] **MedDQA: Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**  <br>Qi Peng , Yi Cai ,  Jiankun Liu, Quan Zou, Xing Chen, Zheng Zhong, Zefeng Wang, [**Jiayuan Xie***](https://scholar.google.com/citations?user=yZOXh24AAAAJ&hl=zh-CN) , and Qing Li <br>
 *IEEE Transactions on Medical Imaging*, 44(3), 1373–1385, **2025**.  <br>
 [[DOI](https://doi.org/10.1109/TMI.2024.3496862)] [[Publisher](https://ieeexplore.ieee.org/document/10748057)] [Code](https://github.com/pqpq17/MMA) [Dataset](https://drive.google.com/file/d/1zHmIb7Ej3lb3z6KO_pT9IfX0YBZJapFF/view?usp=sharing)
 
