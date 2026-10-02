@@ -337,32 +337,32 @@ Ting Yu, Binhui Ge, Shuhui Wang, Yan Yang, Qingming Huang, Jun Yu  <br>
 
 [54] **MMMED: A Multilingual Multimodal Medical Examination Dataset for Visual Question Answering in Healthcare**  <br>
 Giovanni Riccio, Marco Carminati, Andrea Galassi, Lorenzo Baraldi, Rita Cucchiara  <br>
-*2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)*, 2025.  <br>
+*2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)*, **2025**.  <br>
 [[DOI](https://doi.org/10.1109/CBMS65348.2025.00093)] [[Publisher](https://ieeexplore.ieee.org/document/11058719)] [[Dataset](https://huggingface.co/datasets/praiselab-picuslab/MMMED)] [[Code](https://github.com/PRAISELab-PicusLab/MMMED)]
 
 [55] **MEDSQ: Towards Personalized Medical Education via Multi-Form Interaction Guidance**  <br>
 Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, Jing Wang, Yawen Zeng  <br>
-*Expert Systems with Applications*, **267**, 126138, 2025.  <br>
+*Expert Systems with Applications*, 267, 126138, **2025**.  <br>
 [[DOI](https://doi.org/10.1016/j.eswa.2024.126138)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417424030057)] [[Code/Dataset](https://github.com/JaneGovan/MEDSQ)]
 
 [55] **MEDSQ: Towards Personalized Medical Education via Multi-Form Interaction Guidance**  <br>
 Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, Jing Wang, Yawen Zeng  <br>
-*Expert Systems with Applications*, **267**, 126138, 2025.  <br>
+*Expert Systems with Applications*, 267, 126138, **2025**.  <br>
 [[DOI](https://doi.org/10.1016/j.eswa.2024.126138)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417424030057)] [[Code/Dataset](https://github.com/JaneGovan/MEDSQ)]
 
 [56] **MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**  <br>
 Suhao Yu, Haojin Wang, Juncheng Wu, Cihang Xie, Yuyin Zhou  <br>
-*arXiv preprint arXiv:2505.16964*, 2025.  <br>
+*arXiv preprint arXiv:2505.16964*, **2025**.  <br>
 [[arXiv](https://arxiv.org/abs/2505.16964)] [[Project](https://ucsc-vlaa.github.io/MedFrameQA/)] [[Code](https://github.com/haojinw0027/MedFrameQA)] [[Dataset](https://huggingface.co/datasets/SuhaoYu1020/MedFrameQA)]
 
 [57] **MedDQA: Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**  <br>
 Qing Peng, Yuan Cai, Jie Liu, Qiang Zou, Xin Chen, Zhen Zhong, Zhen Wang, Jun Xie, Qing Li  <br>
-*IEEE Transactions on Medical Imaging*, **44**(3), 1373–1385, 2025.  <br>
-[[DOI](https://doi.org/10.1109/TMI.2024.3496862)] [[Publisher](https://ieeexplore.ieee.org/document/10748057)]
+*IEEE Transactions on Medical Imaging*, 44(3), 1373–1385, **2025**.  <br>
+[[DOI](https://doi.org/10.1109/TMI.2024.3496862)] [[Publisher](https://ieeexplore.ieee.org/document/10748057)] [Code](https://github.com/pqpq17/MMA) [Dataset](https://drive.google.com/file/d/1zHmIb7Ej3lb3z6KO_pT9IfX0YBZJapFF/view?usp=sharing)
 
 [58] **SilVar-Med: A Speech-Driven Visual Language Model for Explainable Abnormality Detection in Medical Imaging**  <br>
 Tan-Hanh Pham, Trong-Duong Bui, Minh Luu Quang, Tan-Huong Pham, Chris Ngo, Truong-Son Hy  <br>
-*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2984–2994, 2025.  <br>
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2984–2994, **2025**.  <br>
 [[DOI](https://doi.org/10.1109/CVPRW67362.2025.00281)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025W/MAR/html/Pham_SilVar-Med_A_Speech-Driven_Visual_Language_Model_for_Explainable_Abnormality_Detection_CVPRW_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2504.10642)] [[Code/Dataset](https://github.com/hanhpt23/silvarmed)]
 
 # Methods (Selected)
