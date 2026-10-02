@@ -342,11 +342,6 @@ Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, Jing Wang, Yawen Zeng  <br>
 *Expert Systems with Applications*, 267, 126138, **2025**.  <br>
 [[DOI](https://doi.org/10.1016/j.eswa.2024.126138)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417424030057)] [[Code/Dataset](https://github.com/JaneGovan/MEDSQ)]
 
-[55] **MEDSQ: Towards Personalized Medical Education via Multi-Form Interaction Guidance**  <br>
-Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, Jing Wang, Yawen Zeng  <br>
-*Expert Systems with Applications*, 267, 126138, **2025**.  <br>
-[[DOI](https://doi.org/10.1016/j.eswa.2024.126138)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417424030057)] [[Code/Dataset](https://github.com/JaneGovan/MEDSQ)]
-
 [56] **MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**  <br>
 Suhao Yu, Haojin Wang, Juncheng Wu, Cihang Xie, Yuyin Zhou  <br>
 *arXiv preprint arXiv:2505.16964*, **2025**.  <br>
