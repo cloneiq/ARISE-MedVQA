@@ -212,31 +212,37 @@ Pusheng Xu, Xia Gong, Xiaolan Chen, Weiyi Zhang, Jiancheng Yang, Bingjie Yan, Me
 
 ### 1.4.2 Pathology and Whole Slide Image VQA
 
-[30] **WSI-VQA**, WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering<br>
-P. Chen, et al.<br>
-ECCV [2024]
+[30] **WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering** <br>
+Pingyi Chen, Chenglu Zhu, Sunyi Zheng, Honglin Li, Lin Yang <br>
+*Computer Vision – ECCV 2024 Workshops*, 401–417, **2024**. <br>
+[[Publisher](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5355_ECCV_2024_paper.php)] [[arXiv](https://arxiv.org/abs/2407.05603)] [[Code](https://github.com/cpystan/WSI-VQA)]
 
-[31] **QuiltVQA-RED / Quilt-VQA / Quilt-LLaVA-Instruct-107K**, Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos<br>
-M. S. Seyfioglu, et al.<br>
-CVPR [2024]
+[31] **Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos** <br>
+Mehmet Saygin Seyfioglu, Wisdom O. Ikezogwo, Fatemeh Ghezloo, Ranjay Krishna, Linda Shapiro <br>
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 13183–13192, **2024**. <br>
+[[DOI](https://doi.org/10.1109/CVPR52733.2024.01252)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2024/html/Seyfioglu_Quilt-LLaVA_Visual_Instruction_Tuning_by_Extracting_Localized_Narratives_from_Open-Source_CVPR_2024_paper.html)] [[arXiv](https://arxiv.org/abs/2312.04746)] [[Code](https://github.com/aldraus/quilt-llava)] [[Project](https://quilt-llava.github.io/)] 
 
 ### 1.4.3 Gastrointestinal Endoscopy and Digestive-Tract VQA
 
-[32] **MEDVQA-GI**, Overview of ImageCLEFmedical 2023: Medical Visual Question Answering for Gastrointestinal Tract<br>
-S. Hicks, et al.<br>
-CLEF Working Notes [2023]
+[32] **MEDVQA-GI: Overview of ImageCLEFmedical 2023: Medical Visual Question Answering for Gastrointestinal Tract**  <br>
+Steven Hicks, Andrea Storås, Pål Halvorsen, Vajira Thambawita, Michael A. Riegler  <br>
+*CLEF 2023 Working Notes*, **CEUR Workshop Proceedings 3497,** **2023**.  <br>
+[[Publisher](https://ceur-ws.org/Vol-3497/)] [[PDF](https://ceur-ws.org/Vol-3497/paper-131.pdf)] [[Challenge](https://www.imageclef.org/2023/medical/vqa)]
 
-[33] **Kvasir-VQA**, Kvasir-VQA: A Text-Image Pair GI Tract Dataset<br>
-S. Gautam, et al.<br>
-International Workshop on Vision-Language Models for Biomedical Applications [2024]
+[33] **Kvasir-VQA: A Text-Image Pair GI Tract Dataset**  <br>
+Sushant Gautam, Andrea Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Pål Halvorsen, Michael A. Riegler  <br>
+*Proceedings of the First International Workshop on Vision-Language Models for Biomedical Applications (VLM4Bio '24)*, 3–12, **2024**.  <br>
+[[DOI](https://doi.org/10.1145/3689096.3689458)] [[Publisher](https://dl.acm.org/doi/10.1145/3689096.3689458)] [[Dataset](https://datasets.simula.no/kvasir-vqa/)] [[Code](https://github.com/simula/Kvasir-VQA)]
 
-[34] **Kvasir-VQA-x1**, Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy<br>
-S. Gautam, M. A. Riegler, P. Halvorsen<br>
-MICCAI Workshop on Data Engineering in Medical Imaging [2025]
+[34] **Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**  <br>
+Sushant Gautam, Michael A. Riegler, Pål Halvorsen  <br>
+*Data Engineering in Medical Imaging (DEMI 2025), MICCAI Workshop*, LNCS 16053, 53–63, **2025**.  <br>
+[[DOI](https://doi.org/10.1007/978-3-032-08009-7_6)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-08009-7_6)] [[arXiv](https://arxiv.org/abs/2506.09958)] [[Code](https://github.com/simula/Kvasir-VQA-x1)] [[Dataset](https://datasets.simula.no/kvasir-vqa-x1/)]
 
-[35] **ColonINST**, Frontiers in Intelligent Colonoscopy<br>
-G.-P. Ji, et al.<br>
-Machine Intelligence Research [2026]
+[35] **Frontiers in Intelligent Colonoscopy**  <br>
+Ge-Peng Ji, Jingyi Liu, Peng Xu, Nick Barnes, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan  <br>
+*Machine Intelligence Research*, 23, 70–114, **2026**.  <br>
+[[DOI](https://doi.org/10.1007/s11633-025-1597-6)] [[Publisher](https://link.springer.com/article/10.1007/s11633-025-1597-6)] [[Code/Project](https://github.com/ai4colonoscopy/IntelliScope)] [[arXiv](https://arxiv.org/abs/2410.17241)]
 
 ### 1.4.4 Surgical and Robotic Surgery VQA
 
