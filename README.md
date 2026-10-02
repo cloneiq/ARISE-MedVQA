@@ -115,10 +115,10 @@ Jian Huang, Yihao Chen, Yong Li, [**Zhenguo Yang***](https://yzw.gdut.edu.cn/inf
 
 [11] **OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**<br>Yutao Hu, Tianbin Li, Quanfeng Lu, [**Wenqi Shao\***](https://scholar.google.com/citations?user=Bs9mrwwAAAAJ), Junjun He, Yu Qiao, [**Ping Luo\***](https://scholar.google.com/citations?user=aXdjxb4AAAAJ) <br>*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 22170–22183, **2024.** <br>[[DOI](https://doi.org/10.1109/CVPR52733.2024.02093)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2024/html/Hu_OmniMedVQA_A_New_Large-Scale_Comprehensive_Evaluation_Benchmark_for_Medical_LVLM_CVPR_2024_paper.html)] [[arXiv](https://arxiv.org/abs/2402.09181)] [[Code](https://github.com/OpenGVLab/Multi-Modality-Arena)] [[Dataset](https://huggingface.co/datasets/foreverbeliever/OmniMedVQA)]
 
-[12]  **M3D-VQA, M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models** <br>
-Fan Bai, Yuxin Du, Tiejun Huang, Max Q.-H. Meng, Bo Zhao <br>
+[12]  **M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models** <br>
+Fan Bai, Yuxin Du, Tiejun Huang, Max Q.-H. Meng, [**Bo Zhao***](https://scholar.google.com/citations?user=R3_AR5EAAAAJ&hl=zh-CN) <br>
 *arXiv preprint*, arXiv:2404.00578, **2024**. <br>
-[[arXiv](https://arxiv.org/abs/2404.00578)] [[Code](https://github.com/BAAI-DCAI/M3D)] [[Dataset](https://huggingface.co/datasets/GoodBaiBai88/M3D-VQA)]
+[[arXiv](https://arxiv.org/abs/2404.00578)] [[Code](https://github.com/BAAI-DCAI/M3D)] [[Dataset](https://huggingface.co/datasets/GoodBaiBai88/M3D-VQA)] [[M3D-VQA](https://huggingface.co/datasets/GoodBaiBai88/M3D-VQA)]
 
 [13] **3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks** <br>
 Xiaotang Gai, Jiaxiang Liu, Yichen Li, Zijie Meng, Jian Wu, [**Zuozhu Liu\***](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl=en) <br>
@@ -131,24 +131,24 @@ Léo Butsanets, Charles Corbière, Julien Khlaut, Pierre Manceron, Corentin Danc
 [[Publisher](https://proceedings.mlr.press/v315/butsanets26a.html)] [[arXiv](https://arxiv.org/abs/2512.17396)] [[Dataset](https://huggingface.co/datasets/raidium/RadImageNet-VQA)]
 
 [15] **MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants** <br>
-Hritik Bansal, Daniel Israel, Siyan Zhao, Shufan Li, Tung Nguyen, Aditya Grover <br>
+Hritik Bansal, Daniel Israel, [**Siyan Zhao***](https://siyan-zhao.github.io/), Shufan Li, Tung Nguyen, Aditya Grover <br>
 *Advances in Neural Information Processing Systems (NeurIPS)*, 38, Datasets and Benchmarks Track, **2025**. <br>
 [[DOI](https://doi.org/10.52202/085713-3588)] [[Publisher](https://proceedings.neurips.cc/paper_files/paper/2025/hash/9a6f7d845cf12385524f0f27ab26f57e-Abstract-Datasets_and_Benchmarks_Track.html)] [[arXiv](https://arxiv.org/abs/2412.12661)] [[Code](https://github.com/Hritikbansal/medmax)] [[Dataset](https://huggingface.co/datasets/mint-medmax/medmax_data)] [[Project](https://mint-medmax.github.io/)]
 
 ## 1.3 Chest X-ray VQA and Report-Driven Question Answering Datasets
 
 [16] **EHRXQA: A Multi-Modal Question Answering Dataset for Electronic Health Records with Chest X-ray Images**<br>
-Seongsu Bae, Daeun Kyung, Jaehee Ryu, Eunbyeol Cho, Gyubok Lee, Sunjun Kweon, Jungwoo Oh, Lei Ji, Eric I. Chang, Tackeun Kim, Edward Choi<br>
+Seongsu Bae, Daeun Kyung, Jaehee Ryu, Eunbyeol Cho, Gyubok Lee, Sunjun Kweon, Jungwoo Oh, Lei Ji, Eric I. Chang, Tackeun Kim, [**Edward Choi***](https://scholar.google.com/citations?user=GUlGIPkAAAAJ&hl=en)<br>
 *Advances in Neural Information Processing Systems (NeurIPS)*, 36, Datasets and Benchmarks Track, 3867–3880, **2023**.<br>
 [[DOI](https://doi.org/10.52202/075280-0170)] [[Publisher](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0c007ebef1d11fd48da6ce4f54687db6-Abstract-Datasets_and_Benchmarks.html)] [[arXiv](https://arxiv.org/abs/2310.18652)] [[Code/Dataset](https://github.com/baeseongsu/ehrxqa)]
 
 [17] **Medical-Diff-VQA，Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering**<br>
-Xinyue Hu, Lin Gu, Qiyuan An, Mengliang Zhang, Liangchen Liu, Kazuma Kobayashi, Tatsuya Harada, Ronald M. Summers, Yingying Zhu<br>
+Xinyue Hu, Lin Gu, Qiyuan An, Mengliang Zhang, Liangchen Liu, Kazuma Kobayashi, Tatsuya Harada, Ronald M. Summers, [**Yingying Zhu***](https://scholar.google.com/citations?user=PMjtni8AAAAJ&hl=en)<br>
 *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 4156–4165, **2023**.<br>
 [[DOI](https://doi.org/10.1145/3580305.3599819)] [[Publisher](https://dl.acm.org/doi/10.1145/3580305.3599819)] [[arXiv](https://arxiv.org/abs/2307.11986)] [[Code/Dataset](https://github.com/Holipori/MIMIC-Diff-VQA)]
 
 [18] **Medical-CXR-VQA, Interpretable Medical Image Visual Question Answering via Multi-Modal Relationship Graph Learning**<br>
-Xinyue Hu, Lin Gu, Kazuma Kobayashi, Liangchen Liu, Mengliang Zhang, Tatsuya Harada, Ronald M. Summers, Yingying Zhu<br>
+Xinyue Hu, Lin Gu, Kazuma Kobayashi, Liangchen Liu, Mengliang Zhang, Tatsuya Harada, Ronald M. Summers, [**Yingying Zhu***](https://scholar.google.com/citations?user=PMjtni8AAAAJ&hl=en)<br>
 *Medical Image Analysis*, 97, 103279, **2024**.<br>
 [[DOI](https://doi.org/10.1016/j.media.2024.103279)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841524002044)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39079429/)] [[Code/Dataset](https://github.com/Holipori/Medical-CXR-VQA)]
 
