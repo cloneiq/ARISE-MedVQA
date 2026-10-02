@@ -305,40 +305,39 @@ Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Meliha Yetisgen, Noel Codella, Roberto 
 
 ## 1.5 Localized, Explainable, and Reasoning-Enhanced VQA Datasets
 
-[49] **EndoVis-17-VQLA, EndoVis-18-VQLA, Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**  <br>
-Long Bai, Mobarakol Islam, Lalithkumar Seenivasan, Hongliang Ren  <br>
+[49] **Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**  <br>
+Long Bai, Mobarakol Islam, Lalithkumar Seenivasan, [**Hongliang Ren***](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en)  <br>
 *2023 IEEE International Conference on Robotics and Automation (ICRA)*, 6859–6865, **2023**.  <br>
-[[DOI](https://doi.org/10.1109/ICRA48891.2023.10160403)] [[Publisher](https://ieeexplore.ieee.org/document/10160403)] [[arXiv](https://arxiv.org/abs/2303.14448)] [[Code](https://github.com/longbai1006/Surgical-VQLA)]
+[[DOI](https://doi.org/10.1109/ICRA48891.2023.10160403)] [[Publisher](https://ieeexplore.ieee.org/document/10160403)] [[arXiv](https://arxiv.org/abs/2303.14448)] [[Code](https://github.com/longbai1006/Surgical-VQLA)] [[EndoVis-17-VQLA](https://drive.google.com/file/d/1PQ-SDxwiNXs5nmV7PuBgBUlfaRRQaQAU/view?usp=sharing)] [[EndoVis-18-VQA](https://drive.google.com/file/d/1m7CSNY9PcUoCAUO_DoppDCi_l2L2RiFN/view?usp=sharing)]
 
 [50] **MedThink: A Rationale-Guided Framework for Explaining Medical Visual Question Answering**  <br>
-Xiaotang Gai, Chenyi Zhou, Jiaxiang Liu, Yang Feng, Jian Wu, Zuozhu Liu  <br>
+Xiaotang Gai, Chenyi Zhou, Jiaxiang Liu, Yang Feng, Jian Wu, [**Zuozhu Liu\*** ](https://scholar.google.com/citations?user=h602wLIAAAAJ&hl=en) <br>
 *Findings of the Association for Computational Linguistics: NAACL 2025*, 7453–7465, **2025**.  <br>
-[[DOI](https://doi.org/10.18653/v1/2025.findings-naacl.415)] [[Publisher](https://aclanthology.org/2025.findings-naacl.415/)] [[PDF](https://aclanthology.org/2025.findings-naacl.415.pdf)] [[Code](https://github.com/Tang-xiaoxiao/Medthink)]
+[[DOI](https://doi.org/10.18653/v1/2025.findings-naacl.415)] [[Publisher](https://aclanthology.org/2025.findings-naacl.415/)] [[PDF](https://aclanthology.org/2025.findings-naacl.415.pdf)] [[Code](https://github.com/Tang-xiaoxiao/Medthink)] [[Dataset](https://github.com/Tang-xiaoxiao/Medthink/tree/main/Medthink_Dataset)]
 
-[51] **Med-SER: Enhancing Reasoning Interpretability in Medical Visual Question Answering via Structured Chain-of-Thought**  <br>
-Jinhao Qiao, Sihan Li, Jiang Liu, Heng Yu, Yi Xiao, Hongshan Yu, Yan Zheng  <br>
+[51] **VQA-RAD-SCoT, Med-SER: Enhancing Reasoning Interpretability in Medical Visual Question Answering via Structured Chain-of-Thought**  <br>
+Jinhao Qiao, Sihan Li, Jiang Liu, Heng Yu, Yi Xiao, Hongshan Yu, [**Yan Zheng***](https://eeit.hnu.edu.cn/info/1314/4584.htm)  <br>
 *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 4036–4040, **2025**.  <br>
-[[DOI](https://doi.org/10.1109/BIBM66473.2025.11356359)] [[Publisher](https://ieeexplore.ieee.org/document/11356359)]
+[[DOI](https://doi.org/10.1109/BIBM66473.2025.11356359)] [[Publisher](https://ieeexplore.ieee.org/document/11356359)] [[Code/Dataset](https://github.com/qiaodongxing/Med-SCoT)]
 
 [52] **MeCoVQA: Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**  <br>
-Xiaoshuang Huang, Lingdong Shen, Jia Liu, Fangxin Shang, Hongxiang Li, Haifeng Huang, Yehui Yang  <br>
-*Proceedings of the AAAI Conference on Artificial Intelligence*, **39**(4), 3779–3787, **2025**.  <br>
-[[DOI](https://doi.org/10.1609/AAAI.V39I4.32394)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/32394)]
+Xiaoshuang Huang, Lingdong Shen, Jia Liu, Fangxin Shang, Hongxiang Li, Haifeng Huang, [**Yehui Yang***](https://scholar.google.com.hk/citations?user=mD0yUUMAAAAJ)  <br>
+*Proceedings of the AAAI Conference on Artificial Intelligence*, 39(4), 3779–3787, **2025**.  <br>
+[[DOI](https://doi.org/10.1609/AAAI.V39I4.32394)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/32394)] [[Code](https://github.com/shawnhuang497/medplib)] [[Dataset](https://drive.google.com/file/d/1zIZJ5OBmV3OPc41H_Iaz9mdEh7wHmHqv/view?usp=drive_link)]  [[SA-Med2D-20M](https://huggingface.co/datasets/OpenGVLab/SA-Med2D-20M)]
 
 [53] **C-SLAKE: Consistency Conditioned Memory Augmented Dynamic Diagnosis Model for Medical Visual Question Answering**  <br>
-Ting Yu, Binhui Ge, Shuhui Wang, Yan Yang, Qingming Huang, Jun Yu  <br>
-*IEEE Journal of Biomedical and Health Informatics*, **29**(2), 1357–1370, **2025**.  <br>
-[[DOI](https://doi.org/10.1109/JBHI.2024.3492141)] [[Publisher](https://ieeexplore.ieee.org/document/10746333)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41364559/)]
+**Ting Yu***, Binhui Ge, Shuhui Wang, Yan Yang, Qingming Huang, Jun Yu  <br>
+*IEEE Journal of Biomedical and Health Informatics*, 29(2), 1357–1370, **2025**.  <br>
+[[DOI](https://doi.org/10.1109/JBHI.2024.3492141)] [[Publisher](https://ieeexplore.ieee.org/document/10746333)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41364559/)] [[Code](https://github.com/OpenMICG/CoCoMeD)] [[DME](https://zenodo.org/record/6784358)] [[C-SLAKE](https://github.com/OpenMICG/CSLAKE)]
 
 ## 1.6 Medical Education, Examination, Multi-Source Data, and Interactive Question Answering Resources
 
-[54] **MMMED: A Multilingual Multimodal Medical Examination Dataset for Visual Question Answering in Healthcare**  <br>
-Giovanni Riccio, Marco Carminati, Andrea Galassi, Lorenzo Baraldi, Rita Cucchiara  <br>
+[54] **MMMED: A Multilingual Multimodal Medical Examination Dataset for Visual Question Answering in Healthcare**  <br>Giuseppe Riccio, Antonio Romano, Mariano Barone, Gian Marco Orlando, Diego Russo, [**Marco Postiglione***](https://scholar.google.com/citations?user=_wU3MxUAAAAJ&hl=it), [**Valerio La Gatta***](https://scholar.google.com/citations?user=n1AQBRYAAAAJ&hl=en), and Vincenzo Moscato. <br>
 *2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)*, **2025**.  <br>
 [[DOI](https://doi.org/10.1109/CBMS65348.2025.00093)] [[Publisher](https://ieeexplore.ieee.org/document/11058719)] [[Dataset](https://huggingface.co/datasets/praiselab-picuslab/MMMED)] [[Code](https://github.com/PRAISELab-PicusLab/MMMED)]
 
 [55] **MEDSQ: Towards Personalized Medical Education via Multi-Form Interaction Guidance**  <br>
-Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, Jing Wang, Yawen Zeng  <br>
+Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, **Jing Wang***, Yawen Zeng  <br>
 *Expert Systems with Applications*, 267, 126138, **2025**.  <br>
 [[DOI](https://doi.org/10.1016/j.eswa.2024.126138)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417424030057)] [[Code/Dataset](https://github.com/JaneGovan/MEDSQ)]
 
@@ -352,9 +351,9 @@ Suhao Yu, Haojin Wang, Juncheng Wu, Cihang Xie, Yuyin Zhou  <br>
 [[DOI](https://doi.org/10.1109/TMI.2024.3496862)] [[Publisher](https://ieeexplore.ieee.org/document/10748057)] [Code](https://github.com/pqpq17/MMA) [Dataset](https://drive.google.com/file/d/1zHmIb7Ej3lb3z6KO_pT9IfX0YBZJapFF/view?usp=sharing)
 
 [58] **SilVar-Med: A Speech-Driven Visual Language Model for Explainable Abnormality Detection in Medical Imaging**  <br>
-Tan-Hanh Pham, Trong-Duong Bui, Minh Luu Quang, Tan-Huong Pham, Chris Ngo, Truong-Son Hy  <br>
+**Tan-Hanh Pham***, Trong-Duong Bui, Minh Luu Quang, Tan-Huong Pham, Chris Ngo, Truong-Son Hy  <br>
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2984–2994, **2025**.  <br>
-[[DOI](https://doi.org/10.1109/CVPRW67362.2025.00281)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025W/MAR/html/Pham_SilVar-Med_A_Speech-Driven_Visual_Language_Model_for_Explainable_Abnormality_Detection_CVPRW_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2504.10642)] [[Code/Dataset](https://github.com/hanhpt23/silvarmed)]
+[[DOI](https://doi.org/10.1109/CVPRW67362.2025.00281)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025W/MAR/html/Pham_SilVar-Med_A_Speech-Driven_Visual_Language_Model_for_Explainable_Abnormality_Detection_CVPRW_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2504.10642)] [[Code](https://github.com/hanhpt23/silvarmed)] [[Dataset](https://huggingface.co/datasets/Hanhpt23/Silvar-Med)]
 
 # Methods (Selected)
 
