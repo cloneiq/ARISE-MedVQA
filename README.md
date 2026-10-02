@@ -86,7 +86,7 @@ Asma Ben Abacha, Vivek V. Datla, Sadid A. Hasan, Dina Demner-Fushman, Henning M�
 [[Publisher](https://ceur-ws.org/Vol-2696/)] [[PDF](https://ceur-ws.org/Vol-2696/paper_106.pdf)] [[Code/Dataset](https://github.com/abachaa/VQA-Med-2020)]
 
 [4] **SLAKE: A Semantically-Labeled Knowledge-Enhanced Dataset for Medical Visual Question Answering** <br>
-Bo Liu, Li-Ming Zhan, Li Xu, Lin Ma, Yan Yang, **Xiao-Ming Wu\*** <br>
+Bo Liu, Li-Ming Zhan, Li Xu, Lin Ma, Yan Yang, [**Xiao-Ming Wu\***](https://scholar.google.com/citations?user=3KbaUFkAAAAJ&hl=en) <br>
 *2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*, 1650–1654, **2021**. <br>
 [[DOI](https://doi.org/10.1109/ISBI48211.2021.9434010)] [[Publisher](https://ieeexplore.ieee.org/document/9434010)] [[arXiv](https://arxiv.org/abs/2102.09542)] [[Dataset](https://www.med-vqa.com/slake/)] 
 
@@ -96,18 +96,18 @@ Xuehai He, Zhuo Cai, Wenlan Wei, Yichen Zhang, Luntian Mou, Eric Xing, **[Pengta
 [[DOI](https://doi.org/10.18653/v1/2021.acl-short.90)] [[Publisher](https://aclanthology.org/2021.acl-short.90/)] [[PDF](https://aclanthology.org/2021.acl-short.90.pdf)] [[Code/Dataset](https://github.com/UCSD-AI4H/PathVQA)]
 
 [6] **OVQA: A Clinically Generated Visual Question Answering Dataset** <br>
-Yefan Huang, Xiaoli Wang, Feiyan Liu, Guofeng Huang <br>
+Yefan Huang, [**Xiaoli Wang***](https://scholar.google.com/citations?user=gXjyRxsAAAAJ&hl=en), Feiyan Liu, Guofeng Huang <br>
 *Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)*, 2924–2938, **2022**. <br>
-[[DOI](https://doi.org/10.1145/3477495.3531724)] [[Publisher](https://dl.acm.org/doi/10.1145/3477495.3531724)] [[arXiv](https://arxiv.org/abs/2211.06862)]
+[[DOI](https://doi.org/10.1145/3477495.3531724)] [[Publisher](https://dl.acm.org/doi/10.1145/3477495.3531724)] [[arXiv](https://arxiv.org/abs/2211.06862)] [[~~Dataset~~](http://47.94.174.82)]
 
 [7] **P-VQA, Medical Knowledge-Based Network for Patient-Oriented Visual Question Answering**<br>
-Jian Huang, Yihao Chen, Yong Li, Zhenguo Yang, Xuehao Gong, Fu Lee Wang, Xiaohong Xu, Wenyin Liu <br>
+Jian Huang, Yihao Chen, Yong Li, [**Zhenguo Yang***](https://yzw.gdut.edu.cn/info/1082/2458.htm), Xuehao Gong, Fu Lee Wang, Xiaohong Xu, Wenyin Liu <br>
 *Information Processing & Management*, 60(2), 103241, **2023**. <br>
-[[DOI](https://doi.org/10.1016/j.ipm.2022.103241)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0306457322003429)] [[Code/Dataset](https://github.com/cs-jerhuang/P-VQA)]
+[[DOI](https://doi.org/10.1016/j.ipm.2022.103241)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0306457322003429)] [[Code](https://github.com/cs-jerhuang/P-VQA)] [[Dataset: Code 249a](https://pan.baidu.com/s/1WALE9hNVpOIPiBxnQy7QCg)]
 
 ## 1.2 Large-Scale General Medical VQA Datasets
 
-[8] **PMC-OA, PMC-CLIP: Contrastive Language-Image Pre-training Using Biomedical Documents**<br>Weixiong Lin, Ziheng Zhao, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, [**Weidi Xie\***](https://scholar.google.com/citations?user=Vtrqj4gAAAAJ) <br>*Medical Image Computing and Computer Assisted Intervention – MICCAI 2023*, LNCS 14227, 525–536, **2023**. <br>[[DOI](https://doi.org/10.1007/978-3-031-43993-3_51)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_51)] [[arXiv](https://arxiv.org/abs/2303.07240)] [[Code](https://github.com/WeixiongLin/PMC-CLIP)] [[Dataset](https://huggingface.co/datasets/axiong/pmc_oa)]
+[8] **PMC-OA, PMC-CLIP: Contrastive Language-Image Pre-training Using Biomedical Documents**<br>Weixiong Lin, Ziheng Zhao, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, [**Weidi Xie\***](https://scholar.google.com/citations?user=Vtrqj4gAAAAJ) <br>*Medical Image Computing and Computer Assisted Intervention – MICCAI 2023*, LNCS 14227, 525–536, **2023**. <br>[[DOI](https://doi.org/10.1007/978-3-031-43993-3_51)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-43993-3_51)] [[arXiv](https://arxiv.org/abs/2303.07240)] [[Code](https://github.com/WeixiongLin/PMC-CLIP)] [[Dataset-Huggingface](https://huggingface.co/datasets/axiong/pmc_oa)] [[Dataset-Baidu-key: 3iqf](https://pan.baidu.com/s/1mD51oOYbIOqDJSeiPNaCCg)]
 
 [9] **PMC-VQA, Development of a Large-Scale Medical Visual Question-Answering Dataset**<br>Xiaoman Zhang, Chaoyi Wu, Ziheng Zhao, Weixiong Lin, Ya Zhang, **Yanfeng Wang\***, [**Weidi Xie\***](https://scholar.google.com/citations?user=Vtrqj4gAAAAJ) <br>*Communications Medicine*, 4, 277, **2024**. <br>[[DOI](https://doi.org/10.1038/s43856-024-00709-2)] [[Publisher](https://www.nature.com/articles/s43856-024-00709-2)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39709495)] [[Code](https://github.com/xiaoman-zhang/PMC-VQA)] [[Dataset](https://huggingface.co/datasets/xmcmic/PMC-VQA)]
 
@@ -168,7 +168,7 @@ Ankit Pal, Jung-Oh Lee, Xiaoman Zhang, Malaikannan Sankarasubbu, Seunghyeon Roh,
 [[DOI](https://doi.org/10.1142/9789819824755_0018)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41758146/)] [[arXiv](https://arxiv.org/abs/2506.04353)] [[Dataset](https://huggingface.co/datasets/rajpurkarlab/ReXVQA)]
 
 [22] **GEMeX: A Large-Scale, Groundable, and Explainable Medical VQA Benchmark for Chest X-ray Diagnosis** <br>
-Bo Liu, Ke Zou, Li-Ming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xie, Jiannong Cao, **Xiao-Ming Wu\***, **[Huazhu Fu\*](https://scholar.google.com/citations?user=jCvUBYMAAAAJ)** <br>
+Bo Liu, Ke Zou, Li-Ming Zhan, Zexin Lu, Xiaoyu Dong, Yidi Chen, Chengqiang Xie, Jiannong Cao, [**Xiao-Ming Wu\***](https://scholar.google.com/citations?user=3KbaUFkAAAAJ&hl=en), **[Huazhu Fu\*](https://scholar.google.com/citations?user=jCvUBYMAAAAJ)** <br>
 *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 21310–21320, 2025. <br>
 [[DOI](https://doi.org/10.1109/ICCV51701.2025.01979)] [[Publisher](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_GEMeX_A_Large-Scale_Groundable_and_Explainable_Medical_VQA_Benchmark_for_ICCV_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2411.16778)] [[Code](https://github.com/Awenbocc/GEMeX-Project)] [[Project](https://www.med-vqa.com/GEMeX/)]
 
@@ -326,7 +326,7 @@ Xiaoshuang Huang, Lingdong Shen, Jia Liu, Fangxin Shang, Hongxiang Li, Haifeng H
 [[DOI](https://doi.org/10.1609/AAAI.V39I4.32394)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/32394)] [[Code](https://github.com/shawnhuang497/medplib)] [[Dataset](https://drive.google.com/file/d/1zIZJ5OBmV3OPc41H_Iaz9mdEh7wHmHqv/view?usp=drive_link)]  [[SA-Med2D-20M](https://huggingface.co/datasets/OpenGVLab/SA-Med2D-20M)]
 
 [53] **C-SLAKE: Consistency Conditioned Memory Augmented Dynamic Diagnosis Model for Medical Visual Question Answering**  <br>
-**Ting Yu***, Binhui Ge, Shuhui Wang, Yan Yang, Qingming Huang, Jun Yu  <br>
+[**Ting Yu***](https://scholar.google.com/citations?user=01_-U40AAAAJ&hl=en), Binhui Ge, Shuhui Wang, Yan Yang, Qingming Huang, Jun Yu  <br>
 *IEEE Journal of Biomedical and Health Informatics*, 29(2), 1357–1370, **2025**.  <br>
 [[DOI](https://doi.org/10.1109/JBHI.2024.3492141)] [[Publisher](https://ieeexplore.ieee.org/document/10746333)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41364559/)] [[Code](https://github.com/OpenMICG/CoCoMeD)] [[DME](https://zenodo.org/record/6784358)] [[C-SLAKE](https://github.com/OpenMICG/CSLAKE)]
 
