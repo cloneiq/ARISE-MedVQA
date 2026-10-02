@@ -286,74 +286,84 @@ Long Bai, Guankun Wang, Mobarakol Islam, Lalithkumar Seenivasan, An Wang, Hongli
 
 ### 1.4.5 Dermatology, Wound Care, and Mammography VQA
 
-[43] **DermaVQA**, DermaVQA: A Multilingual Visual Question Answering Dataset for Dermatology<br>
-W.-w. Yim, et al.<br>
-MICCAI [2024]
+[43] **DermaVQA: A Multilingual Visual Question Answering Dataset for Dermatology**  <br>
+Wen-wai Yim, Yujuan Fu, Zhaoyi Sun, Asma Ben Abacha, Meliha Yetisgen, Fei Xia  <br>
+*Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, LNCS 15005, 209–219, **2024**.  <br>
+[[DOI](https://doi.org/10.1007/978-3-031-72086-4_20)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_20)] [[Code](https://github.com/velvinnn/DermaVQA)] [[Dataset](https://osf.io/72rp3/)]
 
-[44] **WoundcareVQA**, WoundcareVQA: A multilingual visual question answering benchmark dataset for wound care<br>
-W.-w. Yim, et al.<br>
-Journal of Biomedical Informatics [2025]
+[44] **WoundcareVQA: A Multilingual Visual Question Answering Benchmark Dataset for Wound Care**  <br>
+Wen-wai Yim, Asma Ben Abacha, Robert Doerning, Chia-Yu Chen, Jiaying Xu, Anita Subbarao, Zixuan Yu, Fei Xia, M. Kennedy Hall, Meliha Yetisgen  <br>
+*Journal of Biomedical Informatics*, 170, 104888, **2025**.  <br>
+[[DOI](https://doi.org/10.1016/j.jbi.2025.104888)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1532046425001170)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40886812/)] [[Dataset](https://osf.io/xsj5u/)]
 
-[45] **MammoVQA**, A Benchmark for Breast Cancer Screening and Diagnosis in Mammogram Visual Question Answering<br>
-J. Zhu, et al.<br>
-Nature Communications [2025]
+[45] **MammoVQA: A Benchmark for Breast Cancer Screening and Diagnosis in Mammogram Visual Question Answering**  <br>
+Jiayi Zhu, Fuxiang Huang, Qiong Luo, Hao Chen  <br>
+*Nature Communications*, 16, 11683, **2025**.  <br>
+[[DOI](https://doi.org/10.1038/s41467-025-66507-z)] [[Publisher](https://www.nature.com/articles/s41467-025-66507-z)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41309622/)] [[Code/Dataset](https://github.com/PiggyJerry/MammoVQA)]
 
-[46] **DermaVQA-DAS**, DermaVQA-DAS: Dermatology Assessment Schema (DAS) & Datasets for Closed-Ended Question Answering & Segmentation in Patient-Generated Dermatology Images<br>
-W.-w. Yim, et al.<br>
-arXiv preprint arXiv:2512.24340 [2025]
+[46] **DermaVQA-DAS: Dermatology Assessment Schema (DAS) & Datasets for Closed-Ended Question Answering & Segmentation in Patient-Generated Dermatology Images**  <br>
+Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Meliha Yetisgen, Noel Codella, Roberto Andres Novoa, Josep Malvehy  <br>
+*arXiv preprint*, arXiv:2512.24340, **2025**.  <br>
+[[arXiv](https://arxiv.org/abs/2512.24340)]
 
 ## 1.5 Localized, Explainable, and Reasoning-Enhanced VQA Datasets
 
-[47] **RIS-VQA**, Localized questions in medical visual question answering<br>
-S. Tascon-Morales, P. Márquez-Neila, R. Sznitman<br>
-MICCAI [2023]
+[49] **EndoVis-17-VQLA, EndoVis-18-VQLA, Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery**  <br>
+Long Bai, Mobarakol Islam, Lalithkumar Seenivasan, Hongliang Ren  <br>
+*2023 IEEE International Conference on Robotics and Automation (ICRA)*, 6859–6865, **2023**.  <br>
+[[DOI](https://doi.org/10.1109/ICRA48891.2023.10160403)] [[Publisher](https://ieeexplore.ieee.org/document/10160403)] [[arXiv](https://arxiv.org/abs/2303.14448)] [[Code](https://github.com/longbai1006/Surgical-VQLA)]
 
-[48] **INSEGCAT-VQA**, Localized questions in medical visual question answering<br>
-S. Tascon-Morales, P. Márquez-Neila, R. Sznitman<br>
-MICCAI [2023]
+[50] **MedThink: A Rationale-Guided Framework for Explaining Medical Visual Question Answering**  <br>
+Xiaotang Gai, Chenyi Zhou, Jiaxiang Liu, Yang Feng, Jian Wu, Zuozhu Liu  <br>
+*Findings of the Association for Computational Linguistics: NAACL 2025*, 7453–7465, **2025**.  <br>
+[[DOI](https://doi.org/10.18653/v1/2025.findings-naacl.415)] [[Publisher](https://aclanthology.org/2025.findings-naacl.415/)] [[PDF](https://aclanthology.org/2025.findings-naacl.415.pdf)] [[Code](https://github.com/Tang-xiaoxiao/Medthink)]
 
-[49] **EndoVis-17-VQLA / EndoVis-18-VQLA**, Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery<br>
-L. Bai, et al.<br>
-ICRA [2023]
+[51] **Med-SER: Enhancing Reasoning Interpretability in Medical Visual Question Answering via Structured Chain-of-Thought**  <br>
+Jinhao Qiao, Sihan Li, Jiang Liu, Heng Yu, Yi Xiao, Hongshan Yu, Yan Zheng  <br>
+*2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 4036–4040, **2025**.  <br>
+[[DOI](https://doi.org/10.1109/BIBM66473.2025.11356359)] [[Publisher](https://ieeexplore.ieee.org/document/11356359)]
 
-[50] **MedThink**, MedThink: A Rationale-Guided Framework for Explaining Medical Visual Question Answering<br>
-X. Gai, et al.<br>
-Findings of ACL: NAACL [2025]
+[52] **MeCoVQA: Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine**  <br>
+Xiaoshuang Huang, Lingdong Shen, Jia Liu, Fangxin Shang, Hongxiang Li, Haifeng Huang, Yehui Yang  <br>
+*Proceedings of the AAAI Conference on Artificial Intelligence*, **39**(4), 3779–3787, **2025**.  <br>
+[[DOI](https://doi.org/10.1609/AAAI.V39I4.32394)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/32394)]
 
-[51] **Med-SER**, Med-SER: Enhancing Reasoning Interpretability in Medical Visual Question Answering via Structured Chain-of-Thought<br>
-J. Qiao, et al.<br>
-BIBM [2025]
-
-[52] **MeCoVQA**, Towards a multimodal large language model with pixel-level insight for biomedicine<br>
-X. Huang, et al.<br>
-AAAI [2025]
-
-[53] **C-SLAKE**, Consistency Conditioned Memory Augmented Dynamic Diagnosis Model for Medical Visual Question Answering<br>
-T. Yu, et al.<br>
-IEEE Journal of Biomedical and Health Informatics [2025]
+[53] **C-SLAKE: Consistency Conditioned Memory Augmented Dynamic Diagnosis Model for Medical Visual Question Answering**  <br>
+Ting Yu, Binhui Ge, Shuhui Wang, Yan Yang, Qingming Huang, Jun Yu  <br>
+*IEEE Journal of Biomedical and Health Informatics*, **29**(2), 1357–1370, **2025**.  <br>
+[[DOI](https://doi.org/10.1109/JBHI.2024.3492141)] [[Publisher](https://ieeexplore.ieee.org/document/10746333)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41364559/)]
 
 ## 1.6 Medical Education, Examination, Multi-Source Data, and Interactive Question Answering Resources
 
-[54] **MMMD**, A Multilingual Multimodal Medical Examination Dataset for Visual Question Answering in Healthcare<br>
-G. Riccio, et al.<br>
-CBMS [2025]
+[54] **MMMED: A Multilingual Multimodal Medical Examination Dataset for Visual Question Answering in Healthcare**  <br>
+Giovanni Riccio, Marco Carminati, Andrea Galassi, Lorenzo Baraldi, Rita Cucchiara  <br>
+*2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)*, 2025.  <br>
+[[DOI](https://doi.org/10.1109/CBMS65348.2025.00093)] [[Publisher](https://ieeexplore.ieee.org/document/11058719)] [[Dataset](https://huggingface.co/datasets/praiselab-picuslab/MMMED)] [[Code](https://github.com/PRAISELab-PicusLab/MMMED)]
 
-[55] **MEDSQ**, MEDSQ: Towards personalized medical education via multi-form interaction guidance<br>
-Y. Ouyang, et al.<br>
-Expert Systems with Applications [2025]
+[55] **MEDSQ: Towards Personalized Medical Education via Multi-Form Interaction Guidance**  <br>
+Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, Jing Wang, Yawen Zeng  <br>
+*Expert Systems with Applications*, **267**, 126138, 2025.  <br>
+[[DOI](https://doi.org/10.1016/j.eswa.2024.126138)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417424030057)] [[Code/Dataset](https://github.com/JaneGovan/MEDSQ)]
 
-[56] **MedFrameQA**, MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning<br>
-S. Yu, et al.<br>
-arXiv preprint arXiv:2505.16964 [2025]
+[55] **MEDSQ: Towards Personalized Medical Education via Multi-Form Interaction Guidance**  <br>
+Yong Ouyang, Wenjin Gao, Huanwen Wang, Lingyu Chen, Jing Wang, Yawen Zeng  <br>
+*Expert Systems with Applications*, **267**, 126138, 2025.  <br>
+[[DOI](https://doi.org/10.1016/j.eswa.2024.126138)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417424030057)] [[Code/Dataset](https://github.com/JaneGovan/MEDSQ)]
 
-[57] **MedDQA**, Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering<br>
-Q. Peng, et al.<br>
-IEEE Transactions on Medical Imaging [2025]
+[56] **MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**  <br>
+Suhao Yu, Haojin Wang, Juncheng Wu, Cihang Xie, Yuyin Zhou  <br>
+*arXiv preprint arXiv:2505.16964*, 2025.  <br>
+[[arXiv](https://arxiv.org/abs/2505.16964)] [[Project](https://ucsc-vlaa.github.io/MedFrameQA/)] [[Code](https://github.com/haojinw0027/MedFrameQA)] [[Dataset](https://huggingface.co/datasets/SuhaoYu1020/MedFrameQA)]
 
-[58] **SilVar-Med**, SilVar-Med: A Speech-Driven Visual Language Model for Explainable Abnormality Detection in Medical Imaging<br>
-T.-H. Pham, et al.<br>
-CVPR [2025]
-Information Processing & Management [2023]
+[57] **MedDQA: Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**  <br>
+Qing Peng, Yuan Cai, Jie Liu, Qiang Zou, Xin Chen, Zhen Zhong, Zhen Wang, Jun Xie, Qing Li  <br>
+*IEEE Transactions on Medical Imaging*, **44**(3), 1373–1385, 2025.  <br>
+[[DOI](https://doi.org/10.1109/TMI.2024.3496862)] [[Publisher](https://ieeexplore.ieee.org/document/10748057)]
+
+[58] **SilVar-Med: A Speech-Driven Visual Language Model for Explainable Abnormality Detection in Medical Imaging**  <br>
+Tan-Hanh Pham, Trong-Duong Bui, Minh Luu Quang, Tan-Huong Pham, Chris Ngo, Truong-Son Hy  <br>
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2984–2994, 2025.  <br>
+[[DOI](https://doi.org/10.1109/CVPRW67362.2025.00281)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025W/MAR/html/Pham_SilVar-Med_A_Speech-Driven_Visual_Language_Model_for_Explainable_Abnormality_Detection_CVPRW_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2504.10642)] [[Code/Dataset](https://github.com/hanhpt23/silvarmed)]
 
 # Methods (Selected)
 
