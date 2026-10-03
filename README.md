@@ -190,7 +190,7 @@ Zefan Zhang, Yanhui Li, Ruihong Zhao, [**Tian Bai***](https://ccst.jlu.edu.cn/in
 [26-1] **MIMIC-CXR-VQA: A Large-Scale LLM-Annotated Dataset and Comparative Benchmark for Medical Visual Question Answering**  <br>
 Mohamed Aas-Alas, Miquel Obrador-Reina, Luis-Jesus Marhuenda, Alberto Albiol, Roberto Paredes, Francisco Albiol  <br>
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2026)*, 6563–6572, 2026.  <br>
-[[Publisher](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/html/Aas-Alas_MIMIC-CXR-VQA_A_Large-Scale_LLM-Annotated_Dataset_and_Comparative_Benchmark_for_Medical_CVPRW_2026_paper.html)] [[PDF](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/papers/Aas-Alas_MIMIC-CXR-VQA_A_Large-Scale_LLM-Annotated_Dataset_and_Comparative_Benchmark_for_Medical_CVPRW_2026_paper.pdf)]
+[[Publisher](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/html/Aas-Alas_MIMIC-CXR-VQA_A_Large-Scale_LLM-Annotated_Dataset_and_Comparative_Benchmark_for_Medical_CVPRW_2026_paper.html)] [[PDF](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/papers/Aas-Alas_MIMIC-CXR-VQA_A_Large-Scale_LLM-Annotated_Dataset_and_Comparative_Benchmark_for_Medical_CVPRW_2026_paper.pdf)] [[Code](https://github.com/LightVED-prhlt/MIMIC-CXR-VQA-Dataset_Creation)]
 
 ## 1.4 Specialty-Specific VQA Datasets
 
@@ -298,10 +298,9 @@ Jiayi Zhu, Fuxiang Huang, Qiong Luo, Hao Chen  <br>
 *Nature Communications*, 16, 11683, **2025**.  <br>
 [[DOI](https://doi.org/10.1038/s41467-025-66507-z)] [[Publisher](https://www.nature.com/articles/s41467-025-66507-z)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41309622/)] [[Code/Dataset](https://github.com/PiggyJerry/MammoVQA)]
 
-[46] **DermaVQA-DAS: Dermatology Assessment Schema (DAS) & Datasets for Closed-Ended Question Answering & Segmentation in Patient-Generated Dermatology Images**  <br>
-Wen-wai Yim, Yujuan Fu, Asma Ben Abacha, Meliha Yetisgen, Noel Codella, Roberto Andres Novoa, Josep Malvehy  <br>
+[46] **DermaVQA-DAS: Dermatology Assessment Schema (DAS) & Datasets for Closed-Ended Question Answering & Segmentation in Patient-Generated Dermatology Images**  <br>[**Wen-wai Yim***](https://www.microsoft.com/en-us/research/people/yimwenwai/publications/?lang=zh-cn), Yujuan Fu, Asma Ben Abacha, Meliha Yetisgen, Noel Codella, Roberto Andres Novoa, Josep Malvehy  <br>
 *arXiv preprint*, arXiv:2512.24340, **2025**.  <br>
-[[arXiv](https://arxiv.org/abs/2512.24340)]
+[[arXiv](https://arxiv.org/abs/2512.24340)]  [[Dataset](https://osf.io/72rp3[)]
 
 ## 1.5 Localized, Explainable, and Reasoning-Enhanced VQA Datasets
 
