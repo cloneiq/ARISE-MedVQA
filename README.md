@@ -197,53 +197,53 @@ Mohamed Aas-Alas, Miquel Obrador-Reina, Luis-Jesus Marhuenda, Alberto Albiol, Ro
 ### 1.4.1 Ophthalmology VQA
 
 [27] **DME-VQA: Consistency-Preserving Visual Question Answering in Medical Imaging**  <br>
-Sergio Tascon-Morales, Pablo Márquez-Neila, Raphael Sznitman  <br>
+[**Sergio Tascon-Morales***](https://scholar.google.com/citations?hl=de&user=eYFOmsEAAAAJ), Pablo Márquez-Neila, Raphael Sznitman  <br>
 *Medical Image Computing and Computer Assisted Intervention – MICCAI 2022*, LNCS 13438, 386–395, **2022**.  <br>
-[[DOI](https://doi.org/10.1007/978-3-031-16452-1_37)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_37)] [[Code](https://github.com/sergiotasconmorales/consistency_vqa)] [[Dataset](https://drive.google.com/file/d/1qKW6OIL2QdoJ9_xVwaDpfuVBLVnjQr-V/view)]
+[[DOI](https://doi.org/10.1007/978-3-031-16452-1_37)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_37)] [[Code](https://github.com/sergiotasconmorales/consistency_vqa)] [[Dataset](https://zenodo.org/record/6784358)]
 
 [28] **OphthalVQA: Unveiling the Clinical Incapabilities: A Benchmarking Study of GPT-4V(ision) for Ophthalmic Multimodal Image Analysis**  <br>
 Pusheng Xu, Xiaolan Chen, Ziwei Zhao, Danli Shi  <br>
 *British Journal of Ophthalmology*, **108**(10), 1384–1389, **2024**.  <br>
-[[DOI](https://doi.org/10.1136/bjo-2023-325054)] [[Publisher](https://bjo.bmj.com/content/108/10/1384)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38789133/)]
+[[DOI](https://doi.org/10.1136/bjo-2023-325054)] [[Publisher](https://bjo.bmj.com/content/108/10/1384)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38789133/)] [[Dataset](https://figshare.com/s/3e8ad50db900e82d3b47)]
 
 [29] **OphthalWeChat: Benchmarking Large Multimodal Models for Ophthalmic Visual Question Answering with OphthalWeChat**  <br>
-Pusheng Xu, Xia Gong, Xiaolan Chen, Weiyi Zhang, Jiancheng Yang, Bingjie Yan, Meng Yuan, Yalin Zheng, Mingguang He, Danli Shi  <br>
+Pusheng Xu, Xia Gong, Xiaolan Chen, Weiyi Zhang, Jiancheng Yang, Bingjie Yan, Meng Yuan, Yalin Zheng, Mingguang He, [**Danli Shi***](https://scholar.google.com/citations?user=QyF6ivQAAAAJ&hl=zh-CN)  <br>
 *Advances in Ophthalmology Practice and Research*, 6(1), 33–41, **2026**.  <br>
-[[DOI](https://doi.org/10.1016/j.aopr.2025.10.006)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S2667376225000538)]
+[[DOI](https://doi.org/10.1016/j.aopr.2025.10.006)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S2667376225000538)] [[Dataset](https://figshare.com/s/e55ec97c0e142c94735c)]
 
 ### 1.4.2 Pathology and Whole Slide Image VQA
 
 [30] **WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering** <br>
-Pingyi Chen, Chenglu Zhu, Sunyi Zheng, Honglin Li, Lin Yang <br>
+[**Pingyi Chen***](https://scholar.google.com/citations?user=CTGCfsgAAAAJ&hl=zh-CN), Chenglu Zhu, Sunyi Zheng, Honglin Li, [**Lin Yang***](https://scholar.google.com/citations?user=fskm0zEAAAAJ&hl=en) <br>
 *Computer Vision – ECCV 2024 Workshops*, 401–417, **2024**. <br>
-[[Publisher](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5355_ECCV_2024_paper.php)] [[arXiv](https://arxiv.org/abs/2407.05603)] [[Code](https://github.com/cpystan/WSI-VQA)]
+[[Publisher](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5355_ECCV_2024_paper.php)] [[arXiv](https://arxiv.org/abs/2407.05603)] [[Code](https://github.com/cpystan/WSI-VQA)] [[Train Set](https://drive.google.com/file/d/1l8XUgDKgzDCZzneLG7PZFbUmL9NP7GhF/view?usp=drive_link) |[Val Set](https://drive.google.com/file/d/1Z6ueneNWgOSfP940HoBCPYAwn2riYkss/view?usp=drive_link) |[Test Set](https://drive.google.com/file/d/1eSQaZ-hKRUDCerGKkPW8VtfOQPgFOMD7/view?usp=drive_link) ]
 
 [31] **Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos** <br>
-Mehmet Saygin Seyfioglu, Wisdom O. Ikezogwo, Fatemeh Ghezloo, Ranjay Krishna, Linda Shapiro <br>
+**Mehmet Saygin Seyfioglu***, Wisdom O. Ikezogwo, Fatemeh Ghezloo, Ranjay Krishna, Linda Shapiro <br>
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 13183–13192, **2024**. <br>
 [[DOI](https://doi.org/10.1109/CVPR52733.2024.01252)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2024/html/Seyfioglu_Quilt-LLaVA_Visual_Instruction_Tuning_by_Extracting_Localized_Narratives_from_Open-Source_CVPR_2024_paper.html)] [[arXiv](https://arxiv.org/abs/2312.04746)] [[Code](https://github.com/aldraus/quilt-llava)] [[Project](https://quilt-llava.github.io/)] 
 
 ### 1.4.3 Gastrointestinal Endoscopy and Digestive-Tract VQA
 
 [32] **MEDVQA-GI: Overview of ImageCLEFmedical 2023: Medical Visual Question Answering for Gastrointestinal Tract**  <br>
-Steven Hicks, Andrea Storås, Pål Halvorsen, Vajira Thambawita, Michael A. Riegler  <br>
+[**Steven Hicks***](https://scholar.google.com/citations?user=2fVVFSwAAAAJ&hl=en), Andrea Storås, Pål Halvorsen, Vajira Thambawita, Michael A. Riegler  <br>
 *CLEF 2023 Working Notes*, **CEUR Workshop Proceedings 3497,** **2023**.  <br>
 [[Publisher](https://ceur-ws.org/Vol-3497/)] [[PDF](https://ceur-ws.org/Vol-3497/paper-107.pdf)] [[Challenge](https://www.imageclef.org/2023/medical/vqa)]
 
 [33] **Kvasir-VQA: A Text-Image Pair GI Tract Dataset**  <br>
-Sushant Gautam, Andrea Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Pål Halvorsen, Michael A. Riegler  <br>
+Sushant Gautam, Andrea Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Pål Halvorsen, **Michael A. Riegler***  <br>
 *Proceedings of the First International Workshop on Vision-Language Models for Biomedical Applications (VLM4Bio '24)*, 3–12, **2024**.  <br>
-[[DOI](https://doi.org/10.1145/3689096.3689458)] [[Publisher](https://dl.acm.org/doi/10.1145/3689096.3689458)] [[Dataset](https://datasets.simula.no/kvasir-vqa/)] [[Code](https://github.com/simula/Kvasir-VQA)]
+[[DOI](https://doi.org/10.1145/3689096.3689458)] [[Publisher](https://dl.acm.org/doi/10.1145/3689096.3689458)] [[Dataset](https://datasets.simula.no/kvasir-vqa/)] [[Code](https://github.com/simula/Kvasir-VQA)] [[Huggingface](https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA)]
 
 [34] **Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**  <br>
 Sushant Gautam, Michael A. Riegler, Pål Halvorsen  <br>
 *Data Engineering in Medical Imaging (DEMI 2025), MICCAI Workshop*, LNCS 16053, 53–63, **2025**.  <br>
-[[DOI](https://doi.org/10.1007/978-3-032-08009-7_6)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-08009-7_6)] [[arXiv](https://arxiv.org/abs/2506.09958)] [[Code](https://github.com/simula/Kvasir-VQA-x1)] [[Dataset](https://datasets.simula.no/kvasir-vqa-x1/)]
+[[DOI](https://doi.org/10.1007/978-3-032-08009-7_6)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-08009-7_6)] [[arXiv](https://arxiv.org/abs/2506.09958)] [[Code](https://github.com/simula/Kvasir-VQA-x1)] [[Dataset](https://datasets.simula.no/kvasir-vqa-x1/)] [[HuggingFace](https://huggingface.co/datasets/SimulaMet/Kvasir-VQA-x1)]
 
 [35] **Frontiers in Intelligent Colonoscopy**  <br>
-Ge-Peng Ji, Jingyi Liu, Peng Xu, Nick Barnes, Fahad Shahbaz Khan, Salman Khan, Deng-Ping Fan  <br>
+Ge-Peng Ji, Jingyi Liu, Peng Xu, Nick Barnes, Fahad Shahbaz Khan, Salman Khan, [**Deng-Ping Fan*** ]() <br>
 *Machine Intelligence Research*, 23, 70–114, **2026**.  <br>
-[[DOI](https://doi.org/10.1007/s11633-025-1597-6)] [[Publisher](https://link.springer.com/article/10.1007/s11633-025-1597-6)] [[Code/Project](https://github.com/ai4colonoscopy/IntelliScope)] [[arXiv](https://arxiv.org/abs/2410.17241)]
+[[DOI](https://doi.org/10.1007/s11633-025-1597-6)] [[Publisher](https://link.springer.com/article/10.1007/s11633-025-1597-6)] [[Code/Project](https://github.com/ai4colonoscopy/IntelliScope)] [[arXiv](https://arxiv.org/abs/2410.17241)] [[HuggingFace](https://huggingface.co/papers/2410.17241)]
 
 ### 1.4.4 Surgical and Robotic Surgery VQA
 
@@ -268,18 +268,18 @@ Runlong He, Danyal Z. Khan, Evangelos B. Mazomenos, Hani J. Marcus, Danail Stoya
 [[DOI](https://doi.org/10.1007/s11548-024-03141-y)] [[Publisher](https://link.springer.com/article/10.1007/s11548-024-03141-y)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38780829/)] [[Code/Dataset](https://github.com/CAMMA-public/SSG-VQA)]
 
 [40] **EndoChat: Grounded Multimodal Large Language Model for Endoscopic Surgery**  <br>
-Guankun Wang, Long Bai, Junyi Wang, Kun Yuan, Zhen Li, Tianxu Jiang, Xiting He, Jinlin Wu, Zhen Chen, Zhen Lei, Hongbin Liu, Jiazheng Wang, Fan Zhang, Nicolas Padoy, Nassir Navab, Hongliang Ren  <br>
+Guankun Wang, Long Bai, Junyi Wang, Kun Yuan, Zhen Li, Tianxu Jiang, Xiting He, Jinlin Wu, Zhen Chen, Zhen Lei, Hongbin Liu, Jiazheng Wang, Fan Zhang, Nicolas Padoy, Nassir Navab, [**Hongliang Ren***]()  <br>
 *Medical Image Analysis*, 107, 103789, **2026**.  <br>
 [[DOI](https://doi.org/10.1016/j.media.2025.103789)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841525003354)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40929920/)] [[arXiv](https://arxiv.org/abs/2501.11347)] [[Code/Dataset](https://github.com/gkw0010/EndoChat)]
 
 [41] **Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery**  <br>
-Long Bai, Guankun Wang, Mobarakol Islam, Lalithkumar Seenivasan, An Wang, Hongliang Ren  <br>
+Long Bai, Guankun Wang, Mobarakol Islam, Lalithkumar Seenivasan, An Wang, [**Hongliang Ren***](https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en)   <br>
 *Information Fusion*, 113, 102602, **2025**.  <br>
-[[DOI](https://doi.org/10.1016/j.inffus.2024.102602)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1566253524003804)] [[Code/Dataset](https://github.com/longbai1006/Surgical-VQLAPlus)]
+[[DOI](https://doi.org/10.1016/j.inffus.2024.102602)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1566253524003804)] [[Code/Dataset](https://github.com/longbai1006/Surgical-VQLAPlus)] [[EndoVis17/18-VQLA-Extended](https://drive.google.com/file/d/1-FXOdhD3uw55ATDgI1wPEe-txyuCiP2E/view?usp=drive_link)]
 
-[42] **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis** <br> Shengyuan Liu, Boyun Zheng, Wenting Chen, Zhihao Peng, Zhenfei Yin, Jing Shao, Jiancong Hu, Yixuan Yuan  <br>
+[42] **EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis** <br> Shengyuan Liu, Boyun Zheng, Wenting Chen, Zhihao Peng, Zhenfei Yin, Jing Shao, Jiancong Hu, [**Yixuan Yuan***](https://scholar.google.com/citations?user=Aho5Jv8AAAAJ&hl=en)  <br>
 *Advances in Neural Information Processing Systems (NeurIPS 2025)*, 38, Datasets and Benchmarks Track, **2025**.  <br>
-[[DOI](https://doi.org/10.52202/085713-0076)] [[Publisher](https://proceedings.neurips.cc/)] [[arXiv](https://arxiv.org/abs/2505.23601)] [[Code/Dataset](https://github.com/CUHK-AIM-Group/EndoBench)]
+[[DOI](https://doi.org/10.52202/085713-0076)] [[Publisher](https://proceedings.neurips.cc/)] [[arXiv](https://arxiv.org/abs/2505.23601)] [[Code](https://github.com/CUHK-AIM-Group/EndoBench)] [[Hugging Face](https://huggingface.co/datasets/Saint-lsy/EndoBench)]
 
 ### 1.4.5 Dermatology, Wound Care, and Mammography VQA
 
