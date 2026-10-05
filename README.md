@@ -635,50 +635,30 @@ Haowen Gu, Gensheng Pei, Zeren Sun, [**Mingwu Ren***](https://cs.njust.edu.cn/e4
 
 ## 1.3 Knowledge-enhanced and Retrieval-augmented Medical VQA
 
-[64] **RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**<br>
-Yuan, Z., et al.<br>
-ACM Multimedia [2023]
+[64] **RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**  <br>Zheng Yuan, Qiao Jin, Chuanqi Tan, Zhengyun Zhao, Hongyi Yuan, Fei Huang, Songfang Huang  <br>*Proceedings of the 31st ACM International Conference on Multimedia (ACM Multimedia 2023)*, 547–556, **2023**. <br> [[DOI](https://doi.org/10.1145/3581783.3611830)  [[arXiv](https://arxiv.org/abs/2303.00534)]  [[Code](https://github.com/GanjinZero/RAMM)]  [[DBLP](https://dblp.uni-trier.de/rec/conf/mm/00050TZYHH23.html)]
 
-[65] **Medical knowledge-based network for patient-oriented visual question answering**<br>
-Huang, J., et al.<br>
-Information Processing & Management [2023]
+[65] **Medical knowledge-based network for Patient-oriented Visual Question Answering**  <br>Jian Huang, Yihao Chen, Yong Li, Zhenguo Yang, Xuehao Gong, Fu Lee Wang, Xiaohong Xu, Wenyin Liu  <br>*Information Processing & Management*, **60(2)**, 103241, **2023**.  <br>[[DOI](https://doi.org/10.1016/j.ipm.2022.103241)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S0306457322003429)]  [[Code/Dataset](https://github.com/cs-jerhuang/P-VQA)]  
 
-[66] **K-PathVQA: Knowledge-Aware Multimodal Representation for Pathology Visual Question Answering**<br>
-Naseem, U., et al.<br>
-IEEE Journal of Biomedical and Health Informatics [2024]
+[66] **K-PathVQA: Knowledge-Aware Multimodal Representation for Pathology Visual Question Answering**  <br>Usman Naseem, Matloob Khushi, Adam G. Dunn, Jinman Kim  <br>*IEEE Journal of Biomedical and Health Informatics*, **28(4)**, 1886–1895, **2024**. <br> [[DOI](https://doi.org/10.1109/JBHI.2023.3294249)]  [[IEEE Xplore](https://ieeexplore.ieee.org/document/10177927/)]  [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37432797/)]
 
-[67] **Candidate-Heuristic In-Context Learning: A new framework for enhancing medical visual question answering with LLMs**<br>
-Liang, X., et al.<br>
-Information Processing & Management [2024]
+[67] **Candidate-Heuristic In-Context Learning: A new framework for enhancing medical visual question answering with LLMs**  <br>Xiao Liang, Di Wang, Haodi Zhong, Quan Wang, Ronghan Li, Rui Jia, Bo Wan  <br>*Information Processing & Management*, **61(5)**, 103805, **2024**.  <br>[[DOI](https://doi.org/10.1016/j.ipm.2024.103805)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S030645732400164X)]  [[Code/Dataset](https://github.com/ecoxial2007/CH-ICL)] 
 
-[68] **MKGF: A multi-modal knowledge graph based RAG framework to enhance LVLMs for Medical visual question answering**<br>
-Wu, Y., et al.<br>
-Neurocomputing [2025]
+[68] **MKGF: A multi-modal knowledge graph based RAG framework to enhance LVLMs for Medical visual question answering**  <br>Yinan Wu, Yuming Lu, Yan Zhou, Yifan Ding, Jingping Liu, Tong Ruan  <br>*Neurocomputing*, **635**, 129999, **2025**.  <br>[[DOI](https://doi.org/10.1016/j.neucom.2025.129999)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S092523122500671X)]  [[Code/Data](https://github.com/ehnal/MKGF)]  [[DBLP](https://dblp.org/rec/journals/ijon/WuLZDLR25)]
 
-[69] **MedKI: Knowledge Dual Injections for Medical Visual Question Answering**<br>
-Ren, H., et al.<br>
-ICIP [2025]
+[69] **MedKI: Knowledge Dual Injections for Medical Visual Question Answering**  <br>Hongyi Ren, Weiran Chen, Chunping Liu, Yi Ji, Ying Li  <br>*2025 IEEE International Conference on Image Processing (ICIP)*, 79–84, **2025**. <br> [[DOI](https://doi.org/10.1109/ICIP55913.2025.11084480)] 
 
-[70] **Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**<br>
-Peng, Q., et al.<br>
-IEEE Transactions on Medical Imaging [2025]
+[70] **Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**  <br>Qi Peng, Yi Cai, Jiankun Liu, Quan Zou, Xing Chen, Zheng Zhong, Zefeng Wang, Jiayuan Xie, Qing Li  <br>*IEEE Transactions on Medical Imaging*, **44(3)**, 1373–1385, **2025**.  <br>[[DOI](https://doi.org/10.1109/TMI.2024.3496862)]  [[IEEE Xplore](https://ieeexplore.ieee.org/document/10752912/)]  [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40030182/)]  [[Code/Dataset](https://github.com/pqpq17/MMA)]
 
 [71] **Bridging the Semantic Gap in Medical Visual Question Answering With Prompt Learning** <br>
 Zilin Lu, Qingjie Zeng, Mengkang Lu, Geng Chen, **[Yong Xia\*](https://scholar.google.com/citations?user=Usw1jeMAAAAJ)** <br>
 *IEEE Transactions on Medical Imaging*, **44**(11), 4605–4616, 2025. <br>
 [[DOI](https://doi.org/10.1109/TMI.2025.3580561)] [[Publisher](https://ieeexplore.ieee.org/document/11039185)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40526558/)]
 
-[72] **Fine-grained knowledge fusion for retrieval-augmented medical visual question answering**<br>
-Liang, X., et al.<br>
-Information Fusion [2025]
+[72] **Fine-grained knowledge fusion for retrieval-augmented medical visual question answering**  <br>Xiao Liang, Di Wang, Bin Jing, Zhicheng Jiao, Ronghan Li, Ruyi Liu, Qiguang Miao, Quan Wang  <br>*Information Fusion*, **120**, 103059, **2025**. <br> [[DOI](https://doi.org/10.1016/j.inffus.2025.103059)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1566253525001320)] [[Code](https://github.com/ecoxial2007/FGRW_MedVQA)]
 
-[73] **MAP-GR: medical aware prompt and graph-guided reasoning for enhanced medical visual question answering**<br>
-Yu, Y., et al.<br>
-Neurocomputing [2026]
+[73] **MAP-GR: medical aware prompt and graph-guided reasoning for enhanced medical visual question answering** <br> Yuhai Yu, Xinghao Li, Jiana Meng, Xinyue Wang, Xinran Yan, Lin Lu  <br>*Neurocomputing*, **672**, 132645, **2026**.  <br>[[DOI](https://doi.org/10.1016/j.neucom.2026.132645)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0925231226000421)]
 
-[74] **Large-small model collaboration for medical visual question answering with task aware mixture of experts and relation knowledge distillation**<br>
-Chen, Q., et al.<br>
-Image and Vision Computing [2026]
+[74] **Large-small model collaboration for medical visual question answering with task aware mixture of experts and relation knowledge distillation**  <br>Qishen Chen, Wenxuan He, Xingyuan Chen, Chen Cheng, Minjie Bian, Huahu Xu  <br>*Image and Vision Computing*, **165**, 105820, **2026**.  <br>[[DOI](https://doi.org/10.1016/j.imavis.2025.105820)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0262885625004081)] [[Code](https://github.com/shanziSZ/CoMed-TR)]
 
 [75] **KG-CMI: Knowledge Graph Enhanced Cross-Mamba Interaction for Medical Visual Question Answering** <br>
 Xianyao Zheng, Hong Yu, Hui Cui, Changming Sun, Xiangyu Li, Ran Su, Leyi Wei, Jia Zhou, Junbo Wang, **[Qiangguo Jin\*](https://scholar.google.com/citations?user=USoKG48AAAAJ)** <br>
