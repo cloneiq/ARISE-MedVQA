@@ -694,50 +694,30 @@ Xuze Li, Haozhao Wang, Zhenyu Huang, Zhongxu Wang, Jinghua Zhang, [**Ruixuan Li*
 
 ## 1.4 Prompt Learning and Parameter-efficient Adaptation for Medical VQA
 
-[75] **Prompt-Based Personalized Federated Learning for Medical Visual Question Answering**<br>
-Zhu, H., et al.<br>
-ICASSP [2024]
+[75] **Prompt-Based Personalized Federated Learning for Medical Visual Question Answering**<br>  He Zhu, Ren Togo, Takahiro Ogawa, Miki Haseyama  <br>*ICASSP 2024 – 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1821–1825, **2024**. <br> [[DOI](https://doi.org/10.1109/ICASSP48485.2024.10445933)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10445933)] [[arXiv](https://arxiv.org/abs/2402.09677)] [[DOI](https://doi.org/10.1109/icassp48485.2024.10445933)]
 
-[76] **Targeted visual prompting for medical visual question answering**<br>
-Tascon-Morales, S., P. Márquez-Neila, R. Sznitman<br>
-International Workshop on Applications of Medical AI [2024]
+[76] **Targeted Visual Prompting for Medical Visual Question Answering** <br> Sergio Tascon-Morales, Pablo Márquez-Neila, Raphael Sznitman  <br>*Applications of Medical Artificial Intelligence – Third International Workshop, AMAI 2024, Held in Conjunction with MICCAI 2024*, **LNCS 15384**, 64–73, **2025**. <br> [[DOI](https://doi.org/10.1007/978-3-031-82007-6_7)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_7)] [[arXiv](https://arxiv.org/abs/2408.03043)] [[Code/Data](https://github.com/sergiotasconmorales/locvqallm)] [[Springer](https://link.springer.com/book/10.1007/978-3-031-82007-6)]
 
-[77] **Parameter-Efficient Transfer Learning for Medical Visual Question Answering**<br>
-Liu, J., et al.<br>
-IEEE Transactions on Emerging Topics in Computational Intelligence [2024]
+[77] **Parameter-Efficient Transfer Learning for Medical Visual Question Answering** <br> Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao, Junhui Lv, Zuozhu Liu <br> *IEEE Transactions on Emerging Topics in Computational Intelligence*, **8(4)**, 2816–2826, **2024**.  <br>[[DOI](https://doi.org/10.1109/TETCI.2023.3311333)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10256025)] [[Code](https://github.com/JXLiu-AI/VQA-Adapter)] [[DOI](https://doi.org/10.1109/TETCI.2023.3311333)]
 
-[78] **LaPA: Latent Prompt Assist Model For Medical Visual Question Answering**<br>
-Gu, T., et al.<br>
-CVPR [2024]
+[78] **LaPA: Latent Prompt Assist Model for Medical Visual Question Answering**  <br>Tiancheng Gu, Kaicheng Yang, Dongnan Liu, Weidong Cai  <br>*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 4971–4980, **2024**. <br>  [[DOI](https://doi.org/10.1109/CVPRW63382.2024.00502)] [[CVF Open Access](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/html/Gu_LaPA_Latent_Prompt_Assist_Model_For_Medical_Visual_Question_Answering_CVPRW_2024_paper.html)] [[arXiv](https://arxiv.org/abs/2404.13039)] [[Code](https://github.com/GaryGuTC/LaPA_model)] 
 
-[79] **UniDCP: Unifying Multiple Medical Vision-Language Tasks via Dynamic Cross-Modal Learnable Prompts**<br>
-Zhan, C., et al.<br>
-IEEE Transactions on Multimedia [2024]
+[79] **UniDCP: Unifying Multiple Medical Vision-Language Tasks via Dynamic Cross-Modal Learnable Prompts**  <br>Chenlu Zhan, Yufei Zhang, Yu Lin, Gaoang Wang, Hongwei Wang  <br>*IEEE Transactions on Multimedia*, **26**, 9736–9748, **2024**.  <br>[[DOI](https://doi.org/10.1109/TMM.2024.3397191) [[IEEE Xplore](https://ieeexplore.ieee.org/document/10526408)] [[arXiv](https://arxiv.org/abs/2312.11171)]
 
-[80] **Effective Medical Visual Question Answering Using Dynamic Prompting and Decoding Knowledge Editing**<br>
-Zhou, Z., et al.<br>
-Data Science and Engineering [2025]
+[80] **Effective Medical Visual Question Answering Using Dynamic Prompting and Decoding Knowledge Editing**  <br>ZhiJie Zhou, YeFan Huang, XiaoLi Wang, Xiaojie Hong  <br>*Data Science and Engineering*, **10(4)**, 681–691, **2025**. <br> [[DOI](https://doi.org/10.1007/s41019-025-00291-0)] [[Publisher](https://link.springer.com/article/10.1007/s41019-025-00291-0)] [[Springer](https://link.springer.com/article/10.1007/s41019-025-00291-0)]
 
 [81] **Fine-grained Adaptive Visual Prompt for Generative Medical Visual Question Answering** <br>
 Ting Yu, Zixuan Tong, Jun Yu, **[Ke Zhang\*](https://scholar.google.com/citations?user=RMLMbeMAAAAJ)** <br>
 *Proceedings of the AAAI Conference on Artificial Intelligence*, **39**(9), 9662–9670, 2025. <br>
 [[DOI](https://doi.org/10.1609/aaai.v39i9.33047)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/33047)] [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/33047/35202)] [[Code](https://github.com/OpenMICG/FAVP)]
 
-[82] **Multi-Scale Visual Prompting for Robust Visual Question Answering in Medical Imaging**<br>
-Ma, Y., et al.<br>
-BIBM [2025]
+[82] **Multi-Scale Visual Prompting for Robust Visual Question Answering in Medical Imaging**  <br>Yang Ma, Dongang Wang, Peilin Liu, Michael Barnett, Dingxuan Zhou, Weidong Cai, Chenyu Wang  <br>*2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 3921–3925, **2025**.  <br>[[DOI](https://doi.org/10.1109/BIBM66473.2025.11356041)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/11356041)]
 
-[83] **Caption-augmented reasoning model with Hierarchical rank LoRA finetuing for medical visual question Answering**<br>
-Li, Y., et al.<br>
-Journal of Biomedical Informatics [2025]
+[83] **Caption-augmented reasoning model with Hierarchical rank LoRA finetuing for medical visual question Answering**  <br>Yong Li, Jianping Man, Yi Zhou, Likeng Liang  *Journal of Biomedical Informatics*, **172**, 104964, **2025**.  <br>[[DOI](https://doi.org/10.1016/j.jbi.2025.104964)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1532046425001935)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41308969)]
 
-[84] **X-FLoRA: Cross-modal Federated Learning with Modality-expert LoRA for Medical VQA**<br>
-Kim, M. H., C. Kim, S. B. Yoo<br>
-EMNLP [2025]
+[84] **X-FLoRA: Cross-modal Federated Learning with Modality-expert LoRA for Medical VQA**  <br>Min Hyuk Kim, Changheon Kim, **Seok Bong Yoo\***  <br>*Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*, 8379–8397, **2025**. <br> [[DOI](https://doi.org/10.18653/v1/2025.emnlp-main.422)] [[ACL Anthology](https://aclanthology.org/2025.emnlp-main.422)] [[PDF](https://aclanthology.org/2025.emnlp-main.422.pdf)] 
 
-[85] **Optimizing multimodal models for medical visual question answering: A comparative study of LoRA and AdaLoRA on VQA-RAD and SLAKE-VQA**<br>
-Rezaei, Z., S. S. Samghabadi, Y. M. Banad<br>
-Computers in Biology and Medicine [2026]
+[85] **Optimizing multimodal models for medical visual question answering: A comparative study of LoRA and AdaLoRA on VQA-RAD and SLAKE-VQA**  <br>Zahra Rezaei, Sara Safi Samghabadi, Yaser Mike Banad  *Computers in Biology and Medicine*, **200**, 111397, **2026**. <br> [[DOI](https://doi.org/10.1016/j.compbiomed.2025.111397)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0010482525017512)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41391332)] [[Code](https://github.com/Datargets/MultiModals_VQA)]
 
 [85-1] **MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering** <br>Mai A. Shaaban, Tausifa Jan Saleem, Vijay Ram Kumar Papineni, Mohammad Yaqub <br>*Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15965**, 459–469, 2025. <br>[[DOI](https://doi.org/10.1007/978-3-032-04978-0_44)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_44)] [[MICCAI](https://papers.miccai.org/miccai-2025/0586-Paper2665.html)] [[arXiv](https://arxiv.org/abs/2506.22900)] [[Code](https://github.com/BioMedIA-MBZUAI/MOTOR)]
 
