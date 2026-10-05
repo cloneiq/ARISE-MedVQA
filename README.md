@@ -40,12 +40,9 @@ This project is suitable for the following research and teaching scenarios:
 **We will continue to update and refine this repository to keep it aligned with the latest progress in Med-VQA and related medical multimodal AI research.**
 
 # Survey
-[1] **Task-Specific Models vs. Large Vision-Language Models in Medical Visual Question Answering: A Survey**  
-Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [**Honghao Gao***](https://scholar.google.com/citations?user=PiiIpJIAAAAJ)   
-*Expert Systems with Applications*, 2026, 132008.   [[DOI](https://doi.org/10.1016/j.eswa.2026.132008)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S095741742600123X)]
+[1] **Task-Specific Models vs. Large Vision-Language Models in Medical Visual Question Answering: A Survey**  Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [**Honghao Gao***](https://scholar.google.com/citations?user=PiiIpJIAAAAJ)   *Expert Systems with Applications*, 2026, 132008.   [[DOI](https://doi.org/10.1016/j.eswa.2026.132008)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S095741742600123X)]
 
-[2] **From Visual Question Answering to Intelligent AI Agents in Ophthalmology**   Xiaolan Chen, Ruoyu Chen, Pusheng Xu, Xiaojie Wan, Weiyi Zhang, Bingjie Yan, Xianwen Shang, Mingguang He, Danli Shi  
-*British Journal of Ophthalmology*, 2026.   [[DOI](https://doi.org/10.1136/bjo-2024-326097)] [[Publisher](https://bjo.bmj.com/content/110/1/1)]
+[2] **From Visual Question Answering to Intelligent AI Agents in Ophthalmology**   Xiaolan Chen, Ruoyu Chen, Pusheng Xu, Xiaojie Wan, Weiyi Zhang, Bingjie Yan, Xianwen Shang, Mingguang He, Danli Shi  *British Journal of Ophthalmology*, 2026.   [[DOI](https://doi.org/10.1136/bjo-2024-326097)] [[Publisher](https://bjo.bmj.com/content/110/1/1)]
 
 [3] **Generative Models in Medical Visual Question Answering: A Survey**   Wenjie Dong, Shuhao Shen, Yuqiang Han, Tao Tan, Jian Wu, Hongxia Xu   *Applied Sciences*, **15**(6), 2983, 2025.   [[DOI](https://doi.org/10.3390/app15062983)] [[Publisher](https://www.mdpi.com/2076-3417/15/6/2983)]
 
@@ -134,8 +131,7 @@ Qing Li, Lei Li, Yu Li   *Biophysics Reports*, **10**(3), 2024.   [[DOI](https:/
 
 [28] **OphthalVQA: Unveiling the Clinical Incapabilities: A Benchmarking Study of GPT-4V(ision) for Ophthalmic Multimodal Image Analysis**   Pusheng Xu, Xiaolan Chen, Ziwei Zhao, Danli Shi   *British Journal of Ophthalmology*, **108**(10), 1384–1389, **2024**.   [[DOI](https://doi.org/10.1136/bjo-2023-325054)] [[Publisher](https://bjo.bmj.com/content/108/10/1384)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38789133/)] [[Dataset](https://figshare.com/s/3e8ad50db900e82d3b47)]
 
-[29] **OphthalWeChat: Benchmarking Large Multimodal Models for Ophthalmic Visual Question Answering with OphthalWeChat**   Pusheng Xu, Xia Gong, Xiaolan Chen, Weiyi Zhang, Jiancheng Yang, Bingjie Yan, Meng Yuan, Yalin Zheng, Mingguang He, [**Danli Shi***](https://scholar.google.com/citations?user=QyF6ivQAAAAJ&hl=zh-CN)   *Advances in Ophthalmology Practice and Research*, 6(1), 33–41, **2026**.   
-[[DOI](https://doi.org/10.1016/j.aopr.2025.10.006)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S2667376225000538)] [[Dataset](https://figshare.com/s/e55ec97c0e142c94735c)]
+[29] **OphthalWeChat: Benchmarking Large Multimodal Models for Ophthalmic Visual Question Answering with OphthalWeChat**   Pusheng Xu, Xia Gong, Xiaolan Chen, Weiyi Zhang, Jiancheng Yang, Bingjie Yan, Meng Yuan, Yalin Zheng, Mingguang He, [**Danli Shi***](https://scholar.google.com/citations?user=QyF6ivQAAAAJ&hl=zh-CN)   *Advances in Ophthalmology Practice and Research*, 6(1), 33–41, **2026**.   [[DOI](https://doi.org/10.1016/j.aopr.2025.10.006)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S2667376225000538)] [[Dataset](https://figshare.com/s/e55ec97c0e142c94735c)]
 
 ### 1.4.2 Pathology and Whole Slide Image VQA
 
@@ -147,8 +143,7 @@ Qing Li, Lei Li, Yu Li   *Biophysics Reports*, **10**(3), 2024.   [[DOI](https:/
 
 [32] **MEDVQA-GI: Overview of ImageCLEFmedical 2023: Medical Visual Question Answering for Gastrointestinal Tract**   [**Steven Hicks***](https://scholar.google.com/citations?user=2fVVFSwAAAAJ&hl=en), Andrea Storås, Pål Halvorsen, Vajira Thambawita, Michael A. Riegler   *CLEF 2023 Working Notes*, **CEUR Workshop Proceedings 3497,** **2023**.   [[Publisher](https://ceur-ws.org/Vol-3497/)] [[PDF](https://ceur-ws.org/Vol-3497/paper-107.pdf)] [[Challenge](https://www.imageclef.org/2023/medical/vqa)]
 
-[33] **Kvasir-VQA: A Text-Image Pair GI Tract Dataset**   
-Sushant Gautam, Andrea Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Pål Halvorsen, **Michael A. Riegler***   *Proceedings of the First International Workshop on Vision-Language Models for Biomedical Applications (VLM4Bio '24)*, 3–12, **2024**.   [[DOI](https://doi.org/10.1145/3689096.3689458)] [[Publisher](https://dl.acm.org/doi/10.1145/3689096.3689458)] [[Dataset](https://datasets.simula.no/kvasir-vqa/)] [[Code](https://github.com/simula/Kvasir-VQA)] [[Huggingface](https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA)]
+[33] **Kvasir-VQA: A Text-Image Pair GI Tract Dataset**   Sushant Gautam, Andrea Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita, Pål Halvorsen, **Michael A. Riegler***   *Proceedings of the First International Workshop on Vision-Language Models for Biomedical Applications (VLM4Bio '24)*, 3–12, **2024**.   [[DOI](https://doi.org/10.1145/3689096.3689458)] [[Publisher](https://dl.acm.org/doi/10.1145/3689096.3689458)] [[Dataset](https://datasets.simula.no/kvasir-vqa/)] [[Code](https://github.com/simula/Kvasir-VQA)] [[Huggingface](https://huggingface.co/datasets/SimulaMet-HOST/Kvasir-VQA)]
 
 [34] **Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**   Sushant Gautam, Michael A. Riegler, Pål Halvorsen   *Data Engineering in Medical Imaging (DEMI 2025), MICCAI Workshop*, LNCS 16053, 53–63, **2025**.   [[DOI](https://doi.org/10.1007/978-3-032-08009-7_6)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-08009-7_6)] [[arXiv](https://arxiv.org/abs/2506.09958)] [[Code](https://github.com/simula/Kvasir-VQA-x1)] [[Dataset](https://datasets.simula.no/kvasir-vqa-x1/)] [[HuggingFace](https://huggingface.co/datasets/SimulaMet/Kvasir-VQA-x1)]
 
@@ -172,8 +167,7 @@ Sushant Gautam, Andrea Storås, Cise Midoglu, Steven A. Hicks, Vajira Thambawita
 
 ### 1.4.5 Dermatology, Wound Care, and Mammography VQA
 
-[43] **DermaVQA: A Multilingual Visual Question Answering Dataset for Dermatology**   Wen-wai Yim, Yujuan Fu, Zhaoyi Sun, Asma Ben Abacha, Meliha Yetisgen, Fei Xia 
-*Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, LNCS 15005, 209–219, **2024**.   [[DOI](https://doi.org/10.1007/978-3-031-72086-4_20)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_20)] [[Code](https://github.com/velvinnn/DermaVQA)] [[Dataset](https://osf.io/72rp3/)]
+[43] **DermaVQA: A Multilingual Visual Question Answering Dataset for Dermatology**   Wen-wai Yim, Yujuan Fu, Zhaoyi Sun, Asma Ben Abacha, Meliha Yetisgen, Fei Xia *Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, LNCS 15005, 209–219, **2024**.   [[DOI](https://doi.org/10.1007/978-3-031-72086-4_20)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-72086-4_20)] [[Code](https://github.com/velvinnn/DermaVQA)] [[Dataset](https://osf.io/72rp3/)]
 
 [44] **WoundcareVQA: A Multilingual Visual Question Answering Benchmark Dataset for Wound Care**   Wen-wai Yim, Asma Ben Abacha, Robert Doerning, Chia-Yu Chen, Jiaying Xu, Anita Subbarao, Zixuan Yu, Fei Xia, M. Kennedy Hall, Meliha Yetisgen   *Journal of Biomedical Informatics*, 170, 104888, **2025**.   [[DOI](https://doi.org/10.1016/j.jbi.2025.104888)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1532046425001170)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40886812/)] [[Dataset](https://osf.io/xsj5u/)]
 
