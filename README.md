@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./imgs/arise-medvqa-sig-resource-hub.svg" alt="ARISE-MedVQA Banner" />
+  <img src="./imgs/arise-medvqa-sig-resource-hub-cover.webp" alt="ARISE-MedVQA Banner" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/cloneiq/ARISE-MedVQA/stargazers">
