@@ -201,6 +201,10 @@ This project is suitable for the following research and teaching scenarios:
 
 [58] **SilVar-Med: A Speech-Driven Visual Language Model for Explainable Abnormality Detection in Medical Imaging**   **Tan-Hanh Pham***, Trong-Duong Bui, Minh Luu Quang, Tan-Huong Pham, Chris Ngo, Truong-Son Hy   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2984–2994, **2025**.   [[DOI](https://doi.org/10.1109/CVPRW67362.2025.00281)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025W/MAR/html/Pham_SilVar-Med_A_Speech-Driven_Visual_Language_Model_for_Explainable_Abnormality_Detection_CVPRW_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2504.10642)] [[Code](https://github.com/hanhpt23/silvarmed)] [[Dataset](https://huggingface.co/datasets/Hanhpt23/Silvar-Med)]
 
+## 1.7 Benchmark (Pending)
+
+[1] **MultiMedBench: A Scenario-Aware Benchmark for Evaluating Knowledge Editing in Medical VQA**  Shengtao Wen*, Haodong Chen*, Yadong Wang, Zhongying Pan, [**Xiang Chen***](https://scholar.google.com/citations?user=pXivdn8AAAAJ), Yu Tian, Bo Qian, Dong Liang, Sheng-Jun Huang  *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, **40(40)**, 33872–33880, 2026. [AAAI-2026](https://ojs.aaai.org/index.php/AAAI/article/download/40679/44640) | [DOI](https://doi.org/10.1609/aaai.v40i40.40679) | [Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/40679) | [PDF](https://ojs.aaai.org/index.php/AAAI/article/download/40679/44640) | [Code](https://github.com/NUAA-MMMI/MedBench) | [arXiv](https://arxiv.org/abs/2508.07022)
+
 # Methods (Selected)
 
 ## 1.1 Feature Fusion and Attention-based Medical VQA
@@ -359,7 +363,7 @@ This project is suitable for the following research and teaching scenarios:
 
 [72] **Fine-grained knowledge fusion for retrieval-augmented medical visual question answering**  Xiao Liang, Di Wang, Bin Jing, Zhicheng Jiao, Ronghan Li, Ruyi Liu, Qiguang Miao, Quan Wang  *Information Fusion*, **120**, 103059, **2025**.  [DOI](https://doi.org/10.1016/j.inffus.2025.103059) [Publisher](https://www.sciencedirect.com/science/article/pii/S1566253525001320) [Code](https://github.com/ecoxial2007/FGRW_MedVQA)
 
-[73] **MAP-GR: medical aware prompt and graph-guided reasoning for enhanced medical visual question answering**  Yuhai Yu, Xinghao Li, Jiana Meng, Xinyue Wang, Xinran Yan, Lin Lu  *Neurocomputing*, **672**, 132645, **2026**.  [DOI](https://doi.org/10.1016/j.neucom.2026.132645) [Publisher](https://www.sciencedirect.com/science/article/pii/S0925231226000421) 
+[73] **MAP-GR: medical aware prompt and graph-guided reasoning for enhanced medical visual question answering**  Yuhai Yu, Xinghao Li, **Jiana Meng***, Xinyue Wang, Xinran Yan, Lin Lu  *Neurocomputing*, **672**, 132645, **2026**.  [DOI](https://doi.org/10.1016/j.neucom.2026.132645) [Publisher](https://www.sciencedirect.com/science/article/pii/S0925231226000421) 
 
 [74] **Large-small model collaboration for medical visual question answering with task aware mixture of experts and relation knowledge distillation**  Qishen Chen, Wenxuan He, Xingyuan Chen, Chen Cheng, Minjie Bian, Huahu Xu  *Image and Vision Computing*, **165**, 105820, **2026**.  [DOI](https://doi.org/10.1016/j.imavis.2025.105820) [Publisher](https://www.sciencedirect.com/science/article/pii/S0262885625004081) [Code](https://github.com/shanziSZ/CoMed-TR) 
 
@@ -413,6 +417,8 @@ This project is suitable for the following research and teaching scenarios:
 
 ## 1.6 Robust, Debiased, and Causally-grounded Medical VQA
 
+[93] **Learning to Trim: End-to-End Causal Graph Pruning with Dynamic Anatomical Feature Banks for Medical VQA**  Zibo Xu, Qiang Li, [**Weizhi Nie\***](https://scholar.google.com/citations?user=aNwEZxkAAAAJ), Yuting Su  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2026*, **LNCS 16878**, 260–270, 2027.  [[DOI](https://doi.org/10.1007/978-3-032-38059-3_25)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_25)] [[MICCAI-2026](https://papers.miccai.org/miccai-2026/0574-Paper0307.html)] [[arXiv](https://arxiv.org/abs/2603.26028)]
+
 [93] **Consistency-Preserving Visual Question Answering in Medical Imaging**  Sergio Tascon-Morales, Pablo Márquez-Neila, Raphael Sznitman  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2022*, **LNCS 13438**, 386–395, **2022**.  [[DOI](https://doi.org/10.1007/978-3-031-16452-1_37)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_37)] [[MICCAI](https://conferences.miccai.org/2022/papers/104-Paper0744.html)] [[arXiv](https://arxiv.org/abs/2206.13296)] [[Code/Data](https://github.com/sergiotasconmorales/consistency_vqa)]
 
 [94] **VQAMix: Conditional Triplet Mixup for Medical Visual Question Answering**  Haifan Gong, Guanqi Chen, Mingzhi Mao, Zhen Li, Guanbin Li  *IEEE Transactions on Medical Imaging*, **41(11)**, 3332–3343, **2022**.  [[DOI](https://doi.org/10.1109/TMI.2022.3185008)] [[Publisher](https://ieeexplore.ieee.org/document/9802503)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35727773/)] [[Code](https://github.com/haifangong/VQAMix)]
@@ -458,6 +464,8 @@ This project is suitable for the following research and teaching scenarios:
 [113-1] **Med-CAP: Counterfactual Evidence and Adaptive Prior Suppression for Robust Medical Visual Question Answering**  Zaiqiang Huang, Zhihong Zhu, Zixuan Huang, Yunyan Zhang, Hui Zhang, [**Xian Wu\*** ](https://scholar.google.com/citations?user=lslB5jkAAAAJ) *Medical Image Computing and Computer Assisted Intervention – MICCAI 2026*, **LNCS 16878**, 313–323, 2026.  [[DOI](https://doi.org/10.1007/978-3-032-38059-3_30)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_30)] [[MICCAI](https://papers.miccai.org/miccai-2026/0628-Paper3867.html)] [[Code](https://github.com/ZaiqiangHuang/Med-CAP)]
 
 ## 1.7 Difference-aware and Dynamic Diagnosis-oriented Medical VQA
+
+[113-1] **Attention Consistent Longitudinal Medical Visual Question Answering Guided by Vision Foundation Models**  Jialin Wu, Qianru Zhang, Georges El Fakhri, [**Xiaofeng Liu***](https://scholar.google.com/citations?user=VighnTUAAAAJ&hl=en)  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 6448–6458, 2026.  [[CVF](https://openaccess.thecvf.com/content/CVPR2026W/PHAROS-AIF-MIH/html/Wu_Attention_Consistent_Longitudinal_Medical_Visual_Question_Answering_Guided_by_Vision_CVPRW_2026_paper.html)] [[PDF](https://openaccess.thecvf.com/content/CVPR2026W/PHAROS-AIF-MIH/papers/Wu_Attention_Consistent_Longitudinal_Medical_Visual_Question_Answering_Guided_by_Vision_CVPRW_2026_paper.pdf)] [[arXiv](https://arxiv.org/abs/2606.06534)]
 
 [113] **Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering**  Xinyue Hu, Lin Gu, Qiyuan An, Mengliang Zhang, Liangchen Liu, Kazuma Kobayashi, Tatsuya Harada, Ronald M. Summers, Yingying Zhu  *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23)*, 4156–4165, **2023**.  [DOI](https://doi.org/10.1145/3580305.3599819) [arXiv](https://arxiv.org/abs/2307.11986) [Code](https://github.com/Holipori/EKAID) [Dataset/Generation](https://github.com/Holipori/MIMIC-Diff-VQA)  [KDD](https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html)
 
