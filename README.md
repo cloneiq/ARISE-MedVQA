@@ -50,8 +50,7 @@ This project is suitable for the following research and teaching scenarios:
 
 [5] **Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review**   Iryna Hartsock, Ghulam Rasool   *Frontiers in Artificial Intelligence*, **7**, 1430984, 2024.   [[DOI](https://doi.org/10.3389/frai.2024.1430984)] [[Publisher](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1430984/full)] [[arXiv](https://arxiv.org/abs/2403.02469)]
 
-[6] **Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering**  
-Qing Li, Lei Li, Yu Li   *Biophysics Reports*, **10**(3), 2024.   [[DOI](https://doi.org/10.52601/bpr.2024.240004)] [[Publisher](https://www.biophysics-reports.org/en/article/doi/10.52601/bpr.2024.240004)]
+[6] **Developing ChatGPT for Biology and Medicine: A Complete Review of Biomedical Question Answering**  Qing Li, Lei Li, Yu Li   *Biophysics Reports*, **10**(3), 2024.   [[DOI](https://doi.org/10.52601/bpr.2024.240004)] [[Publisher](https://www.biophysics-reports.org/en/article/doi/10.52601/bpr.2024.240004)]
 
 [7] **Survey of Multimodal Medical Question Answering**   Hilmi Demirhan, Wlodek W. Zadrozny   *BioMedInformatics*, **4**(1), 56–78, 2024.   [[DOI](https://doi.org/10.3390/biomedinformatics4010004)] [[Publisher](https://www.mdpi.com/2673-7426/4/1/4)]
 
@@ -197,7 +196,7 @@ Qing Li, Lei Li, Yu Li   *Biophysics Reports*, **10**(3), 2024.   [[DOI](https:/
 
 [56] **MedFrameQA: A Multi-Image Medical VQA Benchmark for Clinical Reasoning**   Suhao Yu, Haojin Wang, Juncheng Wu, Cihang Xie, Yuyin Zhou   *arXiv preprint arXiv:2505.16964*, **2025**.   [[arXiv](https://arxiv.org/abs/2505.16964)] [[Project](https://ucsc-vlaa.github.io/MedFrameQA/)] [[Code](https://github.com/haojinw0027/MedFrameQA)] [[Dataset](https://huggingface.co/datasets/SuhaoYu1020/MedFrameQA)]
 
-[57] **MedDQA: Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**   Qi Peng , Yi Cai ,  Jiankun Liu, Quan Zou, Xing Chen, Zheng Zhong, Zefeng Wang, [**Jiayuan Xie***](https://scholar.google.com/citations?user=yZOXh24AAAAJ&hl=zh-CN) , and Qing Li  *IEEE Transactions on Medical Imaging*, 44(3), 1373–1385, **2025**.   [[DOI](https://doi.org/10.1109/TMI.2024.3496862)] [[Publisher](https://ieeexplore.ieee.org/document/10748057)] [Code](https://github.com/pqpq17/MMA) [Dataset](https://drive.google.com/file/d/1zHmIb7Ej3lb3z6KO_pT9IfX0YBZJapFF/view?usp=sharing)
+[57] **MedDQA: Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**   Qi Peng , Yi Cai ,  Jiankun Liu, Quan Zou, Xing Chen, Zheng Zhong, Zefeng Wang, [**Jiayuan Xie***](https://scholar.google.com/citations?user=yZOXh24AAAAJ&hl=zh-CN) , and Qing Li  *IEEE Transactions on Medical Imaging*, 44(3), 1373–1385, **2025**.   [[DOI](https://doi.org/10.1109/TMI.2024.3496862)] [[Publisher](https://ieeexplore.ieee.org/document/10748057)] [[Code](https://github.com/pqpq17/MMA)] [[Dataset](https://drive.google.com/file/d/1zHmIb7Ej3lb3z6KO_pT9IfX0YBZJapFF/view?usp=sharing)]
 
 [58] **SilVar-Med: A Speech-Driven Visual Language Model for Explainable Abnormality Detection in Medical Imaging**   **Tan-Hanh Pham***, Trong-Duong Bui, Minh Luu Quang, Tan-Huong Pham, Chris Ngo, Truong-Son Hy   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2984–2994, **2025**.   [[DOI](https://doi.org/10.1109/CVPRW67362.2025.00281)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025W/MAR/html/Pham_SilVar-Med_A_Speech-Driven_Visual_Language_Model_for_Explainable_Abnormality_Detection_CVPRW_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2504.10642)] [[Code](https://github.com/hanhpt23/silvarmed)] [[Dataset](https://huggingface.co/datasets/Hanhpt23/Silvar-Med)]
 
@@ -205,169 +204,87 @@ Qing Li, Lei Li, Yu Li   *Biophysics Reports*, **10**(3), 2024.   [[DOI](https:/
 
 ## 1.1 Feature Fusion and Attention-based Medical VQA
 
-[1] **MedFuseNet: An attention-based multimodal deep learning model for visual question answering in the medical domain** 
-Sharma, D., S. Purushotham, C. K. Reddy 
-Scientific Reports [2021]
+[1] **MedFuseNet: An attention-based multimodal deep learning model for visual question answering in the medical domain**  Dhruv Sharma, **Sanjay Purushotham\***, **Chandan K. Reddy\***  *Scientific Reports*, **11**, 19826, **2021**. [[DOI](https://doi.org/10.1038/s41598-021-98390-1)]  [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34615894/)]
 
-[2] **Hierarchical deep multi-modal network for medical visual question answering** 
-Gupta, D., S. Suman, A. Ekbal 
-Expert Systems with Applications [2021]
+[2] **Hierarchical deep multi-modal network for medical visual question answering**  Deepak Gupta, Swati Suman, Asif Ekbal  *Expert Systems with Applications*, **164**, 113993, **2021**. [[DOI](https://doi.org/10.1016/j.eswa.2020.113993)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0957417420307697)]
 
-[3] **Medical visual question answering via corresponding feature fusion combined with semantic attention** 
-Zhu, H., et al. 
-Mathematical Biosciences and Engineering [2022]
+[3] **Medical visual question answering via corresponding feature fusion combined with semantic attention**  Han Zhu, Xiaohai He, Meiling Wang, Mozhi Zhang, Linbo Qing  *Mathematical Biosciences and Engineering*, **19(10)**, 10192–10212, **2022**. [DOI](https://doi.org/10.3934/mbe.2022478) [PubMed](https://pubmed.ncbi.nlm.nih.gov/36031991/)
 
-[4] **Type-Aware Medical Visual Question Answering** 
-Zhang, A., et al. 
-ICASSP [2022]
+[4] **Type-Aware Medical Visual Question Answering**  Anda Zhang, Wei Tao, Ziyan Li, Haofen Wang, Wenqiang Zhang  *ICASSP 2022 – 2022 IEEE International Conference on Acoustics, Speech and Signal Processing*, 4838–4842, **2022**. [DOI](https://doi.org/10.1109/ICASSP43922.2022.9747087) [Publisher](https://www.proceedings.com/content/065/065074webtoc.pdf)
 
-[5] **Medical visual question answering based on question-type reasoning and semantic space constraint** 
-Wang, M., et al. 
-Artificial Intelligence in Medicine [2022]
+[5] **Medical visual question answering based on question-type reasoning and semantic space constraint**  Meiling Wang, Xiaohai He, Luping Liu, Linbo Qing, Honggang Chen, Yan Liu, Chao Ren  *Artificial Intelligence in Medicine*, **131**, 102346, **2022**. [DOI](https://doi.org/10.1016/j.artmed.2022.102346) [PubMed](https://pubmed.ncbi.nlm.nih.gov/36100340/)
 
-[6] **MHKD-MVQA: Multimodal Hierarchical Knowledge Distillation for Medical Visual Question Answering** 
-Wang, J., et al. 
-BIBM [2022]
+[6] **MHKD-MVQA: Multimodal Hierarchical Knowledge Distillation for Medical Visual Question Answering**  Jianfeng Wang, Shuokang Huang, Huifang Du, Yu Qin, Haofen Wang, Wenqiang Zhang  *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 567–574, **2022**. [DOI](https://doi.org/10.1109/BIBM55620.2022.9995473) [DBLP](https://dblp.uni-trier.de/rec/conf/bibm/WangHDQWZ22.html)
 
-[7] **M2FNet: Multi-granularity feature fusion network for medical visual question answering** 
-Wang, H., et al. 
-PRICAI [2022]
+[7] **M2FNet: Multi-granularity Feature Fusion Network for Medical Visual Question Answering**  He Wang, Haiwei Pan, Kejia Zhang, Shuning He, Chunling Chen  *PRICAI 2022: Trends in Artificial Intelligence*, **LNAI 13630**, 141–154, **2022**. [DOI](https://doi.org/10.1007/978-3-031-20865-2_11) [Springer](https://link.springer.com/book/10.1007/978-3-031-20865-2)
 
-[8] **AMAM: An attention-based multimodal alignment model for medical visual question answering** 
-Pan, H., et al. 
-Knowledge-Based Systems [2022]
+[8] **AMAM: An Attention-based Multimodal Alignment Model for Medical Visual Question Answering**  Haiwei Pan, Shuning He, Kejia Zhang, Bo Qu, Chunling Chen, Kun Shi  *Knowledge-Based Systems*, **255**, 109763, **2022**. [DOI](https://doi.org/10.1016/j.knosys.2022.109763) [Publisher](https://www.sciencedirect.com/science/article/pii/S0950705122008929)
 
-[9] **BPI-MVQA: a bi-branch model for medical visual question answering** 
-Liu, S., et al. 
-BMC Medical Imaging [2022]
+[9] **BPI-MVQA: a bi-branch model for medical visual question answering**  Shengyan Liu, Xuejie Zhang, Xiaobing Zhou, Jian Yang  *BMC Medical Imaging*, **22**, 79, **2022**. [DOI](https://doi.org/10.1186/s12880-022-00800-x) [PubMed](https://pubmed.ncbi.nlm.nih.gov/35488285/)
 
-[10] **A Transformer-based Medical Visual Question Answering Model** 
-Liu, L., et al. 
-ICPR [2022]
+[10] **A Transformer-based Medical Visual Question Answering Model**  Lei Liu, Xiangdong Su, Hui Guo, Daobin Zhu  *2022 26th International Conference on Pattern Recognition (ICPR)*, 1712–1718, **2022**. [DOI](https://doi.org/10.1109/ICPR56361.2022.9956469) [Proceedings](https://www.proceedings.com/content/066/066472webtoc.pdf)
 
-[11] **How Well Apply Multimodal Mixup and Simple MLPs Backbone to Medical Visual Question Answering?** 
-Liu, L., X. Su 
-BIBM [2022]
+[11] **How Well Apply Multimodal Mixup and Simple MLPs Backbone to Medical Visual Question Answering?**  Lei Liu, Xiangdong Su  *2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2648–2655, **2022**. [DOI](https://doi.org/10.1109/BIBM55620.2022.9995347)。[ResearchGate](https://www.researchgate.net/publication/366832548_How_Well_Apply_Multimodal_Mixup_and_Simple_MLPs_Backbone_to_Medical_Visual_Question_Answering)
 
-[12] **A Bi-level representation learning model for medical visual question answering** 
-Li, Y., et al. 
-Journal of Biomedical Informatics [2022]
+[12] **A Bi-level representation learning model for medical visual question answering**  Yong Li, Shaopei Long, Zhenguo Yang, Heng Weng, Kun Zeng, Zhenhua Huang, Fu Lee Wang, Tianyong Hao  *Journal of Biomedical Informatics*, **134**, 104183, **2022**. [DOI](https://doi.org/10.1016/j.jbi.2022.104183) [PubMed](https://pubmed.ncbi.nlm.nih.gov/36038063/)
 
-[13] **Caption-aware medical VQA via semantic focusing and progressive cross-modality comprehension** 
-Cong, F., et al. 
-ACM Multimedia [2022]
+[13] **Caption-Aware Medical VQA via Semantic Focusing and Progressive Cross-Modality Comprehension**  Fuze Cong, Shibiao Xu, Li Guo, Yinbing Tian  *Proceedings of the 30th ACM International Conference on Multimedia (MM ’22)*, 3569–3577, **2022**. [DOI](https://doi.org/10.1145/3503161.3548122) [Researchr](https://researchr.org/publication/CongXGT22/bibtex)
 
-[14] **Question-guided feature pyramid network for medical visual question answering** 
-Yu, Y., et al. 
-Expert Systems with Applications [2023]
+[14] **Question-guided feature pyramid network for medical visual question answering**  Yonglin Yu, Haifeng Li, Hanrong Shi, Lin Li, Jun Xiao  *Expert Systems with Applications*, **214**, 119148, **2023**. [DOI](https://doi.org/10.1016/j.eswa.2022.119148) [Publisher](https://www.sciencedirect.com/science/article/pii/S0957417422021662)
 
-[15] **FGCVQA: Fine-Grained Cross-Attention for Medical VQA** 
-Wu, Z., et al. 
-ICIP [2023]
+[15] **FGCVQA: Fine-Grained Cross-Attention for Medical VQA**  Ziheng Wu, Xinyao Shu, Shiyang Yan, Zhenyu Lu  *2023 IEEE International Conference on Image Processing (ICIP)*, 975–979, **2023**. [DOI](https://doi.org/10.1109/ICIP49359.2023.10222540) [Code](https://github.com/wwzziheng/FGCVQA) [URC | IEEE Universal Resource Center](https://resourcecenter.ieee.org/conferences/icip-2023/spsicip23vid0725)
 
-[16] **Asymmetric cross-modal attention network with multimodal augmented mixup for medical visual question answering** 
-Li, Y., et al. 
-Artificial Intelligence in Medicine [2023]
+[16] **Asymmetric cross-modal attention network with multimodal augmented mixup for medical visual question answering**  Yong Li, Qihao Yang, Fu Lee Wang, Lap-Kei Lee, Yingying Qu, Tianyong Hao  *Artificial Intelligence in Medicine*, **144**, 102667, **2023**. [DOI](https://doi.org/10.1016/j.artmed.2023.102667) [PubMed](https://pubmed.ncbi.nlm.nih.gov/37783542/) [Publisher](https://www.sciencedirect.com/science/article/abs/pii/S0933365723001811)
 
-[17] **Medical visual question answering with symmetric interaction attention and cross-modal gating** 
-Chen, Z., et al. 
-Biomedical Signal Processing and Control [2023]
+[17] **Medical visual question answering with symmetric interaction attention and cross-modal gating**  Zhi Chen, Beiji Zou, Yulan Dai, Chengzhang Zhu, Guilan Kong, Wensheng Zhang  *Biomedical Signal Processing and Control*, **85**, 105049, **2023**. [[DOI](https://doi.org/10.1016/j.bspc.2023.105049)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1746809423004822)]
 
-[18] **Pre-trained multilevel fuse network based on vision-conditioned reasoning and bilinear attentions for medical image visual question answering** 
-Cai, L., H. Fang, Z. Li 
-Journal of Supercomputing [2023]
+[18] **VB-MVQA: Pre-trained multilevel fuse network based on vision-conditioned reasoning and bilinear attentions for medical image visual question answering**  Linqin Cai, Haodu Fang, Zhiqing Li  *The Journal of Supercomputing*, **79**, 13696–13723, **2023**. [DOI](https://doi.org/10.1007/s11227-023-05195-2) [ResearchGate](https://www.researchgate.net/publication/369623058_Pre-trained_multilevel_fuse_network_based_on_vision-conditioned_reasoning_and_bilinear_attentions_for_medical_image_visual_question_answering)
 
-[19] **Visual Question Answer System for Skeletal Image Using Radiology Images in the Healthcare Domain Based on Visual and Textual Feature Extraction Techniques** 
-Y. I, J. M., M. Shrimali, S. Gawade 
-Annals of Data Science [2024]
+[19] **Visual Question Answer System for Skeletal Image Using Radiology Images in the Healthcare Domain Based on Visual and Textual Feature Extraction Techniques**  Jinesh Melvin Y. I., Mukesh Shrimali, Sushopti Gawade  *Annals of Data Science*, **12(3)**, 969–990, **2025**. [DOI](https://doi.org/10.1007/s40745-024-00553-0) [IDEAS/RePEc](https://ideas.repec.org/a/spr/aodasc/v12y2025i3d10.1007_s40745-024-00553-0.html)
 
-[20] **Multimodal fusion: advancing medical visual question-answering** 
-Mudgal, A., et al. 
-Neural Computing and Applications [2024]
+[20] **Multimodal fusion: advancing medical visual question-answering**  Anjali Mudgal, Udbhav Kush, Aditya Kumar, Amir Jafari  *Neural Computing and Applications*, **36(33)**, 20949–20962, **2024**. [DOI](https://doi.org/10.1007/s00521-024-10318-8) [ResearchGate](https://www.researchgate.net/publication/383265301_Multimodal_fusion_advancing_medical_visual_question-answering)
 
-[21] **Deep Fuzzy Multiteacher Distillation Network for Medical Visual Question Answering** 
-Liu, Y., et al. 
-IEEE Transactions on Fuzzy Systems [2024]
+[21] **Deep Fuzzy Multiteacher Distillation Network for Medical Visual Question Answering**  Yishu Liu, Bingzhi Chen, Shuihua Wang, Guangming Lu, [**Zheng Zhang\***](https://cszhengzhang.cn/FulPub)  *IEEE Transactions on Fuzzy Systems*, **32(10)**, 5413–5427, 2024.  [DOI](https://doi.org/10.1109/TFUZZ.2024.3402086) [Zheng Zhang Homepage](https://cszhengzhang.cn/)
 
-[22] **Leveraging Convolutional Models as Backbone for Medical Visual Question Answering** 
-Liu, L., X. Su, G. Gao 
-BIBM [2024]
+[22] **Leveraging Convolutional Models as Backbone for Medical Visual Question Answering**  Lei Liu, Xiangdong Su, Guanglai Gao  *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2177–2182, 2024.  [DOI](https://doi.org/10.1109/BIBM62325.2024.10821918) [ResearchGate](https://www.researchgate.net/publication/387923975_Leveraging_Convolutional_Models_as_Backbone_for_Medical_Visual_Question_Answering)
 
-[23] **Optimizing Transformer and MLP with Hidden States Perturbation for Medical Visual Question Answering** 
-Liu, L., X. Su, G. Gao 
-BIBM [2024]
+[23] **Optimizing Transformer and MLP with Hidden States Perturbation for Medical Visual Question Answering**  Lei Liu, Xiangdong Su, Guanglai Gao  *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 5515–5522, 2024.  [DOI](https://doi.org/10.1109/BIBM62325.2024.10821987) [ResearchGate](https://www.researchgate.net/publication/387916863_Optimizing_Transformer_and_MLP_with_Hidden_States_Perturbation_for_Medical_Visual_Question_Answering)
 
-[24] **Multi-modal multi-head self-attention for medical VQA** 
-Joshi, V., P. Mitra, S. Bose 
-Multimedia Tools and Applications [2024]
+[24] **Multi-modal multi-head self-attention for medical VQA**  Vasudha Joshi, Pabitra Mitra, Supratik Bose  *Multimedia Tools and Applications*, **83(14)**, 42585–42608, 2024.  [DOI](https://doi.org/10.1007/s11042-023-17162-3) [Publisher](https://link.springer.com/article/10.1007/s11042-023-17162-3) [ResearchGate](https://www.researchgate.net/publication/374585955_Multi-modal_multi-head_self-attention_for_medical_VQA)
 
-[25] **A Dual-Attention Learning Network With Word and Sentence Embedding for Medical Visual Question Answering** 
-Huang, X., H. Gong 
-IEEE Transactions on Medical Imaging [2024]
+[25] **A Dual-Attention Learning Network With Word and Sentence Embedding for Medical Visual Question Answering**  Xiaofei Huang, Hongfang Gong  *IEEE Transactions on Medical Imaging*, **43(2)**, 832–845, 2024.  [DOI](https://doi.org/10.1109/TMI.2023.3322868) [PubMed](https://pubmed.ncbi.nlm.nih.gov/37812550/) [arXiv](https://arxiv.org/abs/2210.00220) 
 
-[26] **Transforming Medical Imaging: A VQA Model for Microscopic Blood Cell Classification** 
-Fatima, I., et al. 
-IEEE Access [2024]
+[26] **Transforming Medical Imaging: A VQA Model for Microscopic Blood Cell Classification**  Izzah Fatima, Jamal Hussain Shah, Rabia Saleem, Samia Riaz, Muhammad Rafiq, **Fahad Ahmed Khokhar\***  *IEEE Access*, **12**, 168547–168556, 2024.  [DOI](https://doi.org/10.1109/ACCESS.2024.3496655) [ResearchGate](https://www.researchgate.net/publication/385769408_Transforming_Medical_Imaging_A_VQA_Model_for_Microscopic_Blood_Cell_Classification)
 
-[27] **MMQL: Multi-Question Learning for Medical Visual Question Answering** 
-Chen, Q., M. Bian, H. Xu 
-MICCAI [2024]
+[27] **MMQL: Multi-Question Learning for Medical Visual Question Answering**  **Qishen Chen\***, Minjie Bian, Huahu Xu  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, **LNCS 15005**, 480–489, 2024.  [DOI](https://doi.org/10.1007/978-3-031-72086-4_45) [MICCAI-2024](https://papers.miccai.org/miccai-2024/525-Paper1159.html) [Code](https://github.com/shanziSZ/MMQL) [PDF](https://papers.miccai.org/miccai-2024/paper/1159_paper.pdf)
 
-[28] **Overcoming Data Limitations and Cross-Modal Interaction Challenges in Medical Visual Question Answering** 
-Bi, Y., et al. 
-IJCNN [2024]
+[28] **Overcoming Data Limitations and Cross-Modal Interaction Challenges in Medical Visual Question Answering**  Y. Bi, X. Wang, Q. Wang, J. Yang  *2024 International Joint Conference on Neural Networks (IJCNN)*, 1–8, 2024.  [DOI](https://doi.org/10.1109/IJCNN60899.2024.10651345)
 
-[29] **Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering** 
-Zhang, Z., et al. 
-IJCNN [2025]
+[29] **Efficient Bilinear Attention-based Fusion for Medical Visual Question Answering**  [**Zhilin Zhang***](https://scholar.google.com/citations?user=vWTBvyQAAAAJ), Jie Wang, Zhanghao Qin, Ruiqi Zhu, Xiaoliang Gong  *2025 International Joint Conference on Neural Networks (IJCNN)*, 1–7, 2025.  [DOI](https://doi.org/10.1109/IJCNN64981.2025.11228425) [arXiv](https://arxiv.org/abs/2410.21000) [DBLP](https://dblp.uni-trier.de/rec/conf/ijcnn/ZhangWQZG25.html)
 
-[30] **Enhanced Medical Visual Question Answering Using Multi-Feature Fusion and Similarity-Based Answer Selection** 
-Yu, F., et al. 
-IJCNN [2025]
+[30] **Enhanced Medical Visual Question Answering Using Multi-Feature Fusion and Similarity-Based Answer Selection**  Fenghua Yu, Haiwei Pan, Kejia Zhang, Haoyu Sun  *2025 International Joint Conference on Neural Networks (IJCNN)*, 1–8, 2025.  [DOI](https://doi.org/10.1109/IJCNN64981.2025.11228331) [ResearchGate](https://www.researchgate.net/publication/397629566_Enhanced_Medical_Visual_Question_Answering_Using_Multi-Feature_Fusion_and_Similarity-Based_Answer_Selection)
 
-[31] **A medical visual question-answering model based on multi-scale feature fusion and question Feature enhancement** 
-Xia, H., et al. 
-Multimedia Systems [2025]
+[31] **A medical visual question-answering model based on multi-scale feature fusion and question Feature enhancement**  **Hong Xia\***, Yifan Zhang, Hui Jia, Yanping Chen, Jing Xu, Shiyong Li  *Multimedia Systems*, **31(4)**, 271, 2025.  [DOI](https://doi.org/10.1007/s00530-025-01848-9) [Publisher](https://link.springer.com/article/10.1007/s00530-025-01848-9) [ResearchGate](https://www.researchgate.net/publication/392196972_A_medical_visual_question-answering_model_based_on_multi-scale_feature_fusion_and_question_Feature_enhancement)
 
-[32] **Visual question answering on blood smear images using convolutional block attention module powered object detection** 
-Lubna, A., S. Kalady, A. Lijiya 
-The Visual Computer [2025]
+[32] **Visual question answering on blood smear images using convolutional block attention module powered object detection**  A. Lubna, Saidalavi Kalady, A. Lijiya  *The Visual Computer*, **41(1)**, 739–757, 2025.  [DOI](https://doi.org/10.1007/s00371-024-03359-6) [Publisher](https://link.springer.com/article/10.1007/s00371-024-03359-6) [ResearchGate](https://www.researchgate.net/publication/379694011_Visual_question_answering_on_blood_smear_images_using_convolutional_block_attention_module_powered_object_detection)
 
-[33] **Meta-Learning with Attention Network for Medical Visual Question Answering** 
-Liu, L., et al. 
-BIBM [2025]
+[33] **Meta-Learning with Attention Network for Medical Visual Question Answering**  Lanrui Liu, Hongye Pang, Linqin Cai, Daohong Liu, Renyun Mou  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 3838–3841, 2025.  [DOI](https://doi.org/10.1109/BIBM66473.2025.11356912) [ResearchGate](https://www.researchgate.net/publication/400699816_Meta-Learning_with_Attention_Network_for_Medical_Visual_Question_Answering)
 
-[34] **Answer Semantics-enhanced Medical Visual Question Answering** 
-Liang, Y., et al. 
-Machine Intelligence Research [2025]
+[34] **Answer Semantics-enhanced Medical Visual Question Answering**  Yuliang Liang, Enneng Yang, Guibing Guo, Wei Cai, Linying Jiang, Jianzhe Zhao, Xingwei Wang  *Machine Intelligence Research*, **22(6)**, 1127–1137, 2025.  [DOI](https://doi.org/10.1007/s11633-025-1564-2) [Publisher](https://www.mi-research.net/en/article/doi/10.1007/s11633-025-1564-2)
 
-[35] **Inference enhanced model with answer refinement for medical visual question answering** 
-Li, Y., et al. 
-Multimedia Systems [2025]
+[35] **Inference enhanced model with answer refinement for medical visual question answering**  Yong Li, Zhenguo Yang, Lap-Kei Lee, Fu Lee Wang, **Yingying Qu\***, **Tianyong Hao\***  *Multimedia Systems*, **31(6)**, 422, 2025.  [DOI](https://doi.org/10.1007/s00530-025-01997-x) [Publisher](https://link.springer.com/article/10.1007/s00530-025-01997-x) [ResearchGate](https://www.researchgate.net/publication/396403791_Inference_enhanced_model_with_answer_refinement_for_medical_visual_question_answering)
 
-[36] **VG-CALF: a vision-guided cross-attention and late-fusion network for radiology images in Medical Visual Question Answering** 
-Lameesa, A., C. Silpasuwanchai, M. S. B. Alam 
-Neurocomputing [2025]
+[36] **VG-CALF: A vision-guided cross-attention and late-fusion network for radiology images in Medical Visual Question Answering**  Aiman Lameesa, Chaklam Silpasuwanchai, **Md. Sakib Bin Alam\***  *Neurocomputing*, **613**, 128730, 2025.  [DOI](https://doi.org/10.1016/j.neucom.2024.128730) [Publisher](https://www.sciencedirect.com/science/article/pii/S0925231224015017) [Dspace](https://dspace.aiub.edu/jspui/bitstream/123456789/2601/1/VG-CALF A vision-guided cross-attention and late-fusion network for radiology images in Medical Visual Question Answering.pdf)
 
-[37] **Answer Distillation Network With Bi-Text-Image Attention for Medical Visual Question Answering** 
-Gong, H., L. Li 
-IEEE Access [2025]
+[37] **Answer Distillation Network With Bi-Text-Image Attention for Medical Visual Question Answering**  Hongfang Gong, **Li Li\***  *IEEE Access*, **13**, 16455–16465, 2025.  [DOI](https://doi.org/10.1109/ACCESS.2025.3532308) [ResearchGate](https://www.researchgate.net/publication/388251403_Answer_Distillation_Network_With_Bi-Text-Image_Attention_for_Medical_Visual_Question_Answering)
 
-[38] **Contextual Feature-Based Medical Visual Question Answering Aided by Learnable Matrix** 
-Gong, C., et al. 
-Pattern Recognition and Computer Vision [2025]
+[38] **Contextual Feature-Based Medical Visual Question Answering Aided by Learnable Matrix**  Cheng Gong, Haiwei Pan, **Haiyan Lan\***, Kejia Zhang, Shuning He, Xiteng Jia  *Pattern Recognition and Computer Vision – PRCV 2024*, **LNCS 15034**, 3–16, 2025.  [DOI](https://doi.org/10.1007/978-981-97-8505-6_1) [Publisher](https://link.springer.com/chapter/10.1007/978-981-97-8505-6_1)
 
-[39] **A Language-Guided Progressive Fusion Network with semantic density alignment for Medical Visual Question Answering** 
-Du, S., S. Liang, Y. Gu 
-Journal of Biomedical Informatics [2025]
+[39] **A Language-Guided Progressive Fusion Network with semantic density alignment for Medical Visual Question Answering**  Shuxian Du, Shuang Liang, Yu Gu  *Journal of Biomedical Informatics*, **165**, 104811, 2025.  [DOI](https://doi.org/10.1016/j.jbi.2025.104811) [Publisher](https://www.sciencedirect.com/science/article/pii/S1532046425000401) [PubMed](https://pubmed.ncbi.nlm.nih.gov/40113190/)
 
-[40] **Body Part-Aware Cross-Modal Feature Interaction Learning for Medical Vision Question Answering** 
-Dai, S., et al. 
-ICIC [2025]
+[40] **Body Part-Aware Cross-Modal Feature Interaction Learning for Medical Vision Question Answering**  Shuting Dai, Hao Cong, Lijun Liu, Xiaobing Yang, Wei Peng, Li Liu  *Advanced Intelligent Computing Technology and Applications – ICIC 2025*, **LNCS 15846**, 14–23, 2025.  [DOI](https://doi.org/10.1007/978-981-96-9794-6_2) [Publisher](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_2) [DBLP](https://dblp.uni-trier.de/rec/conf/icic/DaiCLYPL25.html)
 
-[41] **Visual question answering for medical diagnosis** 
-Ben Chaabane, N., M. Bal-Ghaoui 
-Intelligent Systems with Applications [2025]
+[41] **Visual question answering for medical diagnosis**  **Nawel Ben Chaabane\***, Mohamed Bal-Ghaoui  *Intelligent Systems with Applications*, **27**, 200545, 2025.  [DOI](https://doi.org/10.1016/j.iswa.2025.200545) [Publisher](https://www.sciencedirect.com/science/article/pii/S2667305325000717)
 
 [42] **CMID: Towards Medical Visual Question Answering via Contrastive Mutual Information Decoding**  Zhihong Zhu, Yunyan Zhang, Fan Zhang, Bowen Xing, [**Xian Wu\***](https://scholar.google.com/citations?user=lslB5jkAAAAJ&hl=zh-CN)  *Proceedings of the AAAI Conference on Artificial Intelligence*, **40**(41), 35275–35283, 2026.  [[DOI](https://doi.org/10.1609/aaai.v40i41.40835)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/40835)] [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/40835/44796)]
 
@@ -375,67 +292,35 @@ Intelligent Systems with Applications [2025]
 
 ## 1.2 Vision-Language Pre-training and Cross-modal Representation Alignment
 
-[42] **Contrastive pre-training and representation distillation for medical visual question answering based on radiology images** 
-Liu, B., L.-M. Zhan, X.-M. Wu 
-MICCAI [2021]
+[42] **Contrastive Pre-training and Representation Distillation for Medical Visual Question Answering Based on Radiology Images**  Bo Liu, Li-Ming Zhan, Xiao-Ming Wu  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2021*, **LNCS 12902**, 210–220, **2021**.  [DOI](https://doi.org/10.1007/978-3-030-87196-3_20) [MICCAI-2021](https://miccai2021.org/openaccess/paperlinks/2021/09/01/113-Paper1235.html) [Code/Data](https://github.com/awenbocc/cprd)
 
-[43] **MMBERT: Multimodal BERT pretraining for improved medical VQA** 
-Khare, Y., et al. 
-ISBI [2021]
+[43] **MMBERT: Multimodal BERT Pretraining for Improved Medical VQA**  Yash Khare, Viraj Bagal, Minesh Mathew, Adithi Devi, U. Deva Priyakumar, C. V. Jawahar  *2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)*, 1033–1036, **2021**.  [DOI](https://doi.org/10.1109/ISBI48211.2021.9434063) [arXiv](https://arxiv.org/abs/2104.01394) [Code](https://github.com/VirajBagal/MMBERT)。
 
-[44] **Multi-modal Masked Autoencoders for Medical Vision-and-Language Pre-training** 
-Chen, Z., et al. 
-MICCAI [2022]
+[44] **Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training**  Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan, Tsung-Hui Chang  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2022*, **LNCS 13435**, 679–689, **2022**.  [DOI](https://doi.org/10.1007/978-3-031-16443-9_65) [MICCAI-2022](https://conferences.miccai.org/2022/papers/336-Paper1841.html) [arXiv](https://arxiv.org/abs/2209.07098) [Code](https://github.com/zhjohnchan/M3AE)
 
-[45] **PLMVQA: Applying Pseudo Labels for Medical Visual Question Answering with Limited Data** 
-Yu, Z., et al. 
-MICCAI [2023]
+[45] **PLMVQA: Applying Pseudo Labels for Medical Visual Question Answering with Limited Data**  Zheng Yu, Yutong Xie, Yong Xia, Qi Wu  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2023 Workshops: MTSAIL/LEAF/AI4Treat/MMMI/REMIA*, **LNCS 14394**, 357–367, **2023**.  [DOI](https://doi.org/10.1007/978-3-031-47425-5_32) [Publisher](https://link.springer.com/book/10.1007/978-3-031-47425-5)。
 
-[46] **PMC-CLIP: Contrastive language-image pre-training using biomedical documents** 
-Lin, W., et al. 
-MICCAI [2023]
+[46] **PMC-CLIP: Contrastive Language-Image Pre-training Using Biomedical Documents**  Weixiong Lin, Ziheng Zhao, Xiaoman Zhang, Chaoyi Wu, Ya Zhang, Yanfeng Wang, Weidi Xie  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2023*, **LNCS 14227**, 525–536, **2023**.  [DOI](https://doi.org/10.1007/978-3-031-43993-3_51) [MICCAI-2023](https://conferences.miccai.org/2023/papers/502-Paper0820.html) [arXiv](https://arxiv.org/abs/2303.07240) [Code/Data](https://github.com/WeixiongLin/PMC-CLIP)
 
-[47] **Self-Supervised Vision-Language Pretraining for Medial Visual Question Answering** 
-Li, P., et al. 
-ISBI [2023]
+[47] **Self-Supervised Vision-Language Pretraining for Medial Visual Question Answering**  Pengfei Li, Gang Liu, Lin Tan, Jinying Liao, Shenjun Zhong  *2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)*, 1–5, **2023**.  [DOI](https://doi.org/10.1109/ISBI53787.2023.10230743) [Code](https://github.com/pengfeiliHEU/M2I2)。
 
-[48] **Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering** 
-Li, P., et al. 
-MICCAI [2023]
+[48] **Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**  Pengfei Li, Gang Liu, Jinlong He, Zixu Zhao, Shenjun Zhong  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2023*, **LNCS 14220**, 374–383, **2023**.  [DOI](https://doi.org/10.1007/978-3-031-43907-0_36) [MICCAI-2023](https://conferences.miccai.org/2023/papers/401-Paper2138.html) [arXiv](https://arxiv.org/abs/2307.05314) [Code](https://github.com/pengfeiliHEU/MUMC)。
 
-[49] **A Weak Supervision-based Robust Pretraining Method for Medical Visual Question Answering** 
-He, S., et al. 
-BIBM [2023]
+[49] **A Weak Supervision-based Robust Pretraining Method for Medical Visual Question Answering**  Shuning He, Haiwei Pan, Kejia Zhang, Cheng Gong, Zhe Li  *2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 1957–1960, **2023**.  [DOI](https://doi.org/10.1109/BIBM58861.2023.10385332)
 
-[50] **PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain?** 
-Eslami, S., C. Meinel, G. de Melo 
-Findings of EACL [2023]
+[50] **PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain?**  Sedigheh Eslami, Christoph Meinel, Gerard de Melo  *Findings of the Association for Computational Linguistics: EACL 2023*, 1181–1193, **2023**.  [DOI](https://doi.org/10.18653/v1/2023.findings-eacl.88) [ACL](https://aclanthology.org/2023.findings-eacl.88/) [Code](https://github.com/sarahESL/PubMedCLIP)。
 
-[51] **Diffusion-based Visual Representation Learning for Medical Question Answering** 
-Bian, D., X. Wang, M. Li 
-ACML [2023]
+[51] **Diffusion-based Visual Representation Learning for Medical Question Answering**  Dexin Bian, Xiaoru Wang, Meifang Li  *Proceedings of the 15th Asian Conference on Machine Learning (ACML 2023)*, **PMLR 222**, 169–184, **2024**.  [PMLR](https://proceedings.mlr.press/v222/bian24a.html)
 
-[52] **Cross-Modal self-supervised vision language pre-training with multiple objectives for medical visual question answering** 
-Liu, G., et al. 
-Journal of Biomedical Informatics [2024]
+[52] **Cross-Modal self-supervised vision language pre-training with multiple objectives for medical visual question answering**  Gang Liu, Jinlong He, Pengfei Li, Zixu Zhao, Shenjun Zhong  *Journal of Biomedical Informatics*, **160**, 104748, **2024**.  [DOI](https://doi.org/10.1016/j.jbi.2024.104748) [PubMed](https://pubmed.ncbi.nlm.nih.gov/39536998/)
 
-[53] **Leveraging Coarse-to-Fine Grained Representations in Contrastive Learning for Differential Medical Visual Question Answering** 
-Liang, X., et al. 
-MICCAI [2024]
+[53] **Leveraging Coarse-to-Fine Grained Representations in Contrastive Learning for Differential Medical Visual Question Answering**  Xiao Liang, Yin Wang, **Di Wang\***, Zhicheng Jiao, Haodi Zhong, Mengyu Yang, Quan Wang  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, **LNCS 15005**, 415–425, **2024**.  [DOI](https://doi.org/10.1007/978-3-031-72086-4_39) [MICCAI-2024](https://papers.miccai.org/miccai-2024/456-Paper1957.html) [Code](https://github.com/big-white-rabbit/Coarse-to-Fine-Grained-Contrastive-Learning)
 
-[54] **MISS: A Generative Pre-training and Fine-Tuning Approach for Med-VQA** 
-Chen, J., et al. 
-Artificial Neural Networks and Machine Learning [2024]
+[54] **MISS: A Generative Pre-training and Fine-Tuning Approach for Med-VQA**  Jiawei Chen, Dingkang Yang, Yue Jiang, Yuxuan Lei, Lihua Zhang  *Artificial Neural Networks and Machine Learning – ICANN 2024*, **LNCS 15023**, 299–313, **2024**.  [DOI](https://doi.org/10.1007/978-3-031-72353-7_22) [Publisher](https://link.springer.com/book/10.1007/978-3-031-72353-7) [Code](https://github.com/TIMMY-CHAN/MISS)
 
-[55] **Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering**  Yuanhao Zou, **[Zhaozheng Yin\*](https://scholar.google.com/citations?user=x-y92ksAAAAJ)**  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 29623–29633, 2025.  [[DOI](https://doi.org/10.1109/CVPR52734.2025.02758)] [[Publisher](https://openaccess.thecvf.com/content/CVPR2025/html/Zou_Alignment_Mining_and_Fusion_Representation_Alignment_with_Hard_Negative_Mining_CVPR_2025_paper.html)] [[arXiv](https://arxiv.org/abs/2510.08791)] [[Code](https://github.com/AlexCo1d/AMiF)]
+[56] **MVCM: Enhancing Multi-View and Cross-Modality Alignment for Medical Visual Question Answering and Medical Image-Text Retrieval**  Yuanhao Zou, Zhaozheng Yin  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 180–190, **2025**.  [DOI](https://doi.org/10.1109/CVPRW67362.2025.00023) [CVPR-2025-CVPRW](https://openaccess.thecvf.com/content/CVPR2025W/MULA2025/html/Zou_MVCM_Enhancing_Multi-View_and_Cross-Modality_Alignment_for_Medical_Visual_Question_CVPRW_2025_paper.html) [Code](https://github.com/AlexCo1d/MVCM)
 
-[56] **MVCM: Enhancing Multi-View and Cross-Modality Alignment for Medical Visual Question Answering and Medical Image-Text Retrieval** 
-Zou, Y., Z. Yin 
-CVPR [2025]
-
-[57] **MLP-Based Vision Language Pre-Training for Medical Visual Question Answering** 
-Zhang, Z., J. He, P. Li 
-BIBM [2025]
+[57] **MLP-Based Vision Language Pre-Training for Medical Visual Question Answering**  Zequn Zhang, Jinlong He, Pengfei Li  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 1951–1956, **2025**.  [DOI](https://doi.org/10.1109/BIBM66473.2025.11356107) [Publisher](https://ieeexplore.ieee.org/document/11356107)
 
 [58] **UnICLAM: Contrastive Representation Learning with Adversarial Masking for Unified and Interpretable Medical Vision Question Answering**  Chenlu Zhan, Peng Peng, [**Hongwei Wang\***](https://scholar.google.com/citations?user=lFbTT5AAAAAJ&hl=en), Gaoang Wang, Yu Lin, **Tao Chen\***, Hongsen Wang  *Medical Image Analysis*, **101**, 103464, 2025.  [[DOI](https://doi.org/10.1016/j.media.2025.103464)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S136184152500012X)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39847954/)] [[arXiv](https://arxiv.org/abs/2212.10729)]
 
@@ -443,9 +328,7 @@ BIBM [2025]
 
 [60] **Medical Vision-Language Pre-training with Multimodal Variational Masked Autoencoder for Robust Medical VQA**  Dexuan Xu, Yanyuan Chen, [**Yu Huang\***](https://faculty.pku.edu.cn/hy/zh_CN/index.htm), Shihao E, Yiwei Lou, Yongzhi Cao, Hanpin Wang, Meikang Qiu  *Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM)*, 3991–4000, 2025.  [[DOI](https://doi.org/10.1145/3746027.3755273)] [[Publisher](https://dl.acm.org/doi/10.1145/3746027.3755273)]
 
-[61] **Unimodality-Supervised Contrastive Learning and Inference Enhancement Method for Medical Visual Question Answering** 
-Tian, Y., et al. 
-IJCNN [2025]
+**[61] Unimodality-Supervised Contrastive Learning and Inference Enhancement Method for Medical Visual Question Answering**  Yunlong Tian, Zhaowei Qu, Zehua Zhang, Dongxin Zhou, Mujin Liu  *2025 International Joint Conference on Neural Networks (IJCNN)*, 1–7, **2025**.  [DOI](https://doi.org/10.1109/IJCNN64981.2025.11228617) [Publisher](https://ieeexplore.ieee.org/abstract/document/11228617)
 
 [62] **Beyond Static Knowledge: Dynamic Context-Aware Cross-Modal Contrastive Learning for Medical Visual Question Answering** Rui Yang, [**Lijun Liu***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Xupeng Feng, Wei Peng, Xiaobing Yang *IEEE Transactions on Medical Imaging*, **45**(3), 1075–1087, 2026. [[DOI](https://doi.org/10.1109/TMI.2025.3617289)] [[Publisher](https://ieeexplore.ieee.org/document/11192609)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41052164/)] [[Code](https://github.com/cloneiq/CKRA-MedVQA)]
 
@@ -457,19 +340,19 @@ IJCNN [2025]
 
 ## 1.3 Knowledge-enhanced and Retrieval-augmented Medical VQA
 
-[64] **RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**   Zheng Yuan, Qiao Jin, Chuanqi Tan, Zhengyun Zhao, Hongyi Yuan, Fei Huang, Songfang Huang   *Proceedings of the 31st ACM International Conference on Multimedia (ACM Multimedia 2023)*, 547–556, **2023**.   [[DOI](https://doi.org/10.1145/3581783.3611830)  [[arXiv](https://arxiv.org/abs/2303.00534)]  [[Code](https://github.com/GanjinZero/RAMM)]  [[DBLP](https://dblp.uni-trier.de/rec/conf/mm/00050TZYHH23.html)]
+[64] **RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training**   Zheng Yuan, Qiao Jin, Chuanqi Tan, Zhengyun Zhao, Hongyi Yuan, Fei Huang, Songfang Huang   *Proceedings of the 31st ACM International Conference on Multimedia (ACM Multimedia 2023)*, 547–556, **2023**.   [[DOI](https://doi.org/10.1145/3581783.3611830)  [[arXiv](https://arxiv.org/abs/2303.00534)]  [[Code](https://github.com/GanjinZero/RAMM)]
 
 [65] **Medical knowledge-based network for Patient-oriented Visual Question Answering**   Jian Huang, Yihao Chen, Yong Li, Zhenguo Yang, Xuehao Gong, Fu Lee Wang, Xiaohong Xu, Wenyin Liu   *Information Processing & Management*, **60(2)**, 103241, **2023**.   [[DOI](https://doi.org/10.1016/j.ipm.2022.103241)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S0306457322003429)]  [[Code/Dataset](https://github.com/cs-jerhuang/P-VQA)]  
 
-[66] **K-PathVQA: Knowledge-Aware Multimodal Representation for Pathology Visual Question Answering**   Usman Naseem, Matloob Khushi, Adam G. Dunn, Jinman Kim   *IEEE Journal of Biomedical and Health Informatics*, **28(4)**, 1886–1895, **2024**.   [[DOI](https://doi.org/10.1109/JBHI.2023.3294249)]  [[IEEE Xplore](https://ieeexplore.ieee.org/document/10177927/)]  [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37432797/)]
+[66] **K-PathVQA: Knowledge-Aware Multimodal Representation for Pathology Visual Question Answering**   Usman Naseem, Matloob Khushi, Adam G. Dunn, Jinman Kim   *IEEE Journal of Biomedical and Health Informatics*, **28(4)**, 1886–1895, **2024**.   [[DOI](https://doi.org/10.1109/JBHI.2023.3294249)]  [[Publisher](https://ieeexplore.ieee.org/document/10177927/)]  [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37432797/)]
 
 [67] **Candidate-Heuristic In-Context Learning: A new framework for enhancing medical visual question answering with LLMs**   Xiao Liang, Di Wang, Haodi Zhong, Quan Wang, Ronghan Li, Rui Jia, Bo Wan   *Information Processing & Management*, **61(5)**, 103805, **2024**.   [[DOI](https://doi.org/10.1016/j.ipm.2024.103805)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S030645732400164X)]  [[Code/Dataset](https://github.com/ecoxial2007/CH-ICL)] 
 
-[68] **MKGF: A multi-modal knowledge graph based RAG framework to enhance LVLMs for Medical visual question answering**   Yinan Wu, Yuming Lu, Yan Zhou, Yifan Ding, Jingping Liu, Tong Ruan   *Neurocomputing*, **635**, 129999, **2025**.   [[DOI](https://doi.org/10.1016/j.neucom.2025.129999)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S092523122500671X)]  [[Code/Data](https://github.com/ehnal/MKGF)]  [[DBLP](https://dblp.org/rec/journals/ijon/WuLZDLR25)]
+[68] **MKGF: A multi-modal knowledge graph based RAG framework to enhance LVLMs for Medical visual question answering**   Yinan Wu, Yuming Lu, Yan Zhou, Yifan Ding, Jingping Liu, Tong Ruan   *Neurocomputing*, **635**, 129999, **2025**.   [[DOI](https://doi.org/10.1016/j.neucom.2025.129999)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S092523122500671X)]  [[Code/Data](https://github.com/ehnal/MKGF)]
 
 [69] **MedKI: Knowledge Dual Injections for Medical Visual Question Answering**   Hongyi Ren, Weiran Chen, Chunping Liu, Yi Ji, Ying Li   *2025 IEEE International Conference on Image Processing (ICIP)*, 79–84, **2025**.   [[DOI](https://doi.org/10.1109/ICIP55913.2025.11084480)] 
 
-[70] **Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**   Qi Peng, Yi Cai, Jiankun Liu, Quan Zou, Xing Chen, Zheng Zhong, Zefeng Wang, Jiayuan Xie, Qing Li   *IEEE Transactions on Medical Imaging*, **44(3)**, 1373–1385, **2025**.   [[DOI](https://doi.org/10.1109/TMI.2024.3496862)]  [[IEEE Xplore](https://ieeexplore.ieee.org/document/10752912/)]  [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40030182/)]  [[Code/Dataset](https://github.com/pqpq17/MMA)]
+[70] **Integration of Multi-Source Medical Data for Medical Diagnosis Question Answering**   Qi Peng, Yi Cai, Jiankun Liu, Quan Zou, Xing Chen, Zheng Zhong, Zefeng Wang, Jiayuan Xie, Qing Li   *IEEE Transactions on Medical Imaging*, **44(3)**, 1373–1385, **2025**.   [[DOI](https://doi.org/10.1109/TMI.2024.3496862)]  [[Publisher](https://ieeexplore.ieee.org/document/10752912/)]  [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40030182/)]  [[Code/Dataset](https://github.com/pqpq17/MMA)]
 
 [71] **Bridging the Semantic Gap in Medical Visual Question Answering With Prompt Learning**  Zilin Lu, Qingjie Zeng, Mengkang Lu, Geng Chen, **[Yong Xia\*](https://scholar.google.com/citations?user=Usw1jeMAAAAJ)**  *IEEE Transactions on Medical Imaging*, **44**(11), 4605–4616, 2025.  [[DOI](https://doi.org/10.1109/TMI.2025.3580561)] [[Publisher](https://ieeexplore.ieee.org/document/11039185)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40526558/)]
 
@@ -487,33 +370,33 @@ IJCNN [2025]
 
 ## 1.4 Prompt Learning and Parameter-efficient Adaptation for Medical VQA
 
-[75] **Prompt-Based Personalized Federated Learning for Medical Visual Question Answering**   He Zhu, Ren Togo, Takahiro Ogawa, Miki Haseyama   *ICASSP 2024 – 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1821–1825, **2024**.   [[DOI](https://doi.org/10.1109/ICASSP48485.2024.10445933)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10445933)] [[arXiv](https://arxiv.org/abs/2402.09677)] [[DOI](https://doi.org/10.1109/icassp48485.2024.10445933)]
+[75] **Prompt-Based Personalized Federated Learning for Medical Visual Question Answering**   He Zhu, Ren Togo, Takahiro Ogawa, Miki Haseyama   *ICASSP 2024 – 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1821–1825, **2024**.   [[DOI](https://doi.org/10.1109/ICASSP48485.2024.10445933)] [[Publisher](https://ieeexplore.ieee.org/document/10445933)] [[arXiv](https://arxiv.org/abs/2402.09677)]
 
-[76] **Targeted Visual Prompting for Medical Visual Question Answering**   Sergio Tascon-Morales, Pablo Márquez-Neila, Raphael Sznitman   *Applications of Medical Artificial Intelligence – Third International Workshop, AMAI 2024, Held in Conjunction with MICCAI 2024*, **LNCS 15384**, 64–73, **2025**.   [[DOI](https://doi.org/10.1007/978-3-031-82007-6_7)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_7)] [[arXiv](https://arxiv.org/abs/2408.03043)] [[Code/Data](https://github.com/sergiotasconmorales/locvqallm)] [[Springer](https://link.springer.com/book/10.1007/978-3-031-82007-6)]
+[76] **Targeted Visual Prompting for Medical Visual Question Answering**   Sergio Tascon-Morales, Pablo Márquez-Neila, Raphael Sznitman   *Applications of Medical Artificial Intelligence – Third International Workshop, AMAI 2024, Held in Conjunction with MICCAI 2024*, **LNCS 15384**, 64–73, **2025**.   [[DOI](https://doi.org/10.1007/978-3-031-82007-6_7)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-82007-6_7)] [[arXiv](https://arxiv.org/abs/2408.03043)] [[Code/Data](https://github.com/sergiotasconmorales/locvqallm)]
 
-[77] **Parameter-Efficient Transfer Learning for Medical Visual Question Answering**   Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao, Junhui Lv, Zuozhu Liu   *IEEE Transactions on Emerging Topics in Computational Intelligence*, **8(4)**, 2816–2826, **2024**.   [[DOI](https://doi.org/10.1109/TETCI.2023.3311333)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/10256025)] [[Code](https://github.com/JXLiu-AI/VQA-Adapter)] [[DOI](https://doi.org/10.1109/TETCI.2023.3311333)]
+[77] **Parameter-Efficient Transfer Learning for Medical Visual Question Answering**   Jiaxiang Liu, Tianxiang Hu, Yan Zhang, Yang Feng, Jin Hao, Junhui Lv, Zuozhu Liu   *IEEE Transactions on Emerging Topics in Computational Intelligence*, **8(4)**, 2816–2826, **2024**.   [[DOI](https://doi.org/10.1109/TETCI.2023.3311333)] [[Publihser](https://ieeexplore.ieee.org/document/10256025)] [[Code](https://github.com/JXLiu-AI/VQA-Adapter)]
 
 [78] **LaPA: Latent Prompt Assist Model for Medical Visual Question Answering**   Tiancheng Gu, Kaicheng Yang, Dongnan Liu, Weidong Cai   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 4971–4980, **2024**.    [[DOI](https://doi.org/10.1109/CVPRW63382.2024.00502)] [[CVF Open Access](https://openaccess.thecvf.com/content/CVPR2024W/DEF-AI-MIA/html/Gu_LaPA_Latent_Prompt_Assist_Model_For_Medical_Visual_Question_Answering_CVPRW_2024_paper.html)] [[arXiv](https://arxiv.org/abs/2404.13039)] [[Code](https://github.com/GaryGuTC/LaPA_model)] 
 
-[79] **UniDCP: Unifying Multiple Medical Vision-Language Tasks via Dynamic Cross-Modal Learnable Prompts**   Chenlu Zhan, Yufei Zhang, Yu Lin, Gaoang Wang, Hongwei Wang   *IEEE Transactions on Multimedia*, **26**, 9736–9748, **2024**.   [[DOI](https://doi.org/10.1109/TMM.2024.3397191) [[IEEE Xplore](https://ieeexplore.ieee.org/document/10526408)] [[arXiv](https://arxiv.org/abs/2312.11171)]
+[79] **UniDCP: Unifying Multiple Medical Vision-Language Tasks via Dynamic Cross-Modal Learnable Prompts**   Chenlu Zhan, Yufei Zhang, Yu Lin, Gaoang Wang, Hongwei Wang   *IEEE Transactions on Multimedia*, **26**, 9736–9748, **2024**.   [[DOI](https://doi.org/10.1109/TMM.2024.3397191) [[Publihser](https://ieeexplore.ieee.org/document/10526408)] [[arXiv](https://arxiv.org/abs/2312.11171)]
 
-[80] **Effective Medical Visual Question Answering Using Dynamic Prompting and Decoding Knowledge Editing**   ZhiJie Zhou, YeFan Huang, XiaoLi Wang, Xiaojie Hong   *Data Science and Engineering*, **10(4)**, 681–691, **2025**.   [[DOI](https://doi.org/10.1007/s41019-025-00291-0)] [[Publisher](https://link.springer.com/article/10.1007/s41019-025-00291-0)] [[Springer](https://link.springer.com/article/10.1007/s41019-025-00291-0)]
+[80] **Effective Medical Visual Question Answering Using Dynamic Prompting and Decoding Knowledge Editing**   ZhiJie Zhou, YeFan Huang, XiaoLi Wang, Xiaojie Hong   *Data Science and Engineering*, **10(4)**, 681–691, **2025**.   [[DOI](https://doi.org/10.1007/s41019-025-00291-0)] [[Publisher](https://link.springer.com/article/10.1007/s41019-025-00291-0)] 
 
 [81] **Fine-grained Adaptive Visual Prompt for Generative Medical Visual Question Answering**  Ting Yu, Zixuan Tong, Jun Yu, **[Ke Zhang\*](https://scholar.google.com/citations?user=RMLMbeMAAAAJ)**  *Proceedings of the AAAI Conference on Artificial Intelligence*, **39**(9), 9662–9670, 2025.  [[DOI](https://doi.org/10.1609/aaai.v39i9.33047)] [[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/33047)] [[PDF](https://ojs.aaai.org/index.php/AAAI/article/download/33047/35202)] [[Code](https://github.com/OpenMICG/FAVP)]
 
-[82] **Multi-Scale Visual Prompting for Robust Visual Question Answering in Medical Imaging**   Yang Ma, Dongang Wang, Peilin Liu, Michael Barnett, Dingxuan Zhou, Weidong Cai, Chenyu Wang   *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 3921–3925, **2025**.   [[DOI](https://doi.org/10.1109/BIBM66473.2025.11356041)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/11356041)]
+[82] **Multi-Scale Visual Prompting for Robust Visual Question Answering in Medical Imaging**   Yang Ma, Dongang Wang, Peilin Liu, Michael Barnett, Dingxuan Zhou, Weidong Cai, Chenyu Wang   *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 3921–3925, **2025**.   [[DOI](https://doi.org/10.1109/BIBM66473.2025.11356041)] [[Publisher](https://ieeexplore.ieee.org/document/11356041)]
 
 [83] **Caption-augmented reasoning model with Hierarchical rank LoRA finetuing for medical visual question Answering**   Yong Li, Jianping Man, Yi Zhou, Likeng Liang  *Journal of Biomedical Informatics*, **172**, 104964, **2025**.   [[DOI](https://doi.org/10.1016/j.jbi.2025.104964)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1532046425001935)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41308969)]
 
-[84] **X-FLoRA: Cross-modal Federated Learning with Modality-expert LoRA for Medical VQA**   Min Hyuk Kim, Changheon Kim, **Seok Bong Yoo\***   *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*, 8379–8397, **2025**.   [[DOI](https://doi.org/10.18653/v1/2025.emnlp-main.422)] [[ACL Anthology](https://aclanthology.org/2025.emnlp-main.422)] [[PDF](https://aclanthology.org/2025.emnlp-main.422.pdf)] 
+[84] **X-FLoRA: Cross-modal Federated Learning with Modality-expert LoRA for Medical VQA**   Min Hyuk Kim, Changheon Kim, **Seok Bong Yoo\***   *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)*, 8379–8397, **2025**.   [[DOI](https://doi.org/10.18653/v1/2025.emnlp-main.422)] [[ACL](https://aclanthology.org/2025.emnlp-main.422)] [[PDF](https://aclanthology.org/2025.emnlp-main.422.pdf)] 
 
 [85] **Optimizing multimodal models for medical visual question answering: A comparative study of LoRA and AdaLoRA on VQA-RAD and SLAKE-VQA**   Zahra Rezaei, Sara Safi Samghabadi, Yaser Mike Banad  *Computers in Biology and Medicine*, **200**, 111397, **2026**.   [[DOI](https://doi.org/10.1016/j.compbiomed.2025.111397)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S0010482525017512)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41391332)] [[Code](https://github.com/Datargets/MultiModals_VQA)]
 
-[85-1] **MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering**  Mai A. Shaaban, Tausifa Jan Saleem, Vijay Ram Kumar Papineni, Mohammad Yaqub  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15965**, 459–469, 2025.  [[DOI](https://doi.org/10.1007/978-3-032-04978-0_44)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_44)] [[MICCAI](https://papers.miccai.org/miccai-2025/0586-Paper2665.html)] [[arXiv](https://arxiv.org/abs/2506.22900)] [[Code](https://github.com/BioMedIA-MBZUAI/MOTOR)]
+[85-1] **MOTOR: Multimodal Optimal Transport via Grounded Retrieval in Medical Visual Question Answering**  Mai A. Shaaban, Tausifa Jan Saleem, Vijay Ram Kumar Papineni, Mohammad Yaqub  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15965**, 459–469, 2025.  [[DOI](https://doi.org/10.1007/978-3-032-04978-0_44)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_44)] [[MICCAI Open Access](https://papers.miccai.org/miccai-2025/0586-Paper2665.html)] [[arXiv](https://arxiv.org/abs/2506.22900)] [[Code](https://github.com/BioMedIA-MBZUAI/MOTOR)]
 
 ## 1.5 Explainable Reasoning and Chain-of-Thought Medical VQA
 
-[86] **MedCoT: Medical Chain of Thought via Hierarchical Expert**  Jiaxiang Liu, Yuan Wang, Jiawei Du, Joey Tianyi Zhou, **Zuozhu Liu\***  *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*, 17371–17389, **2024**.  [DOI](https://doi.org/10.18653/v1/2024.emnlp-main.962) [ACL Anthology](https://aclanthology.org/2024.emnlp-main.962/) [arXiv](https://arxiv.org/abs/2412.13736) [Code](https://github.com/JXLiu-AI/MedCoT) 
+[86] **MedCoT: Medical Chain of Thought via Hierarchical Expert**  Jiaxiang Liu, Yuan Wang, Jiawei Du, Joey Tianyi Zhou, **Zuozhu Liu\***  *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)*, 17371–17389, **2024**.  [DOI](https://doi.org/10.18653/v1/2024.emnlp-main.962) [ACL](https://aclanthology.org/2024.emnlp-main.962/) [arXiv](https://arxiv.org/abs/2412.13736) [Code](https://github.com/JXLiu-AI/MedCoT) 
 
 [87] **Tri-VQA: Triangular Reasoning Medical Visual Question Answering for Multi-Attribute Analysis**  Lin Fan, Xun Gong, Cenyang Zheng, Yafei Ou  *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 1485–1488, **2024**.  [DOI](https://doi.org/10.1109/BIBM62325.2024.10822825) [arXiv](https://arxiv.org/abs/2406.15050) [Code](https://github.com/hahaha111111/Tri-VQA) [ResearchGate](https://www.researchgate.net/publication/387915764_Tri-VQA_Triangular_Reasoning_Medical_Visual_Question_Answering_for_Multi-Attribute_Analysis)
 
@@ -521,7 +404,7 @@ IJCNN [2025]
 
 [89] **Explainable medical visual question answering via chain of evidence**  Chen Qiu, Ke Huang, Zhiqiang Xie, Maofu Liu, Jinguang Gu, Xiaofen Zong  *Knowledge-Based Systems*, **324**, 113672, **2025**.  [DOI](https://doi.org/10.1016/j.knosys.2025.113672) [Publisher](https://www.sciencedirect.com/science/article/pii/S095070512500718X)
 
-[90] **Med-SCoT: Structured chain-of-thought reasoning and evaluation for enhancing interpretability in medical visual question answering**  Jinhao Qiao, Sihan Li, Jiang Liu, Heng Yu, Yi Xiao, Hongshan Yu, Yan Zheng  *Computerized Medical Imaging and Graphics*, **126**, 102659, **2025**.  [DOI](https://doi.org/10.1016/j.compmedimag.2025.102659) [Publisher](https://www.sciencedirect.com/science/article/pii/S0895611125001685) [PubMed](https://pubmed.ncbi.nlm.nih.gov/41202542/) [Code/Data/Models](https://github.com/qiaodongxing/Med-SCoT) [PubMed](https://pubmed.ncbi.nlm.nih.gov/41202542/)
+[90] **Med-SCoT: Structured chain-of-thought reasoning and evaluation for enhancing interpretability in medical visual question answering**  Jinhao Qiao, Sihan Li, Jiang Liu, Heng Yu, Yi Xiao, Hongshan Yu, Yan Zheng  *Computerized Medical Imaging and Graphics*, **126**, 102659, **2025**.  [DOI](https://doi.org/10.1016/j.compmedimag.2025.102659) [Publisher](https://www.sciencedirect.com/science/article/pii/S0895611125001685) [PubMed](https://pubmed.ncbi.nlm.nih.gov/41202542/) [Code/Data/Models](https://github.com/qiaodongxing/Med-SCoT) 
 
 [91] **Med-SER: Enhancing Reasoning Interpretability in Medical Visual Question Answering via Structured Chain-of-Thought**  Jinhao Qiao, Sihan Li, Jiang Liu, Heng Yu, Yi Xiao, Hongshan Yu, Yan Zheng  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 4036–4040, **2025**.  [DOI](https://doi.org/10.1109/BIBM66473.2025.11356359) [Publisher](https://ieeexplore.ieee.org/document/11356359/)
 
@@ -529,29 +412,29 @@ IJCNN [2025]
 
 ## 1.6 Robust, Debiased, and Causally-grounded Medical VQA
 
-[93] **Consistency-Preserving Visual Question Answering in Medical Imaging**  Sergio Tascon-Morales, Pablo Márquez-Neila, Raphael Sznitman  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2022*, **LNCS 13438**, 386–395, **2022**.  [[DOI](https://doi.org/10.1007/978-3-031-16452-1_37)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_37)] [[MICCAI](https://conferences.miccai.org/2022/papers/104-Paper0744.html)] [[arXiv](https://arxiv.org/abs/2206.13296)] [[Code/Data](https://github.com/sergiotasconmorales/consistency_vqa)] [Springer](https://link.springer.com/book/10.1007/978-3-031-16452-1?page=2 )
+[93] **Consistency-Preserving Visual Question Answering in Medical Imaging**  Sergio Tascon-Morales, Pablo Márquez-Neila, Raphael Sznitman  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2022*, **LNCS 13438**, 386–395, **2022**.  [[DOI](https://doi.org/10.1007/978-3-031-16452-1_37)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_37)] [[MICCAI](https://conferences.miccai.org/2022/papers/104-Paper0744.html)] [[arXiv](https://arxiv.org/abs/2206.13296)] [[Code/Data](https://github.com/sergiotasconmorales/consistency_vqa)]
 
-[94] **VQAMix: Conditional Triplet Mixup for Medical Visual Question Answering**  Haifan Gong, Guanqi Chen, Mingzhi Mao, Zhen Li, Guanbin Li  *IEEE Transactions on Medical Imaging*, **41(11)**, 3332–3343, **2022**.  [[DOI](https://doi.org/10.1109/TMI.2022.3185008)] [[IEEE Xplore](https://ieeexplore.ieee.org/document/9802503)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35727773/)] [[Code](https://github.com/haifangong/VQAMix)] [PubMed](https://pubmed.ncbi.nlm.nih.gov/35727773/)
+[94] **VQAMix: Conditional Triplet Mixup for Medical Visual Question Answering**  Haifan Gong, Guanqi Chen, Mingzhi Mao, Zhen Li, Guanbin Li  *IEEE Transactions on Medical Imaging*, **41(11)**, 3332–3343, **2022**.  [[DOI](https://doi.org/10.1109/TMI.2022.3185008)] [[Publisher](https://ieeexplore.ieee.org/document/9802503)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35727773/)] [[Code](https://github.com/haifangong/VQAMix)]
 
-[95] **Anomaly Matters: An Anomaly-Oriented Model for Medical Visual Question Answering**  Fuze Cong, Shibiao Xu, Li Guo, Yinbing Tian  *IEEE Transactions on Medical Imaging*, **41(11)**, 3385–3397, **2022**.  [[DOI](https://doi.org/10.1109/TMI.2022.3185113)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35767508/)] [PubMed](https://pubmed.ncbi.nlm.nih.gov/35767508/)
+[95] **Anomaly Matters: An Anomaly-Oriented Model for Medical Visual Question Answering**  Fuze Cong, Shibiao Xu, Li Guo, Yinbing Tian  *IEEE Transactions on Medical Imaging*, **41(11)**, 3385–3397, **2022**.  [[DOI](https://doi.org/10.1109/TMI.2022.3185113)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35767508/)]
 
-[96] **Debiasing Medical Visual Question Answering via Counterfactual Training**  Chenlu Zhan, Peng Peng, Hanrong Zhang, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2023*, **LNCS 14221**, 382–393, **2023**.  [[DOI](https://doi.org/10.1007/978-3-031-43895-0_36)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)] [[MICCAI](https://conferences.miccai.org/2023/papers/169-Paper1588.html)] [Springer](https://link.springer.com/book/10.1007/978-3-031-43895-0?page=2 )
+[96] **Debiasing Medical Visual Question Answering via Counterfactual Training**  Chenlu Zhan, Peng Peng, Hanrong Zhang, Haiyue Sun, Chunnan Shang, Tao Chen, Hongsen Wang, Gaoang Wang, Hongwei Wang  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2023*, **LNCS 14221**, 382–393, **2023**.  [[DOI](https://doi.org/10.1007/978-3-031-43895-0_36)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)] [[MICCAI Open Access](https://conferences.miccai.org/2023/papers/169-Paper1588.html)] 
 
 [97] **Cross-Modal Noise Information Elimination Network for Medical Visual Question Answering**  Wanjuan Yuan, **Chen Qiu\***  *2024 4th International Conference on Neural Networks, Information and Communication (NNICE)*, 813–819, **2024**.  [[DOI](https://doi.org/10.1109/NNICE61279.2024.10498179)] [ResearchGate](https://www.researchgate.net/publication/380013883_Cross-Modal_Noise_Information_Elimination_Network_for_Medical_Visual_Question_Answering)
 
-[98] **A Causal Approach to Mitigate Modality Preference Bias in Medical Visual Question Answering**  Shuchang Ye, Usman Naseem, Mingyuan Meng, Dagan Feng, Jinman Kim  *Proceedings of the First International Workshop on Vision-Language Models for Biomedical Applications (VLM4Bio ’24)*, 13–17, **2024**.  [[DOI](https://doi.org/10.1145/3689096.3689459)] [[Publisher/Record](https://researchers.mq.edu.au/en/publications/a-causal-approach-to-mitigate-modality-preference-bias-in-medical/)] [[arXiv](https://arxiv.org/abs/2505.16209)] [Macquarie University](https://researchers.mq.edu.au/en/publications/a-causal-approach-to-mitigate-modality-preference-bias-in-medical/)
+[98] **A Causal Approach to Mitigate Modality Preference Bias in Medical Visual Question Answering**  Shuchang Ye, Usman Naseem, Mingyuan Meng, Dagan Feng, Jinman Kim  *Proceedings of the First International Workshop on Vision-Language Models for Biomedical Applications (VLM4Bio ’24)*, 13–17, **2024**.  [[DOI](https://doi.org/10.1145/3689096.3689459)] [[Publisher](https://researchers.mq.edu.au/en/publications/a-causal-approach-to-mitigate-modality-preference-bias-in-medical/)] [[arXiv](https://arxiv.org/abs/2505.16209)]
 
 [99] **Enhancing Generalization in Medical Visual Question Answering Tasks via Gradient-Guided Model Perturbation**  Gang Liu, Hongyang Li, Zerui He, Shenjun Zhong  *ICASSP 2024 – 2024 IEEE International Conference on Acoustics, Speech and Signal Processing*, 2220–2224, **2024**.  [[DOI](https://doi.org/10.1109/ICASSP48485.2024.10446378)] [[ICASSP](https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=8914 )] [[arXiv](https://arxiv.org/abs/2403.02707)] [[Researchr](https://researchr.org/publication/icassp-2024)]
 
 [100] **Counterfactual Causal-Effect Intervention for Interpretable Medical Visual Question Answering**  Linqin Cai, Haodu Fang, Nuoying Xu, Bo Ren  *IEEE Transactions on Medical Imaging*, **43(12)**, 4430–4441, **2024**.  [[DOI](https://doi.org/10.1109/TMI.2024.3425533)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/38980786/)] [PubMed](https://pubmed.ncbi.nlm.nih.gov/38980786/)
 
-[101] **Constructing Negative Sample Pairs to Mitigate Language Priors in Medical Visual Question Answering**  Hao Cong, Lijun Liu, Xiaobing Yang, Wei Peng, Li Liu  *Proceedings of the 2024 5th International Conference on Intelligent Medicine and Health (ICIMH ’24)*, 121–127, **2025**.  [[DOI](https://doi.org/10.1145/3715931.3715951)] [[ACM Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3715931)]
+[101] **Constructing Negative Sample Pairs to Mitigate Language Priors in Medical Visual Question Answering**  Hao Cong, Lijun Liu, Xiaobing Yang, Wei Peng, Li Liu  *Proceedings of the 2024 5th International Conference on Intelligent Medicine and Health (ICIMH ’24)*, 121–127, **2025**.  [[DOI](https://doi.org/10.1145/3715931.3715951)] [[ACM](https://dl.acm.org/doi/proceedings/10.1145/3715931)]
 
 [102] **Structure Causal Models and LLMs Integration in Medical Visual Question Answering**  Zibo Xu, Qiang Li, **[Weizhi Nie\*](https://scholar.google.com/citations?user=aNwEZxkAAAAJ)**, Weijie Wang, Anan Liu  *IEEE Transactions on Medical Imaging*, **44**(8), 3476–3489, 2025.  [[DOI](https://doi.org/10.1109/TMI.2025.3564320)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/40299735/)] [[arXiv](https://arxiv.org/abs/2505.02703)]
 
 [103] **Eliminating Language Bias for Medical Visual Question Answering with Counterfactual Contrastive Training**  Xingyu Wan, Qiaoying Teng, **Jun Chen\***, Yonghan Lu, Deqi Yuan, **Zhe Liu\***  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15965**, 194–204, **2025**.  [[DOI](https://doi.org/10.1007/978-3-032-04978-0_19)]  [[MICCAI](https://papers.miccai.org/miccai-2025/0283-Paper2827.html)]  [[Code](https://github.com/YX542/DeCoCT)]
 
-[104] **Mitigating Language Bias in Medical VQA via Causally-Inspired Intervention**  Qiaoying Teng, Jun Chen, Xingyu Wan, Kai Han, Chongwen Lyu, Chongshang Zhong, Deqi Yuan, Zhe Liu  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 4107–4110, **2025**.  [[DOI](https://doi.org/10.1109/BIBM66473.2025.11356787)]  [[IEEE Xplore](https://ieeexplore.ieee.org/document/11356787)]
+[104] **Mitigating Language Bias in Medical VQA via Causally-Inspired Intervention**  Qiaoying Teng, Jun Chen, Xingyu Wan, Kai Han, Chongwen Lyu, Chongshang Zhong, Deqi Yuan, Zhe Liu  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 4107–4110, **2025**.  [[DOI](https://doi.org/10.1109/BIBM66473.2025.11356787)]  [[Publisher](https://ieeexplore.ieee.org/document/11356787)]
 
 [105] **A Global Visual Information Intervention Model for Medical Visual Question Answering**  Peixi Peng, Wanshu Fan, Yue Shen, Xin Yang, Dongsheng Zhou  *Computers in Biology and Medicine*, **192, Part A**, 110195, **2025**.  [[DOI](https://doi.org/10.1016/j.compbiomed.2025.110195)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S0010482525005463)  [PubMed](https://pubmed.ncbi.nlm.nih.gov/40294480/)]
 
@@ -559,7 +442,7 @@ IJCNN [2025]
 
 [107] **Knowing or Guessing? Robust Medical Visual Question Answering via Joint Consistency and Contrastive Learning**  Songtao Jiang, Yuxi Chen, Sibo Song, Yan Zhang, Yeying Jin, Yang Feng, Jian Wu, **Zuozhu Liu\***  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15970**, 325–335, **2025**.  [DOI](https://doi.org/10.1007/978-3-032-05141-7_32)  [MICCAI](https://papers.miccai.org/miccai-2025/0471-Paper3893.html)  [arXiv](https://arxiv.org/abs/2508.18687)
 
-[108] **DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels**  Erjian Guo, Zhen Zhao, Zicheng Wang, Tong Chen, Yunyi Liu, **Luping Zhou\***  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 14337–14346, **2025**.  [DOI](https://doi.org/10.1109/CVPR52734.2025.01337)  [CVF Open Access](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_DiN_Diffusion_Model_for_Robust_Medical_VQA_with_Semantic_Noisy_CVPR_2025_paper.html)  [arXiv](https://arxiv.org/abs/2503.18536)  [Code](https://github.com/Erjian96/DiN)
+[108] **DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels**  Erjian Guo, Zhen Zhao, Zicheng Wang, Tong Chen, Yunyi Liu, **Luping Zhou\***  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 14337–14346, **2025**.  [DOI](https://doi.org/10.1109/CVPR52734.2025.01337)  [CVPR-2025](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_DiN_Diffusion_Model_for_Robust_Medical_VQA_with_Semantic_Noisy_CVPR_2025_paper.html)  [arXiv](https://arxiv.org/abs/2503.18536)  [Code](https://github.com/Erjian96/DiN)
 
 [109] **Cycle-VQA: A Cycle-Consistent Framework for Robust Medical Visual Question Answering**  Lin Fan, Xun Gong, Cenyang Zheng, Xuli Tan, Jiao Li, Yafei Ou  *Pattern Recognition*, **165**, 111609, **2025**.  [DOI](https://doi.org/10.1016/j.patcog.2025.111609)  [Publisher](https://www.sciencedirect.com/science/article/pii/S0031320325002699)
 
@@ -577,15 +460,15 @@ IJCNN [2025]
 
 [113] **Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering**  Xinyue Hu, Lin Gu, Qiyuan An, Mengliang Zhang, Liangchen Liu, Kazuma Kobayashi, Tatsuya Harada, Ronald M. Summers, Yingying Zhu  *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’23)*, 4156–4165, **2023**.  [DOI](https://doi.org/10.1145/3580305.3599819) [arXiv](https://arxiv.org/abs/2307.11986) [Code](https://github.com/Holipori/EKAID) [Dataset/Generation](https://github.com/Holipori/MIMIC-Diff-VQA)  [KDD](https://kdd.org/kdd2023/wp-content/uploads/2023/08/toc.html)
 
-[114] **Spot the Difference: Difference Visual Question Answering with Residual Alignment**  Zilin Lu†, Yutong Xie†, Qingjie Zeng, Mengkang Lu, Qi Wu, **Yong Xia\***  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, **LNCS 15005**, 649–658, **2024**.  [DOI](https://doi.org/10.1007/978-3-031-72086-4_61) [MICCAI](https://papers.miccai.org/miccai-2024/726-Paper2957.html)  †Equal contribution; *corresponding author. [MICCAI Society](https://papers.miccai.org/miccai-2024/726-Paper2957.html)
+[114] **Spot the Difference: Difference Visual Question Answering with Residual Alignment**  Zilin Lu†, Yutong Xie†, Qingjie Zeng, Mengkang Lu, Qi Wu, **Yong Xia\***  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2024*, **LNCS 15005**, 649–658, **2024**.  [DOI](https://doi.org/10.1007/978-3-031-72086-4_61) [MICCAI](https://papers.miccai.org/miccai-2024/726-Paper2957.html)
 
-[115] **Anatomy-Aware Adaptation of Pre-Trained Models for Medical Difference Visual Question Answering**  Qian Zhou, Yuhan Gao, **Hua Zou\***, **Fei Luo\***, Xiwen Bai  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 3383–3388, **2025**.  [DOI](https://doi.org/10.1109/BIBM66473.2025.11356508) [IEEE Xplore](https://ieeexplore.ieee.org/document/11356508) [Code](https://github.com/liyiersan/Med-Diff-VQA) 
+[115] **Anatomy-Aware Adaptation of Pre-Trained Models for Medical Difference Visual Question Answering**  Qian Zhou, Yuhan Gao, **Hua Zou\***, **Fei Luo\***, Xiwen Bai  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 3383–3388, **2025**.  [DOI](https://doi.org/10.1109/BIBM66473.2025.11356508) [IEEE](https://ieeexplore.ieee.org/document/11356508) [Code](https://github.com/liyiersan/Med-Diff-VQA) 
 
 [116] **Consistency Conditioned Memory Augmented Dynamic Diagnosis Model for Medical Visual Question Answering**  Ting Yu, Binhui Ge, Shuhui Wang, Yan Yang, Qingming Huang, Jun Yu  *IEEE Journal of Biomedical and Health Informatics*, **29(2)**, 1357–1370, **2025**.  [DOI](https://doi.org/10.1109/JBHI.2024.3492141) [PubMed](https://pubmed.ncbi.nlm.nih.gov/41364559/) [Code](https://github.com/OpenMICG/CoCoMeD) [C-SLAKE Dataset](https://github.com/OpenMICG/CSLAKE)  [PubMed](https://pubmed.ncbi.nlm.nih.gov/41364559/)
 
 [117] **Medical Knowledge-Based Differential Image Visual Question Answering**  Fangpeng Lu, **Songyan Liu\***, Wenbin Lu, Peng Chen, Boyang Ding  *IEEE Access*, **13**, 93818–93829, **2025**.  [DOI](https://doi.org/10.1109/ACCESS.2025.3565695)  [ResearchGate](https://www.researchgate.net/publication/391338677_Medical_Knowledge-Based_Differential_Image_Visual_Question_Answering)
 
-[118] **Cross-Modal Knowledge Diffusion-Based Generation for Difference-Aware Medical VQA**  Qika Lin, Kai He, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng  *IEEE Transactions on Image Processing*, **34**, 2421–2434, **2025**.  [DOI](https://doi.org/10.1109/TIP.2025.3558446) [IEEE Xplore](https://ieeexplore.ieee.org/document/10964089/) [PubMed](https://pubmed.ncbi.nlm.nih.gov/40215151/)
+[118] **Cross-Modal Knowledge Diffusion-Based Generation for Difference-Aware Medical VQA**  Qika Lin, Kai He, Yifan Zhu, Fangzhi Xu, Erik Cambria, Mengling Feng  *IEEE Transactions on Image Processing*, **34**, 2421–2434, **2025**.  [DOI](https://doi.org/10.1109/TIP.2025.3558446) [Publisher](https://ieeexplore.ieee.org/document/10964089/) [PubMed](https://pubmed.ncbi.nlm.nih.gov/40215151/)
 
 [119] **DAMON: Difference-Aware Medical Visual Question Answering via Multimodal Large Language Model**  Zefan Zhang, Yanhui Li, Ruihong Zhao, [**Tian Bai***](https://ccst.jlu.edu.cn/info/1367/20115.htm)  *IEEE Journal of Biomedical and Health Informatics*, **30**(8), 6336–6345, 2026.  [[DOI](https://doi.org/10.1109/JBHI.2026.3663420)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41666056/)] [[Code](https://github.com/zefanZhang-cn/DAMON)]
 
@@ -599,7 +482,7 @@ IJCNN [2025]
 
 **[123] Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery**  Long Bai, Mobarakol Islam, Hongliang Ren  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2023*, **LNCS 14228**, 68–78, **2023**.  [DOI](https://doi.org/10.1007/978-3-031-43996-4_7) [MICCAI](https://conferences.miccai.org/2023/papers/547-Paper0548.html) [arXiv](https://arxiv.org/abs/2307.12045) [Code](https://github.com/longbai1006/CS-VQLA) 
 
-**[124] Alignment before Awareness: Towards Visual Question Localized-Answering in Robotic Surgery via Optimal Transport and Answer Semantics**  Zhihong Zhu, Yunyan Zhang, Xuxin Cheng, Zhiqi Huang, Derong Xu, **Xian Wu\***, Yefeng Zheng  *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, 711–721, **2024**.  [PDF](https://aclanthology.org/2024.lrec-main.63.pdf) [ACL Anthology](https://aclanthology.org/2024.lrec-main.63)
+**[124] Alignment before Awareness: Towards Visual Question Localized-Answering in Robotic Surgery via Optimal Transport and Answer Semantics**  Zhihong Zhu, Yunyan Zhang, Xuxin Cheng, Zhiqi Huang, Derong Xu, **Xian Wu\***, Yefeng Zheng  *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, 711–721, **2024**.  [PDF](https://aclanthology.org/2024.lrec-main.63.pdf) [ACL](https://aclanthology.org/2024.lrec-main.63)
 
 **[125] Dual modality prompt learning for visual question-grounded answering in robotic surgery**  Yue Zhang, Wanshu Fan, Peixi Peng, Xin Yang, Dongsheng Zhou, Xiaopeng Wei  *Visual Computing for Industry, Biomedicine, and Art*, **7(1)**, Article 9, **2024**.  [DOI](https://doi.org/10.1186/s42492-024-00160-z) [Publisher](https://link.springer.com/article/10.1186/s42492-024-00160-z) [PubMed](https://pubmed.ncbi.nlm.nih.gov/38647624/)
 
