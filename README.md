@@ -295,6 +295,8 @@ This project is suitable for the following research and teaching scenarios:
 
 [42-1] **Dual-Level Confidence based Implicit Self-Refinement for Medical Visual Question Answering**  Meihong Pan, [**Yefeng Zheng***](https://scholar.google.com/citations?user=vAIECxgAAAAJ&amp;hl=zh-CN)  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 17215–17225, 2026.  [[Publisher](https://openaccess.thecvf.com/content/CVPR2026/html/Pan_Dual-Level_Confidence_based_Implicit_Self-Refinement_for_Medical_Visual_Question_Answering_CVPR_2026_paper.html)] [[Code](https://github.com/pmhDL/DuCoR)]
 
+[42-3] **Dual-Guided Multi-Granularity Implicit Alignment Network for Medical Visual Question Answering**  Qiaoying Teng, Jun Chen, Deqi Yuan, Yi Liu, **Zhe Liu***  *2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2026.  [[DOI](https://doi.org/10.1109/ICASSP55912.2026.11461438)] [[Publisher](https://ieeexplore.ieee.org/document/11461438)] [[ICASSP-2026](https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=13035)]
+
 ## 1.2 Vision-Language Pre-training and Cross-modal Representation Alignment
 
 [42] **Contrastive Pre-training and Representation Distillation for Medical Visual Question Answering Based on Radiology Images**  Bo Liu, Li-Ming Zhan, Xiao-Ming Wu  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2021*, **LNCS 12902**, 210–220, **2021**.  [DOI](https://doi.org/10.1007/978-3-030-87196-3_20) [MICCAI-2021](https://miccai2021.org/openaccess/paperlinks/2021/09/01/113-Paper1235.html) [Code/Data](https://github.com/awenbocc/cprd)
@@ -373,6 +375,8 @@ This project is suitable for the following research and teaching scenarios:
 
 [75-2] **MEC: Medical Evidence Capsules for Retrieval-Augmented Generation in Medical Multimodal Question Answering**  Zhenghua Xu, Xinwei Dai, [**Bo Wang\***](https://scholar.google.com/citations?user=Z7_ciAIAAAAJ&hl=en), Tian Tian *Medical Image Computing and Computer Assisted Intervention – MICCAI 2026*, **LNCS 16878**, 303–312, 2026.  [[DOI](https://doi.org/10.1007/978-3-032-38059-3_29)] [[Publisher](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_29)] [[MICCAI](https://papers.miccai.org/miccai-2026/0626-Paper2354.html)] [[Code](https://github.com/fruitbitlab/MEC)]
 
+[75-3] **KGLMQA: Enhancing Medical Visual Question Answering with Knowledge Graphs and LLMs**  Wenhu Wang, **Huina Liu\***, **Changfa Wei\***  *PeerJ Computer Science*, **12**, e3679, 2026.  [[DOI](https://doi.org/10.7717/peerj-cs.3679)] [[Publisher](https://peerj.com/articles/cs-3679/)]
+
 ## 1.4 Prompt Learning and Parameter-efficient Adaptation for Medical VQA
 
 [75] **Prompt-Based Personalized Federated Learning for Medical Visual Question Answering**   He Zhu, Ren Togo, Takahiro Ogawa, Miki Haseyama   *ICASSP 2024 – 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 1821–1825, **2024**.   [[DOI](https://doi.org/10.1109/ICASSP48485.2024.10445933)] [[Publisher](https://ieeexplore.ieee.org/document/10445933)] [[arXiv](https://arxiv.org/abs/2402.09677)]
@@ -441,7 +445,7 @@ This project is suitable for the following research and teaching scenarios:
 
 [103] **Eliminating Language Bias for Medical Visual Question Answering with Counterfactual Contrastive Training**  Xingyu Wan, Qiaoying Teng, **Jun Chen\***, Yonghan Lu, Deqi Yuan, **Zhe Liu\***  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15965**, 194–204, **2025**.  [[DOI](https://doi.org/10.1007/978-3-032-04978-0_19)]  [[MICCAI](https://papers.miccai.org/miccai-2025/0283-Paper2827.html)]  [[Code](https://github.com/YX542/DeCoCT)]
 
-[104] **Mitigating Language Bias in Medical VQA via Causally-Inspired Intervention**  Qiaoying Teng, Jun Chen, Xingyu Wan, Kai Han, Chongwen Lyu, Chongshang Zhong, Deqi Yuan, Zhe Liu  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 4107–4110, **2025**.  [[DOI](https://doi.org/10.1109/BIBM66473.2025.11356787)]  [[Publisher](https://ieeexplore.ieee.org/document/11356787)]
+[104] **Mitigating Language Bias in Medical VQA via Causally-Inspired Intervention**  Qiaoying Teng, Jun Chen, Xingyu Wan, Kai Han, Chongwen Lyu, Chongshang Zhong, Deqi Yuan, **Zhe Liu***  *2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 4107–4110, **2025**.  [[DOI](https://doi.org/10.1109/BIBM66473.2025.11356787)]  [[Publisher](https://ieeexplore.ieee.org/document/11356787)]
 
 [105] **A Global Visual Information Intervention Model for Medical Visual Question Answering**  Peixi Peng, Wanshu Fan, Yue Shen, Xin Yang, Dongsheng Zhou  *Computers in Biology and Medicine*, **192, Part A**, 110195, **2025**.  [[DOI](https://doi.org/10.1016/j.compbiomed.2025.110195)]  [[Publisher](https://www.sciencedirect.com/science/article/pii/S0010482525005463)  [PubMed](https://pubmed.ncbi.nlm.nih.gov/40294480/)]
 
@@ -455,7 +459,7 @@ This project is suitable for the following research and teaching scenarios:
 
 [110] **Med-BiasX: Robust Medical Visual Question Answering with Language Biases**  Huanjia Zhu, **Yishu Liu\***, Chengju Zhou, Guangming Lu, **Bingzhi Chen\***  *Medical Image Computing and Computer Assisted Intervention – MICCAI 2025*, **LNCS 15973**, 369–378, **2025**.  [DOI](https://doi.org/10.1007/978-3-032-05185-1_36)  [MICCAI](https://papers.miccai.org/miccai-2025/0538-Paper5135.html)  [Code](https://github.com/bvyih3/Med-BiasX)
 
-[111] **Anomaly-aware mutual promotion network for medical visual question answering**  Jiong Teng, Li Xi, Feihong Luo, Jing Zhang, Jing Wu  *Knowledge-Based Systems*, **340**, 115688, **2026**.  [DOI](https://doi.org/10.1016/j.knosys.2026.115688)  [Publisher](https://www.sciencedirect.com/science/article/pii/S0950705126004284)  [Code](https://github.com/jiongdemieshi/TMMPN)
+[111] **Anomaly-aware mutual promotion network for medical visual question answering**  Jiong Teng, Li Xi, Feihong Luo, Jing Zhang, Jing Wu  *Knowledge-Based Systems*, **340**, 115688, **2026**.  [DOI](https://doi.org/10.1016/j.knosys.2026.115688) | [Publisher](https://www.sciencedirect.com/science/article/pii/S0950705126004284) | [Code](https://github.com/jiongdemieshi/TMMPN)
 
 [112] **CIMB-MVQA: Causal Intervention on Modality-specific Biases for Medical Visual Question Answering**  Bing Liu, [**Lijun Liu\***](https://scholar.google.com/citations?user=bi_u1-sAAAAJ), Jiaman Ding, Xiaobing Yang, Wei Peng, Li Liu  *Medical Image Analysis*, **107**(Pt B), 103850, 2026.  [[DOI](https://doi.org/10.1016/j.media.2025.103850)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S1361841525003962)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/41172593/)] [[Code](https://github.com/cloneiq/CIMB-MVQA)]
 
