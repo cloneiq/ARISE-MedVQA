@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/arise-medvqa-sig-cover.png" alt="ARISE-MedVQA Banner" width="80%"/>
-</p>
+<img src="./images/arise-medvqa-sig-resource-hub-cover-1794127661342-1.webp" alt="arise-medvqa-sig-resource-hub-cover" style="zoom: 50%;" />
+
 <p align="center">
   <b>A curated academic resource hub for ARISE-MedVQA</b><br>
   From Passive Answering to Active Inquiry · Evidence-Driven Reasoning · Medical Visual Question Answering
