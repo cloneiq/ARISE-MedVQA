@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./imgs/arise-medvqa-sig-resource-hub-cover.webp" alt="ARISE-MedVQA Banner" />
+  <img src="./images/arise-medvqa-sig-cover.webp" alt="ARISE-MedVQA Banner" width="90%"/>
 </p>
+
 
 
 <p align="center">
@@ -39,8 +40,6 @@ This project is suitable for the following research and teaching scenarios:
 - Teams interested in building medical multimodal datasets, evaluation frameworks, or active diagnostic interaction systems.
 
 **We will continue to update and refine this repository to keep it aligned with the latest progress in Med-VQA and related medical multimodal AI research.**
-
-
 
 # Survey
 [1] **Task-Specific Models vs. Large Vision-Language Models in Medical Visual Question Answering: A Survey**  Huahu Xu, Qishen Chen, Wenxuan He, Xingyuan Chen, [**Honghao Gao***](https://scholar.google.com/citations?user=PiiIpJIAAAAJ)   *Expert Systems with Applications*, 2026, 132008.   [[DOI](https://doi.org/10.1016/j.eswa.2026.132008)] [[Publisher](https://www.sciencedirect.com/science/article/pii/S095741742600123X)]
