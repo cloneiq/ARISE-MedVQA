@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/arise-medvqa-sig-cover.png" alt="ARISE-MedVQA Banner" width="90%"/>
+  <img src="images/arise-medvqa-sig-cover.webp" alt="ARISE-MedVQA Banner" width="90%"/>
 </p>
 <p align="center">
   <b>A curated academic resource hub for ARISE-MedVQA</b><br>
