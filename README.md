@@ -67,6 +67,12 @@ Each paper has one primary collection, determined by its main contribution. Cros
 
 # [1. Surveys & Reviews](catalog/Survey/README.md)
 
+[2026-07] Task-specific models vs. large vision-language models in medical visual question answering: A survey. [DOI](https://doi.org/10.1016/j.eswa.2026.132008)
+
+[2026-05] Foundation Model for Medical Imaging: A Comprehensive Review. [DOI](https://doi.org/10.1016/j.eswa.2026.132008)
+
+[2026-03] Vision–language foundation model driven agentic AI systems for healthcare. [DOI](https://doi.org/10.1007/s00371-026-04437-7)
+
 | Date    | Title                                                        | DOI                                                      |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 2026-07 | Task-specific models vs. large vision-language models in medical visual question answering: A survey | [DOI](https://doi.org/10.1016/j.eswa.2026.132008)        |
