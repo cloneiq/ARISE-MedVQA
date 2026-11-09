@@ -10,8 +10,6 @@ This page presents a structured collection of 354 publications on Medical Visual
 | [**Methods & Algorithms**](Method/README.md)              |    203 | Task-specific architectures, learning mechanisms, and original algorithms |
 | [**Foundation Models & Backbones**](Foundation/README.md) |     64 | Pretraining, transferable representations, and reusable model components |
 
-
-
 # Table of Contents
 
 - [1. Surveys & Reviews](#section-1)
@@ -43,7 +41,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 # 1. Surveys & Reviews
 
-| 日期    | 标题                                                         | DOI                                                      |
+| Date    | Title                                                        | DOI                                                      |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 2026-07 | [MedVQA-2026-051](./Paper_Notes/Survey/2026/MedVQA-2026-051_SV_TSMVLVLMMVQAS.md) · Task-specific models vs. large vision-language models in medical visual question answering: A survey | [DOI](https://doi.org/10.1016/j.eswa.2026.132008)        |
 | 2026-05 | [MedVQA-2026-029](./Paper_Notes/Survey/2026/MedVQA-2026-029_SV_FMICR.md) · Foundation Model for Medical Imaging: A Comprehensive Review | [DOI](https://doi.org/10.1109/tai.2025.3618796)          |
@@ -77,7 +75,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 2.1. General Medical VQA Datasets
 
-| 日期    | 标题                                                         | DOI                                                   |
+| Date    | Title                                                        | DOI                                                   |
 | ------- | ------------------------------------------------------------ | ----------------------------------------------------- |
 | 2024-12 | [MedVQA-2024-074](./Paper_Notes/Dataset/2024/MedVQA-2024-074_DS_PMC-VQA.md) · Development of a large-scale medical visual question-answering dataset | [DOI](https://doi.org/10.1038/s43856-024-00709-2)     |
 | 2022-07 | [MedVQA-2022-006](./Paper_Notes/Dataset/2022/MedVQA-2022-006_DS_OVQA.md) · OVQA A Clinically Generated Visual Question Answering Dataset | [DOI](https://doi.org/10.1145/3477495.3531724)        |
@@ -87,7 +85,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 2.2. Image–Text Pretraining & Instruction Data
 
-| 日期    | 标题                                                         | DOI                                                    |
+| Date    | Title                                                        | DOI                                                    |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------ |
 | 2026-04 | [MedVQA-2024-073](./Paper_Notes/Dataset/2025/MedVQA-2024-073_DS_MedMax.md) · MedMax: Mixed-Modal Instruction Tuning for Training Biomedical Assistants | [DOI](https://doi.org/10.52202/085713-3588)            |
 | 2025-06 | [MedVQA-2025-055](./Paper_Notes/Dataset/2025/MedVQA-2025-055_DS_BIOMEDICA.md) · BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature | [DOI](https://doi.org/10.1109/cvpr52734.2025.01837)    |
@@ -97,7 +95,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 2.3. Radiology & Volumetric Imaging
 
-| 日期              | 标题                                                         | DOI                                                          |
+| Date              | Title                                                        | DOI                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-09           | [MedVQA-2026-059](./Paper_Notes/Dataset/2026/MedVQA-2026-059_DS_SpineXR-VQA.md) · SpineXR-VQA: A Clinically-Validated Visual Question Answering Dataset for Spine X-Rays | [DOI](https://doi.org/10.1145/3820903)                       |
 | 2026-06           | [MedVQA-2026-042](./Paper_Notes/Dataset/2026/MedVQA-2026-042_DS_GIV-CXR.md) · GIV-CXR: Densely Grounded, Visually Interpretable Chest X-ray Question Answering Dataset | [论文](https://openaccess.thecvf.com/content/CVPR2026W/Med-Reasoner/html/Bavana_GIV-CXR_Densely_Grounded_Visually_Interpretable_Chest_X-ray_Question_Answering_Dataset_CVPRW_2026_paper.html) |
@@ -114,7 +112,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 2.4. Pathology & Whole-Slide Imaging
 
-| 日期              | 标题                                                         | DOI                                                   |
+| Date              | Title                                                        | DOI                                                   |
 | ----------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
 | 2024-07（预印本） | [MedVQA-2024-041](./Paper_Notes/Dataset/2024/MedVQA-2024-041_DS_TM-PATHVQA.md) · TM-PATHVQA: 90000+ Textless Multilingual Questions for Medical Visual Question Answering | [DOI](https://doi.org/10.21437/Interspeech.2024-1036) |
 | 2021-08           | [MedVQA-2021-001](./Paper_Notes/Dataset/2021/MedVQA-2021-001_DS_PathVQA.md) · Towards Visual Question Answering on Pathology Images | [DOI](https://doi.org/10.18653/v1/2021.acl-short.90)  |
@@ -123,7 +121,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 2.5. Endoscopy, Surgery & Medical Video
 
-| 日期    | 标题                                                         | DOI                                                |
+| Date    | Title                                                        | DOI                                                |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------- |
 | 2025-10 | [MedVQA-2025-059](./Paper_Notes/Dataset/2026/MedVQA-2025-059_DS_Kvasir-VQA-x1.md) · Kvasir-VQA-x1:A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy | [DOI](https://doi.org/10.1007/978-3-032-08009-7_6) |
 | 2024-10 | [MedVQA-2024-064](./Paper_Notes/Dataset/2024/MedVQA-2024-064_DS_Kvasir-VQA.md) · Kvasir-VQA: A Text-Image Pair GI Tract Dataset | [DOI](https://doi.org/10.1145/3689096.3689458)     |
@@ -133,7 +131,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 2.6. Other Specialties, Education & Dialogue
 
-| 日期              | 标题                                                         | DOI                                                 |
+| Date              | Title                                                        | DOI                                                 |
 | ----------------- | ------------------------------------------------------------ | --------------------------------------------------- |
 | 2026              | [MedVQA-2026-003](./Paper_Notes/Dataset/2026/MedVQA-2026-003_DS_MaxVQA.md) · MaxVQA: A Large-Scale Multi-Source Dataset for Explanatory Visual Question Answering in Mammography | [DOI](https://doi.org/10.1109/jbhi.2026.3736729)    |
 | 2025-12（预印本） | [MedVQA-2025-122](./Paper_Notes/Dataset/2025/MedVQA-2025-122_DS_DermaVQA-DAS.md) · DermaVQA-DAS: Dermatology Assessment Schema (DAS) & Datasets for Closed-Ended Question Answering & Segmentation in Patient-Generated Dermatology Images | [DOI](https://doi.org/10.48550/arXiv.2512.24340)    |
@@ -150,7 +148,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 3.1. Benchmark Resources & Shared Tasks
 
-| 日期              | 标题                                                         | DOI                                                          |
+| Date              | Title                                                        | DOI                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-09           | [MedVQA-2026-035](./Paper_Notes/Benchmark/2027/MedVQA-2026-035_BM_CT-SpatialVQA.md) · Lost in Volume: The CT-SpatialVQA Benchmark for Evaluating Semantic-Spatial Understanding of 3D Medical Vision–Language Models | [DOI](https://doi.org/10.1007/978-3-032-38470-6_16)          |
 | 2026-09           | [MedVQA-2026-065](./Paper_Notes/Benchmark/2026/MedVQA-2026-065_BM_RoboSurg-VQA.md) · RoboSurg-VQA: A Multimodal Visual Question Answering Benchmark Derived from Surgical Segmentation Data | [DOI](https://doi.org/10.3390/make8100300)                   |
@@ -183,7 +181,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 3.2. Capability & Comparative Studies
 
-| 日期    | 标题                                                         | DOI                                                      |
+| Date    | Title                                                        | DOI                                                      |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 2026-08 | [MedVQA-2026-066](./Paper_Notes/Benchmark/2026/MedVQA-2026-066_BM_CAF-RAG.md) · When does retrieval help medical question answering? A question-type sensitivity analysis and failure taxonomy for text-based (image-free) medical RAG, with an interpretable clinical filter (CAF-RAG) | [DOI](https://doi.org/10.1016/j.imu.2026.101810)         |
 | 2026-02 | [MedVQA-2026-014](./Paper_Notes/Benchmark/2026/MedVQA-2026-014_BM_OphthalWeChat.md) · Benchmarking large multimodal models for ophthalmic visual question answering with OphthalWeChat | [DOI](https://doi.org/10.1016/j.aopr.2025.10.006)        |
@@ -196,7 +194,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 3.3. Reliability & Evaluation Protocols
 
-| 日期    | 标题                                                         | DOI                                                          |
+| Date    | Title                                                        | DOI                                                          |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-06 | [MedVQA-2026-047](./Paper_Notes/Benchmark/2026/MedVQA-2026-047_BM_Schema-Metadata.md) · Schema Affects Evaluation Conclusions: Metadata Context in Medical VLM Benchmarks | [论文](https://openaccess.thecvf.com/content/CVPR2026W/DataCV/html/Jarquin_Schema_Affects_Evaluation_Conclusions_Metadata_Context_in_Medical_VLM_Benchmarks_CVPRW_2026_paper.html) |
 | 2025-09 | [MedVQA-2025-084](./Paper_Notes/Benchmark/2026/MedVQA-2025-084_BM_MS-FBI.md) · Confidence Calibration for Multimodal LLMs: An Empirical Study Through Medical VQA | [DOI](https://doi.org/10.1007/978-3-032-04978-0_9)           |
@@ -212,7 +210,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 4.1. Reusable Visual & Vision-Language Encoders
 
-| 日期    | 标题                                                         | DOI                                                      |
+| Date    | Title                                                        | DOI                                                      |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 2026-01 | [MedVQA-2026-006](./Paper_Notes/Foundation/2026/MedVQA-2026-006_FM_CMES2LIP.md) · Convolutional masked encoder and contrastive learning for small-scale medical language-image pre-training | [DOI](https://doi.org/10.1016/j.bspc.2025.108308)        |
 | 2025-12 | [MedVQA-2025-113](./Paper_Notes/Foundation/2025/MedVQA-2025-113_FM_Med-GLIP.md) · Med-GLIP: Advancing Medical Language-Image Pre-Training with Large-Scale Grounded Dataset | [DOI](https://doi.org/10.1109/bibm66473.2025.11357141)   |
@@ -250,7 +248,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 4.2. Generalist Biomedical Vision-Language Models
 
-| 日期    | 标题                                                         | DOI                                                        |
+| Date    | Title                                                        | DOI                                                        |
 | ------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | 2026-06 | [MedVQA-2026-043](./Paper_Notes/Foundation/2026/MedVQA-2026-043_FM_Med-R1.md) · Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models | [DOI](https://doi.org/10.1109/tmi.2026.3661001)            |
 | 2026-05 | [MedVQA-2026-034](./Paper_Notes/Foundation/2026/MedVQA-2026-034_FM_LLaMA32-Med.md) · LLaMA32-Med: Parameter-Efficient Adaptation of Multimodal LLMs for Medical Visual Question Answering | [论文](https://proceedings.mlr.press/v315/dong26a.html)    |
@@ -276,7 +274,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 4.3. Specialty & Grounded Vision-Language Models
 
-| 日期    | 标题                                                         | DOI                                                          |
+| Date    | Title                                                        | DOI                                                          |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-05 | [MedVQA-2023-045](./Paper_Notes/Foundation/2026/MedVQA-2023-045_FM_RaDialog.md) · RaDialog: Large Vision-Language Models for X-Ray Reporting and Dialog-Driven Assistance | [论文](https://proceedings.mlr.press/v301/pellegrini26a.html) |
 | 2026-02 | [MedVQA-2026-016](./Paper_Notes/Foundation/2026/MedVQA-2026-016_FM_GK-MVLP.md) · Grounded knowledge-enhanced medical vision–language pre-training for chest X-ray | [DOI](https://doi.org/10.1016/j.bspc.2025.108416)            |
@@ -301,7 +299,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 5.1. Architectures & Multimodal Fusion
 
-| 日期    | 标题                                                         | DOI                                                          |
+| Date    | Title                                                        | DOI                                                          |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-09 | [MedVQA-2026-063](./Paper_Notes/Method/2027/MedVQA-2026-063_MD_Proto-CAP.md) · Proto-CAP: Prototype Memory Fusion and Curriculum-Adaptive Loss for Pediatric Myopia Visual Question Answering | [DOI](https://doi.org/10.1007/978-3-032-38059-3_43)          |
 | 2026-07 | [MedVQA-2026-050](./Paper_Notes/Method/2026/MedVQA-2026-050_MD_PMAM-DGFM.md) · Parallel Multi-Attention and Gated Fusion for Visual Question Localized Answering in Surgical Scenes | [DOI](https://doi.org/10.1109/jbhi.2025.3648589)             |
@@ -357,7 +355,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 5.2. Representation Learning & Cross-modal Alignment
 
-| 日期    | 标题                                                         | DOI                                                      |
+| Date    | Title                                                        | DOI                                                      |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 2026-07 | [MedVQA-2026-001](./Paper_Notes/Method/2026/MedVQA-2026-001_MD_DEPO.md) · Beyond Surface Features: Advancing Medical Vision-Language Alignment via Dynamic Evidence-Guided Preference Optimization | [DOI](https://doi.org/10.18653/v1/2026.acl-long.1200)    |
 | 2026-05 | [MedVQA-2026-030](./Paper_Notes/Method/2026/MedVQA-2026-030_MD_Med-MGIA.md) · Dual-Guided Multi-Granularity Implicit Alignment Network for Medical Visual Question Answering | [DOI](https://doi.org/10.1109/icassp55912.2026.11461438) |
@@ -382,7 +380,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 5.3. Knowledge-enhanced & Retrieval-augmented Methods
 
-| 日期    | 标题                                                         | DOI                                                          |
+| Date    | Title                                                        | DOI                                                          |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-09 | [MedVQA-2026-061](./Paper_Notes/Method/2027/MedVQA-2026-061_MD_MEC.md) · MEC: Medical Evidence Capsules for Retrieval-Augmented Generation in Medical Multimodal Question Answering | [DOI](https://doi.org/10.1007/978-3-032-38059-3_29)          |
 | 2026-07 | [MedVQA-2026-005](./Paper_Notes/Method/2026/MedVQA-2026-005_MD_MedKInstruct.md) · MedKInstruct: A Multimodal Knowledge Graph Based Framework for Multi-Hop and Hard-Negative Instruction Data Synthesis in MedVQA | [DOI](https://doi.org/10.18653/v1/2026.findings-acl.1391)    |
@@ -414,7 +412,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 5.4. Prompt Learning & Efficient Adaptation
 
-| 日期    | 标题                                                         | DOI                                                      |
+| Date    | Title                                                        | DOI                                                      |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 2026-09 | [MedVQA-2026-060](./Paper_Notes/Method/2027/MedVQA-2026-060_MD_M3D-QAdapter.md) · M3D-QAdapter: 3D Medical VQA with Lesion-Level Finding-Segmentation Alignment and Query-Driven Adaptive Token Reduction | [DOI](https://doi.org/10.1007/978-3-032-38062-3_34)      |
 | 2026-07 | [MedVQA-2025-021](./Paper_Notes/Method/2026/MedVQA-2025-021_MD_PitVQA-PlusPlus.md) · PitVQA++: Vector Matrix-Low-Rank Adaptation for Open-Ended Visual Question Answering in Pituitary Surgery | [DOI](https://doi.org/10.1109/tmi.2026.3681175)          |
@@ -447,7 +445,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 5.5. Reasoning & Answer Generation
 
-| 日期    | 标题                                                         | DOI                                                          |
+| Date    | Title                                                        | DOI                                                          |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-09 | [MedVQA-2026-039](./Paper_Notes/Method/2027/MedVQA-2026-039_MD_EchoVQA.md) · EchoVQA: Enabling Conversational Assistance for Point-of-Care Cardiac Ultrasound | [DOI](https://doi.org/10.1007/978-3-032-38059-3_14)          |
 | 2026-09 | [MedVQA-2026-052](./Paper_Notes/Method/2027/MedVQA-2026-052_MD_IRIS.md) · IRIS: An Intelligent Vision-Language System for Ocular Surface Diseases via Topic Tree and Scene-Driven VQA Generation | [DOI](https://doi.org/10.1007/978-3-032-38059-3_22)          |
@@ -488,7 +486,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 5.6. Reliability, Generalization & Debiasing
 
-| 日期    | 标题                                                         | DOI                                                          |
+| Date    | Title                                                        | DOI                                                          |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2026-09 | [MedVQA-2026-021](./Paper_Notes/Method/2027/MedVQA-2026-021_MD_CEBaG.md) · Deterministic Hallucination Detection in Medical VQA via Confidence-Evidence Bayesian Gain | [DOI](https://doi.org/10.1007/978-3-032-38059-3_13)          |
 | 2026-09 | [MedVQA-2026-023](./Paper_Notes/Method/2027/MedVQA-2026-023_MD_LCT.md) · Learning to Trim: End-to-End Causal Graph Pruning with Dynamic Anatomical Feature Banks for Medical VQA | [DOI](https://doi.org/10.1007/978-3-032-38059-3_25)          |
@@ -534,7 +532,7 @@ This page presents a structured collection of 354 publications on Medical Visual
 
 ## 5.7. Agentic & Tool-augmented Systems
 
-| 日期    | 标题                                                         | DOI                                                         |
+| Date    | Title                                                        | DOI                                                         |
 | ------- | ------------------------------------------------------------ | ----------------------------------------------------------- |
 | 2026-08 | [MedVQA-2026-057](./Paper_Notes/Method/2026/MedVQA-2026-057_MD_NCRAgent.md) · NCRAgent: A Neuro-Inspired Multiagent Framework for Transparent and Explainable Medical VQA | [DOI](https://doi.org/10.1109/tai.2026.3668173)             |
 | 2026-05 | [MedVQA-2026-033](./Paper_Notes/Method/2026/MedVQA-2026-033_MD_SRD.md) · Multi-Agent Diagnostic Collaboration and Segmentation-Aware Residual Decoding for Hallucination-Resistant Medical VQA | [DOI](https://doi.org/10.1109/icassp55912.2026.11464397)    |
