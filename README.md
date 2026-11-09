@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/arise-medvqa-sig-cover.webp" alt="ARISE-MedVQA Banner" width="80%"/>
+  <img src="./images/arise-medvqa-sig-resource-hub-cover.webp" alt="ARISE-MedVQA Banner" width="80%"/>
 </p>
 <p align="center">
   <b>A curated academic resource hub for ARISE-MedVQA</b><br>
@@ -65,7 +65,7 @@ Each paper has one primary collection, determined by its main contribution. Cros
 
 <a id="section-1"></a>
 
-# 1. Surveys & Reviews
+# [1. Surveys & Reviews](catalog/Survey/README.md)
 
 | Date    | Title                                                        | DOI                                                      |
 | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
@@ -97,7 +97,7 @@ Each paper has one primary collection, determined by its main contribution. Cros
 
 <a id="section-2"></a>
 
-# 2. Datasets & Data Resources
+# [2. Datasets & Data Resources](catalog/Dataset/README.md)
 
 <a id="section-2.1"></a>
 
@@ -172,7 +172,7 @@ Each paper has one primary collection, determined by its main contribution. Cros
 
 <a id="section-3"></a>
 
-# 3. Benchmarks & Evaluation
+# [3. Benchmarks & Evaluation](catalog/Benchmark/README.md)
 
 <a id="section-3.1"></a>
 
@@ -234,7 +234,7 @@ Each paper has one primary collection, determined by its main contribution. Cros
 
 <a id="section-4"></a>
 
-# 4. Foundation Models & Reusable Backbones
+# [4. Foundation Models & Reusable Backbones](catalog/Foundation/README.md)
 
 <a id="section-4.1"></a>
 
@@ -325,7 +325,7 @@ Each paper has one primary collection, determined by its main contribution. Cros
 
 <a id="section-5"></a>
 
-# 5. Methods & Systems
+# [5. Methods & Systems](catalog/Method/README.md)
 
 <a id="section-5.1"></a>
 
